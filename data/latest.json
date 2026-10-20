@@ -1,6 +1,68 @@
 {
-  "date": "2026-10-19",
-  "generated_at": "2026-10-19T00:00:00Z",
-  "method": "historical archive; automation not run",
-  "stories": []
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T01:57:07.332948+00:00",
+  "method": "headline-only, not independently verified",
+  "stories": [
+    {
+      "type": "待核实线索",
+      "title": "New AI tool can predict cancer survival by a single patient selfie",
+      "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
+      "why": "需要阅读原文核实具体事实和影响。",
+      "action": "打开原文并记录三个关键事实。",
+      "url": "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie",
+      "source": "www.theguardian.com",
+      "date": "2026-10-20"
+    },
+    {
+      "type": "待核实线索",
+      "title": "Show HN: Privacy Layer for Frontier Models",
+      "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
+      "why": "需要阅读原文核实具体事实和影响。",
+      "action": "打开原文并记录三个关键事实。",
+      "url": "https://privai-sandy.vercel.app/",
+      "source": "privai-sandy.vercel.app",
+      "date": "2026-10-20"
+    },
+    {
+      "type": "待核实线索",
+      "title": "Ukrainian drone flies wounded soldier from front line",
+      "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
+      "why": "需要阅读原文核实具体事实和影响。",
+      "action": "打开原文并记录三个关键事实。",
+      "url": "https://www.abc.net.au/news/2026-10-20/ukraine-airlifts-wounded-soldier-with-drone-in-world-first/107286436",
+      "source": "www.abc.net.au",
+      "date": "2026-10-20"
+    },
+    {
+      "type": "待核实线索",
+      "title": "US banning Chinese AI DeepSeek from government agency IT systems",
+      "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
+      "why": "需要阅读原文核实具体事实和影响。",
+      "action": "打开原文并记录三个关键事实。",
+      "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
+      "source": "www.reuters.com",
+      "date": "2026-10-20"
+    },
+    {
+      "type": "待核实线索",
+      "title": "Built a Compiler from Scratch for Agent Swarms",
+      "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
+      "why": "需要阅读原文核实具体事实和影响。",
+      "action": "打开原文并记录三个关键事实。",
+      "url": "https://spinozalabs.ai/software",
+      "source": "spinozalabs.ai",
+      "date": "2026-10-20"
+    },
+    {
+      "type": "待核实线索",
+      "title": "AI experts to school Congress wanted",
+      "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
+      "why": "需要阅读原文核实具体事实和影响。",
+      "action": "打开原文并记录三个关键事实。",
+      "url": "https://www.politico.com/live-updates/2026/10/19/congress/what-were-watching-01125931",
+      "source": "www.politico.com",
+      "date": "2026-10-20"
+    }
+  ],
+  "candidate_count": 12
 }
