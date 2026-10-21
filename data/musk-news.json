@@ -1,38 +1,38 @@
 {
   "schema_version": 1,
-  "attempted_at": "2026-10-21T12:16:53.285112+00:00",
-  "last_success_at": "2026-10-21T12:16:53.285112+00:00",
+  "attempted_at": "2026-10-21T12:19:26.472994+00:00",
+  "last_success_at": "2026-10-21T12:19:26.472994+00:00",
   "status": "ok",
   "sources": [
     {
       "topic": "Elon Musk",
       "url": "https://news.google.com/rss/search?q=%22Elon+Musk%22+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "last_success_at": "2026-10-21T12:16:53.285112+00:00"
+      "last_success_at": "2026-10-21T12:19:26.472994+00:00"
     },
     {
       "topic": "xAI",
       "url": "https://news.google.com/rss/search?q=%22xAI%22+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "last_success_at": "2026-10-21T12:16:53.285112+00:00"
+      "last_success_at": "2026-10-21T12:19:26.472994+00:00"
     },
     {
       "topic": "Tesla",
       "url": "https://news.google.com/rss/search?q=%22Tesla%22+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "last_success_at": "2026-10-21T12:16:53.285112+00:00"
+      "last_success_at": "2026-10-21T12:19:26.472994+00:00"
     },
     {
       "topic": "SpaceX",
       "url": "https://news.google.com/rss/search?q=%22SpaceX%22+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "last_success_at": "2026-10-21T12:16:53.285112+00:00"
+      "last_success_at": "2026-10-21T12:19:26.472994+00:00"
     },
     {
       "topic": "Neuralink",
       "url": "https://news.google.com/rss/search?q=%22Neuralink%22+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "last_success_at": "2026-10-21T12:16:53.285112+00:00"
+      "last_success_at": "2026-10-21T12:19:26.472994+00:00"
     }
   ],
   "items": [
@@ -86,11 +86,11 @@
       "published_at": "2026-10-20T22:57:53+00:00"
     },
     {
-      "title": "SpaceX will attempt 1st-ever double Starship rocket catch on next test launch, Elon Musk says - Space",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOUzVtaDlJRmdobGlFM0hQMThLZVdoWUp0YTFiZG5TVEZZSkN4YVFINlFYOTJWMVZFcWpjV3VJSkRtX0d1c0p6cFQzTWI2eTNOMzNNeW03OWk2V3ZJaDJMSWEwb1JpVkUwcFd0TXRuZy1ETzBILWd4X0lXaUIzR2ZvSjkxdnZ1cFlKUFBVeEQ4d0pKc2YtSnN1ODEzdXRsQ1lSQlFlRGZFTVphdnZldmNfY3VRNTlaQXhGVnR5X21HU0RiOHJCbnlYbEVUaEVSUmhPVk1MdGxQd2JxeERjcEFYOHBycW4ya2d5MHRJZzM4MmlaRXpxQzFsTVBFTmJQYWw2bFB3OFZrNXlKMzJqd0FfVTNn?oc=5",
-      "source": "Space",
+      "title": "Tesla and SpaceX Formed Committees to Discuss Potential Merger, Elon Musk Says - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZnBuOWFoU3p1dzRaWUl3eHYxenNhMlMyWnJJdU4xOXkza2xjNDA2MkVVMDd4Tkktdl95NkNZYlk5N0lndVNOVjhubzR3aXpyMWlKRF9RdmFpcnhTdXZDWHVDQ2pHVzRRU0Nwb0t3YjNPUnQ1ellybFZFQ0lnejJFU01DUHA3Xzg4cHJtYWpBaFpDQQ?oc=5",
+      "source": "WSJ",
       "topic": "SpaceX",
-      "published_at": "2026-10-20T22:29:46+00:00"
+      "published_at": "2026-10-20T22:47:00+00:00"
     },
     {
       "title": "Judge Lets NAACP Lawsuit Over Southaven xAI Turbines Proceed - DeSoto County News",
@@ -212,6 +212,13 @@
       "published_at": "2026-10-20T07:00:00+00:00"
     },
     {
+      "title": "Elon Musk’s partner Shivon Zilis confirms sudden split - Khabarhub",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBGQkRrTVdoVEFpb19qQ2lSclpXUVlNeTRGcFNYWVl0SU03bUh4ckhiRy13cXZ2TTNIVHdBVXhPcEJybG5oOFJBdnNKeXgyWGV3czdBbHlNeDA?oc=5",
+      "source": "Khabarhub",
+      "topic": "Neuralink",
+      "published_at": "2026-10-20T03:50:00+00:00"
+    },
+    {
       "title": "Pump.fun Launches Pre-IPO Tokens for OpenAI and Polymarket, Driving an 8% Surge in PUMP Price - KuCoin",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdUxDYWtYTFluOFB0cmxZN1RpY0JBRDJWaGNwY3ZRbVR2dml3VUxvQUFBdW16Yjg5dzdhOWtOQUNCQ09hNGZ2Wm55TEVvR0xXTnpZLVlKWVBrNWhHM1E3UHVYNEcwa1FhLWxLYzMxaDFBcnJleExFNU84NDJWeXNFdy1Ld2p2MjJpZVFGUUhDRXZKdHZTUXdrenJyY2VCYlJ3QUtTRkRxRFFWTTY3ekp6ZFh0NVg?oc=5",
       "source": "KuCoin",
@@ -233,17 +240,10 @@
       "published_at": "2026-10-20T00:09:21+00:00"
     },
     {
-      "title": "Tesla-SpaceX merger is 'not so easy': Analyst - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVUhQTTcwUnFPZktrOFVVM1QtMFhXajRTUktLdzZFelMwQTdjclNhbkF0UnJwcUpZa3RWQnl5NmlHLVFQZV9QdE53R0h0eGo1bWNYdDg0LTZEX2VIZURfd3NncjFwcU1kMUc5ekdfSGMxeUw2UXA2V3c5cmEwZVFVZFJUZW5UYmI1b19LbmZuMUVUV3dOZ2pyTDMxUU5zeXd5dk9NYjhPWDl2UQ?oc=5",
-      "source": "Yahoo Finance",
-      "topic": "Tesla",
-      "published_at": "2026-10-19T18:10:19+00:00"
-    },
-    {
       "title": "Elon Musk | SpaceX, Tesla, xAI, X, & PayPal | Britannica Money - Britannica",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNdHpuSkc2ZlF0QmthektsdS1WZXktbU5GX3liUUF4N2Z0SC1VLWRjVDdxMXk1WjlfTmF6U183LUpUYmdDblRBVklNUDBuMVB6NjVNZzZHejg4OXVjZ01RN3N1V2NSaUlhbnQ5UzhLTG12RG4zU2c?oc=5",
       "source": "Britannica",
-      "topic": "Neuralink",
+      "topic": "xAI",
       "published_at": "2026-10-19T12:58:00+00:00"
     },
     {
@@ -345,20 +345,6 @@
       "published_at": "2026-10-16T23:00:00+00:00"
     },
     {
-      "title": "He Wanted a Data Center Ban. He Got Banned From City Council. - Mother Jones",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMlJISkF4RmlUaUkzSXNqeVpMRWFCYlQ2Mm1XX0pwWjRTVU5nX0hWY3VYbmRkU0R3YXRFS3VJaXhKYjFpS1Rsb2JiX1VuRWltMFh3ZFhpOUViR2czOHQ1aW1Oa1hpNjNvNlhDR3VkYUl2SEFPSlRxZ3BXOTJwQzMwQWR0TjBaSTA4Qk44S090X2tOVXZNNlVvOTBUVVc0b3hMWDVoejE3bGdpLXFVYTZtaEYwZHpJbWE5Mnc?oc=5",
-      "source": "Mother Jones",
-      "topic": "xAI",
-      "published_at": "2026-10-16T19:45:01+00:00"
-    },
-    {
-      "title": "I Went to the Tesla Roadster Reveal. It Was Weird. And Wild - Edmunds",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wVkl2UEpCUHZuelZTTWd1dVB1ZXV3dXlLeWxOMmc1ZDhqakFMX3Q2V0hZODdsMWdXVlljalNGQnNnZzFrX0lYRDh2ZmhJYkZnd0VfcHFONDRsMFA4TmVJT3ZvTV9ROGwwNFIybGdNSnlSMFZ5?oc=5",
-      "source": "Edmunds",
-      "topic": "Tesla",
-      "published_at": "2026-10-16T16:46:15+00:00"
-    },
-    {
       "title": "Former worker alleges xAI released unsafe Grok models - Fox News",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oSUdRazM2MGxBc05CWE1uZ2hTX2JOcjhhOUlPakpRSGl2YUhscFcwQWVsdEU4bjh2TV9QdTJxbmJfX0tQbWhKWm1TRzdLS2hRRDZ2cTR3?oc=5",
       "source": "Fox News",
@@ -422,6 +408,13 @@
       "published_at": "2026-10-16T02:37:08+00:00"
     },
     {
+      "title": "Tesla unveils what it says is a flying car - CNN",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcDNkZ0NmTUtLYkNwbEUyRklCUE9rUnE4WHNfQk42d0ZHVUpoUGpQd1JMQWNUSElNQkVQbExQSmdWcVRnRXdjWEZMeHUxSVdOTVNCbHdHWGRBUGI3c2dxMnNrc3RqSExQZlBQb1g0bkYzMTZHb1RtNUpfSHRCZ1NDS0x5SnlVdFhWTmc?oc=5",
+      "source": "CNN",
+      "topic": "Tesla",
+      "published_at": "2026-10-16T02:34:00+00:00"
+    },
+    {
       "title": "What Is Grok Bot? xAI’s AI Agent Explained for Physicians - Passive Income MD",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5tczl1TTBqbzFzRVpfUjlRb0RTRXctWHpHVVRMQnVIV2JKWkhfajNZMGQ1VFVGTFRmd3I0SGVCR2xUTHItcGlpd2JDVzZ2OHlwNUptQU5XSlVRamNtZnpmdTNlOVZmVlNGeE0tN2ZhaVZITnF4NFFpWUl3?oc=5",
       "source": "Passive Income MD",
@@ -455,6 +448,13 @@
       "source": "InvestorPlace",
       "topic": "Neuralink",
       "published_at": "2026-10-15T19:30:54+00:00"
+    },
+    {
+      "title": "Tesla unveils long-delayed Roadster developed with SpaceX, fueling merger speculation - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYXd3R0lIcDdlTy1LXzQ1aWR0T25LSVZaNk40bWN4UWp1WEtvZUpTaHNsOFhKQ1VYbkhhdS05bVZqNjlwdVQyM25JOWZDSFpwSjEyRGZIWG4yenZEVk9zYWhhbHNTaDBQYWZnTTM4Mm1uaWgyejhnbFV6MUJfUktZTHJ4MnFROF9xQ091TjZ0MHRPMTlER0NB0gGcAUFVX3lxTE1WdGVyV0dabjVIMWFQUTlfU25fQkZJb21iUlV4UTIzXzV4NS1oTll3ZXQyNWhpd0hLWkYtY282OS1Qa3FMMmhmb0owVm0xb3k2cjJwaFRHS0pGekRFMkZ6bW5TaVczb2ZhTGFMbTRyOEJtYS1zS3Fiekh1WjMzLUxmTUd6cDBJTVUwaDJlSlE3Qkh0ejVtNlB6VXkwVw?oc=5",
+      "source": "CNBC",
+      "topic": "Tesla",
+      "published_at": "2026-10-15T18:19:35+00:00"
     }
   ]
 }
