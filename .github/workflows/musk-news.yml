@@ -1,0 +1,52 @@
+name: Refresh Musk News
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 */6 * * *'
+  push:
+    branches: [main]
+    paths: ['scripts/update_musk_news.py', '.github/workflows/musk-news.yml']
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: musk-news
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Fetch public RSS
+        id: fetch
+        continue-on-error: true
+        run: python scripts/update_musk_news.py
+      - name: Commit status and data, including failures
+        run: |
+          git config user.name 'ai-mastery-hub-bot'
+          git config user.email 'actions@users.noreply.github.com'
+          git add data/musk-news.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Refresh Musk RSS headlines and fetch status'
+            git pull --rebase origin main
+            git push
+          fi
+      # GITHUB_TOKEN commits do not trigger Pages builds: deploy explicitly.
+      - name: Prepare public site files
+        run: |
+          mkdir -p public/data
+          cp index.html elon-musk.html config.js phase1.js musk.js musk.css .nojekyll public/
+          cp data/*.json public/data/
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+      - uses: actions/deploy-pages@v4
+      - name: Surface incomplete refresh
+        if: steps.fetch.outcome == 'failure'
+        run: exit 1
