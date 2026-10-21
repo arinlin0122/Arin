@@ -28,6 +28,10 @@ def parse_feed(raw, topic, now):
             published = email.utils.parsedate_to_datetime(item.findtext('pubDate', '')).astimezone(dt.timezone.utc)
         except (ValueError, TypeError, AttributeError):
             continue
+        if not re.search(r'\b'+re.escape(topic)+r'\b', title, re.I):
+            continue
+        if topic == 'xAI' and re.search(r'floating rate|income trust|tender offer', title, re.I):
+            continue
         parsed = urllib.parse.urlparse(url)
         if not title or source is None or not source.text or parsed.scheme != 'https' or parsed.hostname != 'news.google.com':
             continue
