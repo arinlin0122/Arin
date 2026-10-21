@@ -1,67 +1,67 @@
 {
-  "date": "2026-10-20",
-  "generated_at": "2026-10-20T01:57:07.332948+00:00",
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T01:45:37.176625+00:00",
   "method": "headline-only, not independently verified",
   "stories": [
     {
       "type": "待核实线索",
-      "title": "New AI tool can predict cancer survival by a single patient selfie",
+      "title": "Show HN: Unterm – A pure-Rust terminal for humans and AI agents",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie",
-      "source": "www.theguardian.com",
-      "date": "2026-10-20"
+      "url": "https://github.com/zhitongblog/unterm",
+      "source": "github.com",
+      "date": "2026-10-21"
     },
     {
       "type": "待核实线索",
-      "title": "Show HN: Privacy Layer for Frontier Models",
+      "title": "Agentitter – a tiny plain-text social network you use through your AI agent",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://privai-sandy.vercel.app/",
-      "source": "privai-sandy.vercel.app",
-      "date": "2026-10-20"
+      "url": "https://agentitter.com/",
+      "source": "agentitter.com",
+      "date": "2026-10-21"
     },
     {
       "type": "待核实线索",
-      "title": "Ukrainian drone flies wounded soldier from front line",
+      "title": "Dataville Takes the Guesswork Out of Data for AI",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.abc.net.au/news/2026-10-20/ukraine-airlifts-wounded-soldier-with-drone-in-world-first/107286436",
-      "source": "www.abc.net.au",
-      "date": "2026-10-20"
+      "url": "https://www.dataville.com/blog/dataville-takes-the-guesswork-out-of-data-for-ai",
+      "source": "www.dataville.com",
+      "date": "2026-10-21"
     },
     {
       "type": "待核实线索",
-      "title": "US banning Chinese AI DeepSeek from government agency IT systems",
+      "title": "Secret trigger words could make AI-powered robots dangerous",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
-      "source": "www.reuters.com",
-      "date": "2026-10-20"
+      "url": "https://www.binghamton.edu/news/story/6544/secret-trigger-words-could-make-ai-powered-robots-dangerous-and-these-researchers-developed-a-defense",
+      "source": "www.binghamton.edu",
+      "date": "2026-10-21"
     },
     {
       "type": "待核实线索",
-      "title": "Built a Compiler from Scratch for Agent Swarms",
+      "title": "SpaceX revenue soars 161% as AI business grows",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://spinozalabs.ai/software",
-      "source": "spinozalabs.ai",
-      "date": "2026-10-20"
+      "url": "https://abcnews.com/Business/spacex-revenue-soars-161-ai-business-grows/story?id=137408509",
+      "source": "abcnews.com",
+      "date": "2026-10-21"
     },
     {
       "type": "待核实线索",
-      "title": "AI experts to school Congress wanted",
+      "title": "Ken Griffin Says AI 'Almost Certainly' in a Bubble",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.politico.com/live-updates/2026/10/19/congress/what-were-watching-01125931",
-      "source": "www.politico.com",
-      "date": "2026-10-20"
+      "url": "https://www.bloomberg.com/news/articles/2026-10-20/ken-griffin-says-ai-almost-certainly-in-a-bubble-right-now",
+      "source": "www.bloomberg.com",
+      "date": "2026-10-21"
     }
   ],
   "candidate_count": 12
