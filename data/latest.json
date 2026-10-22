@@ -1,67 +1,67 @@
 {
-  "date": "2026-10-21",
-  "generated_at": "2026-10-21T01:45:37.176625+00:00",
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T01:39:33.110908+00:00",
   "method": "headline-only, not independently verified",
   "stories": [
     {
       "type": "待核实线索",
-      "title": "Show HN: Unterm – A pure-Rust terminal for humans and AI agents",
+      "title": "Personal Agent Protocol",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://github.com/zhitongblog/unterm",
-      "source": "github.com",
-      "date": "2026-10-21"
+      "url": "https://sierra.ai/blog/introducing-personal-agent-protocol",
+      "source": "sierra.ai",
+      "date": "2026-10-22"
     },
     {
       "type": "待核实线索",
-      "title": "Agentitter – a tiny plain-text social network you use through your AI agent",
+      "title": "Show HN: HarnessHive – collaborative wiring harness design platform in browser",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://agentitter.com/",
-      "source": "agentitter.com",
-      "date": "2026-10-21"
+      "url": "https://harnesshive.com",
+      "source": "harnesshive.com",
+      "date": "2026-10-22"
     },
     {
       "type": "待核实线索",
-      "title": "Dataville Takes the Guesswork Out of Data for AI",
+      "title": "Data centers could erase decades of air quality gains",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.dataville.com/blog/dataville-takes-the-guesswork-out-of-data-for-ai",
-      "source": "www.dataville.com",
-      "date": "2026-10-21"
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+      "source": "www.theverge.com",
+      "date": "2026-10-22"
     },
     {
       "type": "待核实线索",
-      "title": "Secret trigger words could make AI-powered robots dangerous",
+      "title": "LiteLLM Security Update",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.binghamton.edu/news/story/6544/secret-trigger-words-could-make-ai-powered-robots-dangerous-and-these-researchers-developed-a-defense",
-      "source": "www.binghamton.edu",
-      "date": "2026-10-21"
+      "url": "https://docs.litellm.ai/blog/security-incident-oct-21-2026",
+      "source": "docs.litellm.ai",
+      "date": "2026-10-22"
     },
     {
       "type": "待核实线索",
-      "title": "SpaceX revenue soars 161% as AI business grows",
+      "title": "Can a malicious webpage hijack an AI agent?",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://abcnews.com/Business/spacex-revenue-soars-161-ai-business-grows/story?id=137408509",
-      "source": "abcnews.com",
-      "date": "2026-10-21"
+      "url": "https://victorribeiro.com/bots/",
+      "source": "victorribeiro.com",
+      "date": "2026-10-22"
     },
     {
       "type": "待核实线索",
-      "title": "Ken Griffin Says AI 'Almost Certainly' in a Bubble",
+      "title": "Databricks launches AI Runtime for managed GPU training on enterprise data",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-20/ken-griffin-says-ai-almost-certainly-in-a-bubble-right-now",
-      "source": "www.bloomberg.com",
-      "date": "2026-10-21"
+      "url": "https://www.databricks.com/blog/ai-runtime-generally-available",
+      "source": "www.databricks.com",
+      "date": "2026-10-22"
     }
   ],
   "candidate_count": 12
