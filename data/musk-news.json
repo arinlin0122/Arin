@@ -1,47 +1,61 @@
 {
   "schema_version": 1,
-  "attempted_at": "2026-10-21T21:43:45.181244+00:00",
-  "last_success_at": "2026-10-21T21:43:45.181244+00:00",
+  "attempted_at": "2026-10-22T04:47:32.510666+00:00",
+  "last_success_at": "2026-10-22T04:47:32.510666+00:00",
   "status": "ok",
   "sources": [
     {
       "topic": "Elon Musk",
       "url": "https://news.google.com/rss/search?q=%22Elon+Musk%22+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "last_success_at": "2026-10-21T21:43:45.181244+00:00"
+      "last_success_at": "2026-10-22T04:47:32.510666+00:00"
     },
     {
       "topic": "xAI",
       "url": "https://news.google.com/rss/search?q=%22xAI%22+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "last_success_at": "2026-10-21T21:43:45.181244+00:00"
+      "last_success_at": "2026-10-22T04:47:32.510666+00:00"
     },
     {
       "topic": "Tesla",
       "url": "https://news.google.com/rss/search?q=%22Tesla%22+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "last_success_at": "2026-10-21T21:43:45.181244+00:00"
+      "last_success_at": "2026-10-22T04:47:32.510666+00:00"
     },
     {
       "topic": "SpaceX",
       "url": "https://news.google.com/rss/search?q=%22SpaceX%22+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "last_success_at": "2026-10-21T21:43:45.181244+00:00"
+      "last_success_at": "2026-10-22T04:47:32.510666+00:00"
     },
     {
       "topic": "Neuralink",
       "url": "https://news.google.com/rss/search?q=%22Neuralink%22+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "last_success_at": "2026-10-21T21:43:45.181244+00:00"
+      "last_success_at": "2026-10-22T04:47:32.510666+00:00"
     }
   ],
   "items": [
     {
-      "title": "Elon Musk Was Briefly A Trillionaire Again After SpaceX, Tesla Surge Pushed Net Worth Up $88 Billion - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZ1lUd185Ym1DV2Q0N0t3ZC11UjJYeldXSklwOFBramRnUVZyajdUSXRtQjV0YVRoSFU5bkhQUlpTbmdsUkRDc3ozdXd5VVpISzdZdUNmNWRMSjVfcUl3TmxITDVqWU0xd2ZZSmxjY2o3RWsweXVlYzAyYUZaVERTc1dxRjVEeUdvZWswenc1UEFlamZneDRMWFZRY1VDMF9mSTBpYkhVZ2xfYlNkeDVIak9oTk45QUprRktNaHo1RUhEMFd5NjlvdmRQWG1QUGlKOWc?oc=5",
-      "source": "Forbes",
-      "topic": "Elon Musk",
-      "published_at": "2026-10-21T21:22:43+00:00"
+      "title": "Elon Musk's ex-girlfriend must face xAI forum countersuit - Courthouse News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ0tlLS1mSWcyVnJNb25seEdYQTYteVhLLThDaFpEaGtJN0ExZFI0YTdtelVnQ0hRVGlGYzhOVDA3c0lSSk9iNEdiMi1JQ29telgyMnlFeWF2ODZFdFdINVJRRTRQdHNNUGZGSHB1dWdlRUx6TW9qQXgtU24yU1Y2RUZVRFJ6eExmank5QlAxR25oZw?oc=5",
+      "source": "Courthouse News",
+      "topic": "xAI",
+      "published_at": "2026-10-22T03:32:48+00:00"
+    },
+    {
+      "title": "Musk Says Tesla Aims to Begin Humanoid Robot Sales Next Year - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb09OVGpVM3FDM3I4RzJVTnVHcDk5c0Z5aHVEVS1BZ2RDRnVpQU13Yld0VTdWS0xBb3JGbWVzSHhZU0J0cVVUWjBlZWVNM3FDTGJOOWtFN2EwMTlkN1VmcjJSTDhiVnpYMFByX2c4RFhfd3pRSU0tSEhtcnlldGx1NU9GWGo3aVctSFRvTg?oc=5",
+      "source": "WSJ",
+      "topic": "Tesla",
+      "published_at": "2026-10-22T00:05:00+00:00"
+    },
+    {
+      "title": "Tesla Profit Slumps as Elon Musk’s Car Company Considers Merging With SpaceX - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5EeFVqWkVVT2NLR2NIeUYtcXEyXzVVeXRhSDVTbm5WV2ZkckMyLXNpR1FYUmYzbU43NXBSNHltQ1JpZHhMTGVCb0V5WF9IQ3ZDV2NlRVRMZ3JMYVFhMjNISmF4NmtxOWV1cFp0dWhkcDdKMkpyNUZYZmpMSWk2QQ?oc=5",
+      "source": "The New York Times",
+      "topic": "Tesla",
+      "published_at": "2026-10-21T23:06:24+00:00"
     },
     {
       "title": "Elon Musk Says SpaceX and Tesla Are Exploring a Merger - The New York Times",
@@ -51,14 +65,14 @@
       "published_at": "2026-10-21T20:57:22+00:00"
     },
     {
-      "title": "Space X and Tesla exploring merger, CEO Elon Musk says - Axios",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XaEZwTktvd3JhMjAta21YYk9RMW9oUkwzZFRJU0loWjZza3FDQkg3R0M4eS1pSkRXY0pjb2lOWThseTNncHVvU1dUdU5WRnM0V3M2Q1pnSGU4VVRFeVp4dGQxekdLZXNKT1E?oc=5",
-      "source": "Axios",
-      "topic": "Tesla",
-      "published_at": "2026-10-21T17:09:22+00:00"
+      "title": "What to Know About the SpaceX-Tesla Merger Talks - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbXFsVW11RFNRRmRqS2I3dHk1dUlLOXlzMDc1bFN1d21nanZrNTV0REFMR2hwVXBxTUxtZHlvS1pDR3YwR0ZJeUxWczBaTVJxOGMtVU1TT2xtLUZxQm5BTGRva1FlQkdMMEU5eUREWUJuOHhUd2xpU0tCdTM1X3o0N1luZ29PUQ?oc=5",
+      "source": "WSJ",
+      "topic": "SpaceX",
+      "published_at": "2026-10-21T16:48:00+00:00"
     },
     {
-      "title": "Tesla earnings are out – here are the numbers - CNBC",
+      "title": "Tesla beats on earnings and sales even as auto revenue declines - CNBC",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1rRTRZdEQyQ0tYemI0R0tuYi04TWhxWEVoRGx6M3h3MWpWTzhRdnpvZTk4R2tSV09GX2dNS0p6ckxOMkpDd3NCbEViY1ZtOUNOU0JjejU5VjhoVTRIRjZ2SHBiOG0wbXY0NmVBUmFUTDFWZ01LSmZraHN4TdIBgAFBVV95cUxPdzZSSklMOG1fb1hCcUpGSmpyVDAxVlZuXzZ4ZDEwdkJhX2xoWXdVb1V5Vkp0b0tkekhaVHhoa2szSC0tejZ6aTYtb1JJUWo4aG90ZTN5UURiS19sMGhCUHFxZUdhdk9rd3JaN0xRVVk3OGZ0VkhZSjFDMU11dUJIVw?oc=5",
       "source": "CNBC",
       "topic": "Tesla",
@@ -79,6 +93,13 @@
       "published_at": "2026-10-21T15:00:00+00:00"
     },
     {
+      "title": "Judge denies Trump administration request to dismiss NAACP lawsuit against xAI - Northeast Mississippi Daily Journal",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNX3dIZDY1VER6X1JMS091dzhPd2xMSVRPYlhYSjJDY3hLTmJGMFVNODdvX1RLODRFNWFrTGhGSGhsWUJ1YUQ5WDB3U25Yc1ZhSWxGcnJrWkpsM1ROWGtrNWJqQS1NVWQ3MTdBQUFCcFlyaHo1cXpBTXRhVnpXWWhqZFM5Rklpa055Mktwb0QxTGNhSXFOd2picDlDZzdwTmI0ZF92UHgza3p0TzFrU2NTa0IzTkJjUDB6aFJtUWs4N3BFaE54bHJXbGdhMl96dEt0SmpTZXBicUJ0YkJNUl95WGxidHRWNnBhZ21xZHAtSHVHTDRDUVY1b3dGbFIxdw?oc=5",
+      "source": "Northeast Mississippi Daily Journal",
+      "topic": "xAI",
+      "published_at": "2026-10-21T15:00:00+00:00"
+    },
+    {
       "title": "Tesla Q3 preview: Delivery outlook, cash flow, and a dash of merger speculation on tap - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdUlBXzBBVXhmeWF0S0xVNU10OG44WmdLTTdrWFhtNk9nQ2tpbU9ia1VVTFZsclNzdElmclZPNTFBN3pZNWV2YWNWYVg4V1loQWw5aDhodnpIWEkxak4zY0RwdF91bTk3bllHTFB6VTVYMXFNVklleWw1bFJUNEVwTksxTXJYdUdCTDMzQ0NoV3BXOTk5ZmZJUjhSTklUSWFsNGNJUWx1TDFHakU3R2kwTVNaZ3czd3lUNlJHaHV4R3F2eEozVkVYUlJIODJweDNJUFRhVnJWTzBJMFNiVDZGSg?oc=5",
       "source": "Yahoo Finance",
@@ -86,11 +107,11 @@
       "published_at": "2026-10-21T14:16:25+00:00"
     },
     {
-      "title": "Investors offered 7.33 million shares; XAI's fund will buy 1.90 million. - Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRG5uQWd0S2QwaVByODBYS0JzSUY3R3dSZ2xxNXFGMmQ0RklBYU9GVHdGX0NyVU5vRHkxSWxKTldVMlhyVnNhMFRBQ2RLdHpSOWhFNUZTTTktVlhRS3VaOGxNam9QTTIxTDY4a2w2cGtFcHRQUTR3T2liSFdKNWxJSmdKRHpRQXhhMk9JdVFTTlNMb2dBM3JaNkJZWVI5YVRnbzNwV2tPZGJVeHo0OWlCNHZVZzItSWtyZ2M0ODhn?oc=5",
-      "source": "Stock Titan",
-      "topic": "xAI",
-      "published_at": "2026-10-21T12:45:00+00:00"
+      "title": "SpaceX earnings left one big question unanswered - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdW96ajBBSUMzcDFxMTRvM2ZlMEdKZVFYbXlfMTg0MjdXY2p0SnUxcHNIS0tQOEtDNnNpX1NUemM1M0l1bURxc0ZPWXZYQ2pHMjRaamZSSEp0ZHJUVnBaRWU5eE9HTThlMmFUdUhxTExYTkRnUFZOTXQyNzF4NGd3VWEtZTZhdF9CaXlyb09hQWtHU0x2SWJvNFhFalltN2RnVWpmM1ZlcmhvWExFXzhxaW5n?oc=5",
+      "source": "Yahoo Finance",
+      "topic": "SpaceX",
+      "published_at": "2026-10-21T10:26:46+00:00"
     },
     {
       "title": "Why Elon Musk Wants to Merge SpaceX and Tesla - Time Magazine",
@@ -98,13 +119,6 @@
       "source": "Time Magazine",
       "topic": "Elon Musk",
       "published_at": "2026-10-21T08:45:59+00:00"
-    },
-    {
-      "title": "SpaceX stock jumps 10% after earnings beat and Musk hints at Tesla tie-up - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PUXotbEFpamZqOGNVR1V3QjBZa1JlMk9BYlEtSXlRVVdZaUx5enhFczJmYzd6RzluMld3T1IxWFpKdUdFd3RLU0hxWTRuV28xVXRhUGt3QUlRWXVnZjcwNld0Y0Uzc3ZySXc1Ykx0dlA5SGtVbVFTZkN1QknSAYIBQVVfeXFMTjR2c3F2OV81OXNqTUxINlRMODJwbzhSNjgxNFlDOURjY0dxSDczVEZKWUdZaWRCc0RGMERLaEY3Y0NJMkIzdHFLMktLTEpkbHY3NTRyUllEYmJ3TWFFSXk5LUZRYUg0NVdpODRzaWJ0Slg3U293UkpETms3aUlDeWlmdw?oc=5",
-      "source": "CNBC",
-      "topic": "SpaceX",
-      "published_at": "2026-10-21T08:05:56+00:00"
     },
     {
       "title": "Computer science student takes engineering skills to Neuralink - UT San Antonio Today",
@@ -124,7 +138,7 @@
       "title": "Why would Musk merge SpaceX and Tesla? - Reuters",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRkVkNTdkcV9oczJLb25yYzRRajZGUG1TcnBXNF9nLTJIVEhJQnVERENGeC03LTBJNHVOT0diX1RxNnN0dzVJUUdQT2dUUnpCUzE0VVNaSFRzVVpLNk9ZNUxKWDZrdFFld205MlFLMkk4UGVyUG9WbVdzaFg0V2o4a0VTM0ZWcTYtZUt4eWlqTkJrWXc?oc=5",
       "source": "Reuters",
-      "topic": "Tesla",
+      "topic": "SpaceX",
       "published_at": "2026-10-21T02:09:00+00:00"
     },
     {
@@ -133,20 +147,6 @@
       "source": "Spaceflight Now",
       "topic": "SpaceX",
       "published_at": "2026-10-21T00:50:54+00:00"
-    },
-    {
-      "title": "Elon Musk says SpaceX and Tesla have formed special committees to discuss merger idea - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTGZMQmlxNUNpdlJIaUxRR01QUUhfS1VmTVhWSW90YVdkN0Y4MEZrNGRSdWlHREF3YkZVc2NuT3N1SUZnTVlMaHh4Sm9HSXc0YlhJZjRwWHFGb0otZFEwVUx3X3BIRWh1cjcycEpLZWs5eTU1ZGdZZGptTElhMFdOc1dqNXB2UmRzOHJrTFJBRlc?oc=5",
-      "source": "NBC News",
-      "topic": "Elon Musk",
-      "published_at": "2026-10-20T22:57:53+00:00"
-    },
-    {
-      "title": "SpaceX Swings to a Profit, as A.I. Business Grows - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY0d1bHRTNzNlX2RsWHg4dmdkQzBaNmFUaGtTUExMa19od3FMTTA4MzBBUXBKakU5VW9jT1U4OHk0dHlzTVNTWTJGWU03SndzVHhqbzFSdzlHOTBpcUtjZmxJUklFLVQ4d3JmUHlMU04yWFBvOHRJSXdITEJLNXB0UXRR?oc=5",
-      "source": "The New York Times",
-      "topic": "SpaceX",
-      "published_at": "2026-10-20T22:37:38+00:00"
     },
     {
       "title": "SpaceX will attempt 1st-ever double Starship rocket catch on next test launch, Elon Musk says - Space",
@@ -177,11 +177,25 @@
       "published_at": "2026-10-20T21:44:43+00:00"
     },
     {
+      "title": "NAACP v. xAI - Constitutional Accountability Center",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVWUw0NFlWZFFfWllyUVpHQnJocU9QVlltLWh2bnhZMzJkVUNGUlY5R3NvcURzSG4xOXBoU3Z3X1JlM01hd01rYVZvUEVMeHVCemwwVGJZeVdzb3JrM0RVc1h2NEVFLW9f?oc=5",
+      "source": "Constitutional Accountability Center",
+      "topic": "xAI",
+      "published_at": "2026-10-20T20:53:38+00:00"
+    },
+    {
       "title": "SpaceX’s AI business is beating expectations - TechCrunch",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQX2JkT1NWcmJNb29hRlM1eW9IWnY3Z1dVd2hSRkJPeUpxZ2F2alBTVWZ5QzNqS1JXbmF4V3BUVUoyaW5uZVVZLXU5bmxvcEh6cG1uUFJ5eWdvVTU1azJsOFEyNnpvcXlnV1dCaEs3a2xNQlpUeTQteEl6dWIzRXZSWmJCc1k?oc=5",
       "source": "TechCrunch",
       "topic": "SpaceX",
       "published_at": "2026-10-20T20:40:41+00:00"
+    },
+    {
+      "title": "SpaceX Swings to a Profit, as A.I. Business Grows - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY0d1bHRTNzNlX2RsWHg4dmdkQzBaNmFUaGtTUExMa19od3FMTTA4MzBBUXBKakU5VW9jT1U4OHk0dHlzTVNTWTJGWU03SndzVHhqbzFSdzlHOTBpcUtjZmxJUklFLVQ4d3JmUHlMU04yWFBvOHRJSXdITEJLNXB0UXRR?oc=5",
+      "source": "The New York Times",
+      "topic": "SpaceX",
+      "published_at": "2026-10-20T20:32:33+00:00"
     },
     {
       "title": "Trump administration loses bid to block NAACP lawsuit against Musk's xAI over data center - Reuters",
@@ -208,13 +222,13 @@
       "title": "SpaceX investors, ahead of results, press Musk on Tesla merger - Reuters",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNUluMVVLVk9ZUmpHeTZNSkduQVlaYWtydVZ3WEptUWc0SXpqUGZ4ckZmOGM4X3JwY0V0WjJfelhvdWRLRTdZRUdnYUxwM0NRZWZGY0M4blhETWlzVnlQY0JMSEdRZFBDaG5MNW1jck9zaEdQdUs4bzhRSjdaX0xsV0xqN1RjWmRuRzAwMFZxamVNTlNuanFhVExaV3RDMEw2RmtSODg4RzB1RzRERWFz?oc=5",
       "source": "Reuters",
-      "topic": "SpaceX",
+      "topic": "Tesla",
       "published_at": "2026-10-20T18:34:18+00:00"
     },
     {
-      "title": "Federal Judge Allows NAACP Lawsuit Against Elon Musk’s xAI to Move Forward - New Pittsburgh Courier",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeW1wSVpmU2x1Ukl0UXZBdk8ySjZfX3IyaXdjX1B0Rmxpd1kwTWZWM1BxQ1NGMlBlTFVzQUJhQUZYTlJSSk1NUzZlWDFVYnBBb2phOEp2OE9MbHpIMkt6Ukd5M1prVTVXUDYxMm1jSTM4R3MtNlFRVHZ1aU9rcFpub08yblZFdmdfbjRMUktZUDB1NHRTOTlzTmJMcjhVUF9KbThDdEJmNlE5M1otUWJ5NXVkWHI5ZVNUeVE?oc=5",
-      "source": "New Pittsburgh Courier",
+      "title": "Federal Judge Allows NAACP Lawsuit Against Elon Musk’s xAI to Move Forward - The Michigan Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQTFlRGs0NEtkSV9vZzJJeUhrampSbVBvdHVVZWhQZWtPZm1RYkN0OXR0eWtiZmdGVXl4OG1lSkdpVkhTV2NkVXZJVEpuYTJ6cHhWdFZ0Z0xsN0dCc2pMaDkwNnVSYnIxOVlJeDJzS0MwLWQtWlNFNk5hVGtabmpxMERFUk5JQnBJOGRvTkwxXzctcGNyQWp0bl9UYVFxUGZ0TzBwZDhuOA?oc=5",
+      "source": "The Michigan Chronicle",
       "topic": "xAI",
       "published_at": "2026-10-20T17:11:46+00:00"
     },
@@ -254,13 +268,6 @@
       "published_at": "2026-10-20T08:45:00+00:00"
     },
     {
-      "title": "Bandwagon-5 Mission - SpaceX",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1hcTN1ZDc2Qi15Z1dibnBFdjFDU2tKUDVNbmw0WkNWMlZQRi02UktWZlhTdk1lc2RRMkdDQ1NkeXQ1a2prMW9laHQwbDlwQWdYRFJyaQ?oc=5",
-      "source": "SpaceX",
-      "topic": "SpaceX",
-      "published_at": "2026-10-20T07:00:00+00:00"
-    },
-    {
       "title": "Elon Musk says he's giving SpaceX stock to every kid in America - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMEVVd3RFb3M0MFpJelFtS3o0ekhENlpaT1hrSFpIZzc5NGhoTTZUb2Q5RjNpbU13cVhESjhhSkhyM2lrcHFGYjNVZFN0Sy00bm1fb2JMSTdsbnE5ZWFXeVdoZ1BvSWs4dTZJYzNMemVUSU13d2VHS1VPVURCdlM5WjlVNlhfSHJEeExPcEF2OVZQTmFidFlBZzd0ZFU1aGNtbWZfS01Fam51WTdBQl9BMHBuNkoyNkh6VzBteUVYTDBvZlFo?oc=5",
       "source": "Yahoo Finance",
@@ -273,13 +280,6 @@
       "source": "Legit News",
       "topic": "Neuralink",
       "published_at": "2026-10-19T16:08:41+00:00"
-    },
-    {
-      "title": "Elon Musk | SpaceX, Tesla, xAI, X, & PayPal | Britannica Money - Britannica",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNdHpuSkc2ZlF0QmthektsdS1WZXktbU5GX3liUUF4N2Z0SC1VLWRjVDdxMXk1WjlfTmF6U183LUpUYmdDblRBVklNUDBuMVB6NjVNZzZHejg4OXVjZ01RN3N1V2NSaUlhbnQ5UzhLTG12RG4zU2c?oc=5",
-      "source": "Britannica",
-      "topic": "xAI",
-      "published_at": "2026-10-19T12:58:00+00:00"
     },
     {
       "title": "Democrats — and Elon Musk — continue to dominate midterm campaign fundraising - NPR",
@@ -317,11 +317,11 @@
       "published_at": "2026-10-17T16:03:00+00:00"
     },
     {
-      "title": "Tesla's new Roadster turns in air with SpaceX thrusters, won't land until 2028 - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWGw5R18xMUUwWFdySjRKNlRpdkY1c2d4QlZWWVdxRlQ2dlpoc2JSaVJPdmpfWE1CbjE4bEF5RVpPOGFrV3E1T1BrZmFtd1FVRk45cnFCQ2FUMUk1ODNtSzF0VkxTODVyalI0MENsaTJQYkQwTGJvMXU0S2MtNmRHWEktX0lXOHpaZy1JdWs1dXBSQWw5VVQtT0pvczFxQ3ZCWmQ4VGRmQWt0OUptTWhSZkNnYlhyM2diMzlHaGl4S3VyRFgyVk5qckI1Q0NvVnFv?oc=5",
-      "source": "Reuters",
-      "topic": "Tesla",
-      "published_at": "2026-10-17T10:10:17+00:00"
+      "title": "Opinion | Elon Musk Is Beyond the Pale - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRDBvVDZQRi0xd1gxLXU4c2JJTEppS2QtazVIQ3d0UlMwRXJGQXNMSmw1OFI4bWN3Q0FKdzlETXJPM1lyRlJDUEdNTUpPS0tUcjJHM3JfYXcwWkQ0U0ZVNEItWjJ5bldFNVJEUjY0YmNMdnF2Y3JlbFhiM0dvaVk3ZmJkcw?oc=5",
+      "source": "The New York Times",
+      "topic": "Elon Musk",
+      "published_at": "2026-10-17T15:24:41+00:00"
     },
     {
       "title": "With flying Roadster, Tesla waves goodbye to the car business - Axios",
@@ -343,6 +343,13 @@
       "source": "Breakingthenews.net",
       "topic": "Neuralink",
       "published_at": "2026-10-17T00:40:00+00:00"
+    },
+    {
+      "title": "Expert goes inside Elon Musk's 'UNBELIEVABLE' new invention - Fox Business",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90U2NqdWRlbVBrenhhdnI3ckF5OWp0Yk1EV2hpLVI2MGkycFlaNGpzSWlUdmMyYkE1R0diS21ubEpCcEFiTDBqMDR5MW5aN1YwV3FhU0lBZGV1SGs?oc=5",
+      "source": "Fox Business",
+      "topic": "Elon Musk",
+      "published_at": "2026-10-17T00:30:53+00:00"
     },
     {
       "title": "[Science Video] Neuralink restores ALS patient's voice for his wife - DongA Science",
@@ -387,13 +394,6 @@
       "published_at": "2026-10-16T09:31:00+00:00"
     },
     {
-      "title": "NAACP v. xAI - Constitutional Accountability Center",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVWUw0NFlWZFFfWllyUVpHQnJocU9QVlltLWh2bnhZMzJkVUNGUlY5R3NvcURzSG4xOXBoU3Z3X1JlM01hd01rYVZvUEVMeHVCemwwVGJZeVdzb3JrM0RVc1h2NEVFLW9f?oc=5",
-      "source": "Constitutional Accountability Center",
-      "topic": "xAI",
-      "published_at": "2026-10-16T07:00:00+00:00"
-    },
-    {
       "title": "VIDEO: Driver asleep as Tesla in self-driving mode plows into scene of crash on I-80 in Fairfield - ABC7 Bay Area",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVFdQazg5WXhaSUdLRGEwbGswOHBQRTBrMHppMkY0R1NUMFNvdzZlX2dGY3k5R0R2ZEdQUlQyUm1VSkF2NDBHenRGUHoxazF6TmFpNGxZRzhKOGk1RkRaMTc1X2dpcUQzTWhPX3RQYjZkUFFzNlFBNUVvMUp2cURETDhtaFgxeHkxNGFrR1dmTndJZTMyY0RtOUkwVTNwWHZ5RFQ1RG84UHTSAa4BQVVfeXFMTldfbjJzcWMyc1p3MGlwQkJkVGJ6Z0tVX0dubUxFaURQa1VSWFZWLWNJWEhrcms4ak1PcFBlMTc0T1JyVzdhOE5FRmFJZXR2TmhPdjBwZjZOTWFnSzFDWWdLTHA2Z0pBNllxXzFYUmRkWm9VOXlLcXRvQ2hLNkhtemdSdmdycjU4U01lYW9oLTZuQkZQYy1fcFVpdE9vbEoxUjJQMUU2OFpzTE01Uzln?oc=5",
       "source": "ABC7 Bay Area",
@@ -426,7 +426,7 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWWgxb0xjY25vNUZPTGN5RDRIMW0tcnpaUjBpNlRWSm1fcjJ1SnBYck9rcEVwX3NjNjduRzBYemlMaXNtMnRtTmp0bkxsMmZMTHpmSE04Wi1BUjVIVlRZYjE1WERkbFB5aG5namtfSUJoVzJWdVdObVZGejc0M0l3ZkhCTnVNUWxK?oc=5",
       "source": "WSJ",
       "topic": "Tesla",
-      "published_at": "2026-10-15T22:15:00+00:00"
+      "published_at": "2026-10-15T22:16:22+00:00"
     },
     {
       "title": "Elon Musk agrees to settle lawsuits over 2024 election lottery - Reuters",
@@ -450,11 +450,11 @@
       "published_at": "2026-10-15T15:18:57+00:00"
     },
     {
-      "title": "SpaceX Dragon Cargo Mission Approaching Station - NASA (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOV1BRMGNXU2dpTXl5eXBXZ2tsR1ZGMUlnaDMtQ044a3dUcEFEa0VtS1pvT0NRV05UdWNXVnE4V21UNVlJeDhiR2xUcVhfS0FSWm5qNlRQeUdId2ZpWVRwT1dWRXBMYy1rWTdHRGNnbUFhZVJOSmZXdloyNzRCczlldGh5LW5oOVRpcHUxY3E5Ukxhd2tJYlZtUTZBY3lCelJN?oc=5",
-      "source": "NASA (.gov)",
-      "topic": "SpaceX",
-      "published_at": "2026-10-15T13:03:27+00:00"
+      "title": "The Midterm Battle over Data Centers: Memphis House Candidate Justin Pearson Fights Elon Musk’s xAI - Democracy Now!",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnN0M3ZzA1Slo4Nm1RcEVSNzRBLWctTUlRX3dQenpTSThLS3k2dlo2T3lYZHVmTmdwSURqMmpMOS1aOF9KRHhmTk9wT0dSdUJlZUdNazRnMVJ4ODlXTWlyRjBKSzNKemoxVWc?oc=5",
+      "source": "Democracy Now!",
+      "topic": "xAI",
+      "published_at": "2026-10-15T12:00:00+00:00"
     }
   ]
 }
