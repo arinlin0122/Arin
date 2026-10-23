@@ -1,67 +1,67 @@
 {
-  "date": "2026-10-22",
-  "generated_at": "2026-10-22T01:39:33.110908+00:00",
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T01:41:29.936285+00:00",
   "method": "headline-only, not independently verified",
   "stories": [
     {
       "type": "待核实线索",
-      "title": "Personal Agent Protocol",
+      "title": "AI Keeps Getting Better. Why Is Its Writing Still So Bad?",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://sierra.ai/blog/introducing-personal-agent-protocol",
-      "source": "sierra.ai",
-      "date": "2026-10-22"
+      "url": "https://greyenlightenment.com/2026/10/21/ai-keeps-getting-better-why-is-its-writing-still-so-bad/",
+      "source": "greyenlightenment.com",
+      "date": "2026-10-23"
     },
     {
       "type": "待核实线索",
-      "title": "Show HN: HarnessHive – collaborative wiring harness design platform in browser",
+      "title": "The State of PyTorch 2026",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://harnesshive.com",
-      "source": "harnesshive.com",
-      "date": "2026-10-22"
+      "url": "https://techstrong.ai/articles/the-state-of-pytorch-2026/",
+      "source": "techstrong.ai",
+      "date": "2026-10-23"
     },
     {
       "type": "待核实线索",
-      "title": "Data centers could erase decades of air quality gains",
+      "title": "Assure – formal verification for every PR",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+      "url": "https://symbolia.ai/",
+      "source": "symbolia.ai",
+      "date": "2026-10-23"
+    },
+    {
+      "type": "待核实线索",
+      "title": "Show HN: GrillMyProfile – AI roast of your LinkedIn, scored against a job",
+      "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
+      "why": "需要阅读原文核实具体事实和影响。",
+      "action": "打开原文并记录三个关键事实。",
+      "url": "https://www.grillmyprofile.com",
+      "source": "www.grillmyprofile.com",
+      "date": "2026-10-23"
+    },
+    {
+      "type": "待核实线索",
+      "title": "1Password launches a way for AI to log in for you without seeing your password",
+      "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
+      "why": "需要阅读原文核实具体事实和影响。",
+      "action": "打开原文并记录三个关键事实。",
+      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "source": "techcrunch.com",
+      "date": "2026-10-23"
+    },
+    {
+      "type": "待核实线索",
+      "title": "Canva's first in-house AI image model plans designs before generating them",
+      "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
+      "why": "需要阅读原文核实具体事实和影响。",
+      "action": "打开原文并记录三个关键事实。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
       "source": "www.theverge.com",
-      "date": "2026-10-22"
-    },
-    {
-      "type": "待核实线索",
-      "title": "LiteLLM Security Update",
-      "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
-      "why": "需要阅读原文核实具体事实和影响。",
-      "action": "打开原文并记录三个关键事实。",
-      "url": "https://docs.litellm.ai/blog/security-incident-oct-21-2026",
-      "source": "docs.litellm.ai",
-      "date": "2026-10-22"
-    },
-    {
-      "type": "待核实线索",
-      "title": "Can a malicious webpage hijack an AI agent?",
-      "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
-      "why": "需要阅读原文核实具体事实和影响。",
-      "action": "打开原文并记录三个关键事实。",
-      "url": "https://victorribeiro.com/bots/",
-      "source": "victorribeiro.com",
-      "date": "2026-10-22"
-    },
-    {
-      "type": "待核实线索",
-      "title": "Databricks launches AI Runtime for managed GPU training on enterprise data",
-      "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
-      "why": "需要阅读原文核实具体事实和影响。",
-      "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.databricks.com/blog/ai-runtime-generally-available",
-      "source": "www.databricks.com",
-      "date": "2026-10-22"
+      "date": "2026-10-23"
     }
   ],
   "candidate_count": 12
