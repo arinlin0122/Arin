@@ -1,38 +1,43 @@
 {
   "schema_version": 1,
-  "attempted_at": "2026-10-23T11:40:32.591700+00:00",
+  "attempted_at": "2026-10-23T17:08:08.010710+00:00",
   "last_success_at": "2026-10-23T11:40:32.591700+00:00",
-  "status": "ok",
+  "status": "failed",
   "sources": [
     {
       "topic": "Elon Musk",
       "url": "https://news.google.com/rss/search?q=%22Elon+Musk%22+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "ok",
-      "last_success_at": "2026-10-23T11:40:32.591700+00:00"
+      "status": "failed",
+      "last_success_at": "2026-10-23T11:40:32.591700+00:00",
+      "error": "RSS 获取失败；保留该主题上次数据"
     },
     {
       "topic": "xAI",
       "url": "https://news.google.com/rss/search?q=%22xAI%22+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "ok",
-      "last_success_at": "2026-10-23T11:40:32.591700+00:00"
+      "status": "failed",
+      "last_success_at": "2026-10-23T11:40:32.591700+00:00",
+      "error": "RSS 获取失败；保留该主题上次数据"
     },
     {
       "topic": "Tesla",
       "url": "https://news.google.com/rss/search?q=%22Tesla%22+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "ok",
-      "last_success_at": "2026-10-23T11:40:32.591700+00:00"
+      "status": "failed",
+      "last_success_at": "2026-10-23T11:40:32.591700+00:00",
+      "error": "RSS 获取失败；保留该主题上次数据"
     },
     {
       "topic": "SpaceX",
       "url": "https://news.google.com/rss/search?q=%22SpaceX%22+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "ok",
-      "last_success_at": "2026-10-23T11:40:32.591700+00:00"
+      "status": "failed",
+      "last_success_at": "2026-10-23T11:40:32.591700+00:00",
+      "error": "RSS 获取失败；保留该主题上次数据"
     },
     {
       "topic": "Neuralink",
       "url": "https://news.google.com/rss/search?q=%22Neuralink%22+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "ok",
-      "last_success_at": "2026-10-23T11:40:32.591700+00:00"
+      "status": "failed",
+      "last_success_at": "2026-10-23T11:40:32.591700+00:00",
+      "error": "RSS 获取失败；保留该主题上次数据"
     }
   ],
   "items": [
