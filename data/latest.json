@@ -1,67 +1,67 @@
 {
-  "date": "2026-10-23",
-  "generated_at": "2026-10-23T01:41:29.936285+00:00",
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T01:45:07.152428+00:00",
   "method": "headline-only, not independently verified",
   "stories": [
     {
       "type": "待核实线索",
-      "title": "AI Keeps Getting Better. Why Is Its Writing Still So Bad?",
+      "title": "DeepSeek Just Shook the AI Industry Again [video]",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://greyenlightenment.com/2026/10/21/ai-keeps-getting-better-why-is-its-writing-still-so-bad/",
-      "source": "greyenlightenment.com",
-      "date": "2026-10-23"
+      "url": "https://www.youtube.com/watch?v=YX6QdIYVSgY",
+      "source": "www.youtube.com",
+      "date": "2026-10-24"
     },
     {
       "type": "待核实线索",
-      "title": "The State of PyTorch 2026",
+      "title": "The anti-AI writing police are everywhere. What are they looking for?",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://techstrong.ai/articles/the-state-of-pytorch-2026/",
-      "source": "techstrong.ai",
-      "date": "2026-10-23"
+      "url": "https://www.cnn.com/2026/10/21/tech/ai-detectors-pangram-literary-prizes-cec",
+      "source": "www.cnn.com",
+      "date": "2026-10-24"
     },
     {
       "type": "待核实线索",
-      "title": "Assure – formal verification for every PR",
+      "title": "Google's Frontier Imperative, Compute Scarcity Dilemmas and the Future of AI",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://symbolia.ai/",
-      "source": "symbolia.ai",
-      "date": "2026-10-23"
+      "url": "https://www.bigtechnology.com/p/sundar-pichai-googles-frontier-imperative",
+      "source": "www.bigtechnology.com",
+      "date": "2026-10-24"
     },
     {
       "type": "待核实线索",
-      "title": "Show HN: GrillMyProfile – AI roast of your LinkedIn, scored against a job",
+      "title": "I built rooms for AI agents to work together",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.grillmyprofile.com",
-      "source": "www.grillmyprofile.com",
-      "date": "2026-10-23"
+      "url": "https://bellman.sh/r/blog/p001-hello-front-desk",
+      "source": "bellman.sh",
+      "date": "2026-10-24"
     },
     {
       "type": "待核实线索",
-      "title": "1Password launches a way for AI to log in for you without seeing your password",
+      "title": "AI in UX: Work Is Faster, but Practitioners Have Mixed Feelings",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-      "source": "techcrunch.com",
-      "date": "2026-10-23"
+      "url": "https://www.nngroup.com/articles/ai-in-ux-survey-26/",
+      "source": "www.nngroup.com",
+      "date": "2026-10-24"
     },
     {
       "type": "待核实线索",
-      "title": "Canva's first in-house AI image model plans designs before generating them",
+      "title": "NadY: Photo-based calorie and macro tracker for iOS",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
-      "source": "www.theverge.com",
-      "date": "2026-10-23"
+      "url": "https://apps.apple.com/us/app/nady-ai-calorie-photo-track/id6740164035",
+      "source": "apps.apple.com",
+      "date": "2026-10-24"
     }
   ],
   "candidate_count": 12
