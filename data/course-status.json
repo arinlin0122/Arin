@@ -1,4 +1,35 @@
 {
-  "checked_at": null,
-  "results": []
+  "checked_at": "2026-10-25T01:21:11.146476+00:00",
+  "results": [
+    {
+      "url": "https://www.deeplearning.ai/courses/ai-for-everyone/",
+      "status": "needs_review",
+      "http_status": 403
+    },
+    {
+      "url": "https://huggingface.co/learn/agents-course/unit0/introduction",
+      "status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://www.deeplearning.ai/the-batch/",
+      "status": "needs_review",
+      "http_status": 403
+    },
+    {
+      "url": "https://aiindex.stanford.edu/report/",
+      "status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://academy.openai.com/",
+      "status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://learn.microsoft.com/en-us/training/",
+      "status": "ok",
+      "http_status": 200
+    }
+  ]
 }
