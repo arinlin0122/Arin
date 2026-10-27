@@ -1,67 +1,67 @@
 {
-  "date": "2026-10-26",
-  "generated_at": "2026-10-26T01:25:10.275460+00:00",
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T02:12:48.979280+00:00",
   "method": "headline-only, not independently verified",
   "stories": [
     {
       "type": "待核实线索",
-      "title": "Show HN: Freehire, open-source search 3M+ tech jobs from company career boards",
+      "title": "AI and the Rise of Cognitive Overload",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://freehire.me/",
-      "source": "freehire.me",
-      "date": "2026-10-26"
+      "url": "https://www.psychologytoday.com/us/blog/the-mindful-epidemiologist/202603/ai-and-the-rise-of-cognitive-overload",
+      "source": "www.psychologytoday.com",
+      "date": "2026-10-27"
     },
     {
       "type": "待核实线索",
-      "title": "Show HN: Depono – Chat with many AI models at cost and 10%, files kept in Git",
+      "title": "AI Science vs. Human Science",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://depono.xyz/",
-      "source": "depono.xyz",
-      "date": "2026-10-26"
+      "url": "https://lacuna.tiptreesystems.com/paper/ai-science-vs-human-science/art_3901430d6c0e4bddb284362100ef8548",
+      "source": "lacuna.tiptreesystems.com",
+      "date": "2026-10-27"
     },
     {
       "type": "待核实线索",
-      "title": "Show HN: RainbowSay – Learn, teach, research languages live with shows you love",
+      "title": "Let your agent talk to mine",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://rainbowsay.ai/",
-      "source": "rainbowsay.ai",
-      "date": "2026-10-26"
+      "url": "https://blog.danielbrain.ai/let-your-agent-talk-to-mine",
+      "source": "blog.danielbrain.ai",
+      "date": "2026-10-27"
     },
     {
       "type": "待核实线索",
-      "title": "Survival Ball versus Mode Explained: Everything You Need to Know [video]",
+      "title": "AI wasn't overhyped. Almost everyone underestimated it",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.youtube.com/watch?v=A-aIvcJqgDQ",
-      "source": "www.youtube.com",
-      "date": "2026-10-26"
+      "url": "https://benjamintodd.substack.com/p/almost-every-ai-forecast-of-the-last",
+      "source": "benjamintodd.substack.com",
+      "date": "2026-10-27"
     },
     {
       "type": "待核实线索",
-      "title": "One gateway for your AI agents, APIs and MCP servers",
+      "title": "The \"let-it-rip\" camp is wrong on AI",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://github.com/Clivern/Sloth",
-      "source": "github.com",
-      "date": "2026-10-26"
+      "url": "https://economist.com/by-invitation/2026/10/26/the-let-it-rip-camp-is-wrong-on-ai",
+      "source": "economist.com",
+      "date": "2026-10-27"
     },
     {
       "type": "待核实线索",
-      "title": "I Think My AI Company Needs HR",
+      "title": "Show HN: Marlow – Build full-stack apps with AI and own your code",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.fasttrackfemme.com/p/i-think-my-ai-company-needs-hr",
-      "source": "www.fasttrackfemme.com",
-      "date": "2026-10-26"
+      "url": "https://marlow.app/beta",
+      "source": "marlow.app",
+      "date": "2026-10-27"
     }
   ],
   "candidate_count": 12
