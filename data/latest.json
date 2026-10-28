@@ -1,67 +1,67 @@
 {
-  "date": "2026-10-27",
-  "generated_at": "2026-10-27T02:12:48.979280+00:00",
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T02:27:56.194155+00:00",
   "method": "headline-only, not independently verified",
   "stories": [
     {
       "type": "待核实线索",
-      "title": "AI and the Rise of Cognitive Overload",
+      "title": "AI Agents Are Changing the Price of Goods (Odd Lots) [video]",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.psychologytoday.com/us/blog/the-mindful-epidemiologist/202603/ai-and-the-rise-of-cognitive-overload",
-      "source": "www.psychologytoday.com",
-      "date": "2026-10-27"
+      "url": "https://www.youtube.com/watch?v=gzgBmZcSEU8",
+      "source": "www.youtube.com",
+      "date": "2026-10-28"
     },
     {
       "type": "待核实线索",
-      "title": "AI Science vs. Human Science",
+      "title": "Microsoft Offers Buyouts to 60k Employees",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://lacuna.tiptreesystems.com/paper/ai-science-vs-human-science/art_3901430d6c0e4bddb284362100ef8548",
-      "source": "lacuna.tiptreesystems.com",
-      "date": "2026-10-27"
+      "url": "https://www.nytimes.com/2026/10/26/technology/microsoft-buyouts-ai-spending.html",
+      "source": "www.nytimes.com",
+      "date": "2026-10-28"
     },
     {
       "type": "待核实线索",
-      "title": "Let your agent talk to mine",
+      "title": "Do Guardrails Make AI Coding Agents Better? What 270 Runs Showed",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://blog.danielbrain.ai/let-your-agent-talk-to-mine",
-      "source": "blog.danielbrain.ai",
-      "date": "2026-10-27"
+      "url": "https://secondtimeisabug.com/blog/coding-agent-guardrails-270-runs/",
+      "source": "secondtimeisabug.com",
+      "date": "2026-10-28"
     },
     {
       "type": "待核实线索",
-      "title": "AI wasn't overhyped. Almost everyone underestimated it",
+      "title": "Microsoft offers voluntary buyouts as AI leads to efficiency push",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://benjamintodd.substack.com/p/almost-every-ai-forecast-of-the-last",
-      "source": "benjamintodd.substack.com",
-      "date": "2026-10-27"
+      "url": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
+      "source": "www.cnbc.com",
+      "date": "2026-10-28"
     },
     {
       "type": "待核实线索",
-      "title": "The \"let-it-rip\" camp is wrong on AI",
+      "title": "A hand-picked gallery of AI-generated motion graphics and their prompts",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://economist.com/by-invitation/2026/10/26/the-let-it-rip-camp-is-wrong-on-ai",
-      "source": "economist.com",
-      "date": "2026-10-27"
+      "url": "https://motioncrackers.com",
+      "source": "motioncrackers.com",
+      "date": "2026-10-28"
     },
     {
       "type": "待核实线索",
-      "title": "Show HN: Marlow – Build full-stack apps with AI and own your code",
+      "title": "Show HN: Misery in America",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://marlow.app/beta",
-      "source": "marlow.app",
-      "date": "2026-10-27"
+      "url": "https://sightspinner.ai/blog/misery-in-america-2026-10-28.html",
+      "source": "sightspinner.ai",
+      "date": "2026-10-28"
     }
   ],
   "candidate_count": 12
