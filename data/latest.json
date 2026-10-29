@@ -1,67 +1,67 @@
 {
-  "date": "2026-10-28",
-  "generated_at": "2026-10-28T02:27:56.194155+00:00",
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T02:34:49.036255+00:00",
   "method": "headline-only, not independently verified",
   "stories": [
     {
       "type": "待核实线索",
-      "title": "AI Agents Are Changing the Price of Goods (Odd Lots) [video]",
+      "title": "I built a Chrome extension that shows you a web page the way AI crawlers see it",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.youtube.com/watch?v=gzgBmZcSEU8",
-      "source": "www.youtube.com",
-      "date": "2026-10-28"
+      "url": "https://lumi-geo.pages.dev/",
+      "source": "lumi-geo.pages.dev",
+      "date": "2026-10-29"
     },
     {
       "type": "待核实线索",
-      "title": "Microsoft Offers Buyouts to 60k Employees",
+      "title": "HLock: Harness Portability for Agent Configs",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.nytimes.com/2026/10/26/technology/microsoft-buyouts-ai-spending.html",
-      "source": "www.nytimes.com",
-      "date": "2026-10-28"
+      "url": "https://docs.hlock.ai/",
+      "source": "docs.hlock.ai",
+      "date": "2026-10-29"
     },
     {
       "type": "待核实线索",
-      "title": "Do Guardrails Make AI Coding Agents Better? What 270 Runs Showed",
+      "title": "The Beleaguered Chip Sellers Getting Their Revenge on Apple",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://secondtimeisabug.com/blog/coding-agent-guardrails-270-runs/",
-      "source": "secondtimeisabug.com",
-      "date": "2026-10-28"
+      "url": "https://www.wsj.com/tech/apple-iphone-memory-chips-ai-c0084cc9",
+      "source": "www.wsj.com",
+      "date": "2026-10-29"
     },
     {
       "type": "待核实线索",
-      "title": "Microsoft offers voluntary buyouts as AI leads to efficiency push",
+      "title": "A zero-dependency auditor for AI agent exposure (secrets, SSH, configs)",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
-      "source": "www.cnbc.com",
-      "date": "2026-10-28"
+      "url": "https://ai-agent-antivirus.space/",
+      "source": "ai-agent-antivirus.space",
+      "date": "2026-10-29"
     },
     {
       "type": "待核实线索",
-      "title": "A hand-picked gallery of AI-generated motion graphics and their prompts",
+      "title": "Latency, energy and memory of π0.5, GR00T, SmolVLA and more on Jetson boards)",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://motioncrackers.com",
-      "source": "motioncrackers.com",
-      "date": "2026-10-28"
+      "url": "https://ixian.zetic.ai/models/compare",
+      "source": "ixian.zetic.ai",
+      "date": "2026-10-29"
     },
     {
       "type": "待核实线索",
-      "title": "Show HN: Misery in America",
+      "title": "Opera adds local AI to its browsers",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://sightspinner.ai/blog/misery-in-america-2026-10-28.html",
-      "source": "sightspinner.ai",
-      "date": "2026-10-28"
+      "url": "https://press.opera.com/2026/10/27/opera-doubles-down-on-local-ai-shipping-models-directly-in-its-browsers/",
+      "source": "press.opera.com",
+      "date": "2026-10-29"
     }
   ],
   "candidate_count": 12
