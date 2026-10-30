@@ -1,67 +1,67 @@
 {
-  "date": "2026-10-29",
-  "generated_at": "2026-10-29T02:34:49.036255+00:00",
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T02:43:53.353378+00:00",
   "method": "headline-only, not independently verified",
   "stories": [
     {
       "type": "待核实线索",
-      "title": "I built a Chrome extension that shows you a web page the way AI crawlers see it",
+      "title": "CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://lumi-geo.pages.dev/",
-      "source": "lumi-geo.pages.dev",
-      "date": "2026-10-29"
+      "url": "https://www.penligent.ai/hackinglabs/cve-2026-98432/",
+      "source": "www.penligent.ai",
+      "date": "2026-10-30"
     },
     {
       "type": "待核实线索",
-      "title": "HLock: Harness Portability for Agent Configs",
+      "title": "How I Built the Most AI-Pilled Company in the World",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://docs.hlock.ai/",
-      "source": "docs.hlock.ai",
-      "date": "2026-10-29"
+      "url": "https://x.com/jsnnsa/status/2115623382721126826?a=fjiH4cVowfsIKfO0urI&s=46",
+      "source": "x.com",
+      "date": "2026-10-30"
     },
     {
       "type": "待核实线索",
-      "title": "The Beleaguered Chip Sellers Getting Their Revenge on Apple",
+      "title": "Google eng is sure AI will destroy humanity he's stopped saving for retirement",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.wsj.com/tech/apple-iphone-memory-chips-ai-c0084cc9",
-      "source": "www.wsj.com",
-      "date": "2026-10-29"
+      "url": "https://finance.yahoo.com/technology/ai/articles/former-google-engineer-sure-ai-103000827.html",
+      "source": "finance.yahoo.com",
+      "date": "2026-10-30"
     },
     {
       "type": "待核实线索",
-      "title": "A zero-dependency auditor for AI agent exposure (secrets, SSH, configs)",
+      "title": "Show HN: NovelHiveAI – A tool to turn novels into a multi-Voice audiobook",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://ai-agent-antivirus.space/",
-      "source": "ai-agent-antivirus.space",
-      "date": "2026-10-29"
+      "url": "https://novelhive.ai/",
+      "source": "novelhive.ai",
+      "date": "2026-10-30"
     },
     {
       "type": "待核实线索",
-      "title": "Latency, energy and memory of π0.5, GR00T, SmolVLA and more on Jetson boards)",
+      "title": "The AI Data Center Explained – From Electricity to ChatGPT [video]",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://ixian.zetic.ai/models/compare",
-      "source": "ixian.zetic.ai",
-      "date": "2026-10-29"
+      "url": "https://www.youtube.com/watch?v=ckoi0RTEgcY",
+      "source": "www.youtube.com",
+      "date": "2026-10-30"
     },
     {
       "type": "待核实线索",
-      "title": "Opera adds local AI to its browsers",
+      "title": "Sterling Anderson doesn't think humanoid robots should be building cars",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://press.opera.com/2026/10/27/opera-doubles-down-on-local-ai-shipping-models-directly-in-its-browsers/",
-      "source": "press.opera.com",
-      "date": "2026-10-29"
+      "url": "https://www.theverge.com/transportation/1018625/gm-sterling-anderson-interview-robots-ai-autonomous-data-privacy",
+      "source": "www.theverge.com",
+      "date": "2026-10-30"
     }
   ],
   "candidate_count": 12
