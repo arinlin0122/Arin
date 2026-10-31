@@ -1,67 +1,67 @@
 {
-  "date": "2026-10-30",
-  "generated_at": "2026-10-30T02:43:53.353378+00:00",
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T02:33:45.908807+00:00",
   "method": "headline-only, not independently verified",
   "stories": [
     {
       "type": "待核实线索",
-      "title": "CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation",
+      "title": "Do Defenders Still Matter?",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.penligent.ai/hackinglabs/cve-2026-98432/",
-      "source": "www.penligent.ai",
-      "date": "2026-10-30"
+      "url": "https://www.ac3.com.au/resources/ai-is-prolific-do-defenders-still-matter",
+      "source": "www.ac3.com.au",
+      "date": "2026-10-31"
     },
     {
       "type": "待核实线索",
-      "title": "How I Built the Most AI-Pilled Company in the World",
+      "title": "Making it easier for websites to express AI training preferences",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://x.com/jsnnsa/status/2115623382721126826?a=fjiH4cVowfsIKfO0urI&s=46",
-      "source": "x.com",
-      "date": "2026-10-30"
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences/",
+      "source": "openai.com",
+      "date": "2026-10-31"
     },
     {
       "type": "待核实线索",
-      "title": "Google eng is sure AI will destroy humanity he's stopped saving for retirement",
+      "title": "Show HN: Ghost in the Log – a Halloween log investigation with a live AI",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://finance.yahoo.com/technology/ai/articles/former-google-engineer-sure-ai-103000827.html",
-      "source": "finance.yahoo.com",
-      "date": "2026-10-30"
+      "url": "https://ghost-in-the-log.vercel.app/",
+      "source": "ghost-in-the-log.vercel.app",
+      "date": "2026-10-31"
     },
     {
       "type": "待核实线索",
-      "title": "Show HN: NovelHiveAI – A tool to turn novels into a multi-Voice audiobook",
+      "title": "Anthropomorphize AI, but first learn what 'AI wants' means",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://novelhive.ai/",
-      "source": "novelhive.ai",
-      "date": "2026-10-30"
+      "url": "https://blog.kolen.dev/LLM/want",
+      "source": "blog.kolen.dev",
+      "date": "2026-10-31"
     },
     {
       "type": "待核实线索",
-      "title": "The AI Data Center Explained – From Electricity to ChatGPT [video]",
+      "title": "Rewriting Copyright Law for Generative AI Would Hurt Everyone",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.youtube.com/watch?v=ckoi0RTEgcY",
-      "source": "www.youtube.com",
-      "date": "2026-10-30"
+      "url": "https://www.eff.org/deeplinks/2026/10/rewriting-copyright-law-generative-ai-would-hurt-everyone",
+      "source": "www.eff.org",
+      "date": "2026-10-31"
     },
     {
       "type": "待核实线索",
-      "title": "Sterling Anderson doesn't think humanoid robots should be building cars",
+      "title": "Google's $500B bloodbath reflects the danger it faces from AI",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.theverge.com/transportation/1018625/gm-sterling-anderson-interview-robots-ai-autonomous-data-privacy",
-      "source": "www.theverge.com",
-      "date": "2026-10-30"
+      "url": "https://www.economist.com/business/2026/10/29/googles-500bn-bloodbath-reflects-the-danger-it-faces-from-aiFromTheEconomist",
+      "source": "www.economist.com",
+      "date": "2026-10-31"
     }
   ],
   "candidate_count": 12
