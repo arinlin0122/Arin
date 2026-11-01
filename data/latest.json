@@ -1,67 +1,67 @@
 {
-  "date": "2026-10-31",
-  "generated_at": "2026-10-31T02:33:45.908807+00:00",
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T02:23:20.876617+00:00",
   "method": "headline-only, not independently verified",
   "stories": [
     {
       "type": "待核实线索",
-      "title": "Do Defenders Still Matter?",
+      "title": "James Mickens' Talk: A Sober Analysis of AI Impact (LABScon '26)",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.ac3.com.au/resources/ai-is-prolific-do-defenders-still-matter",
-      "source": "www.ac3.com.au",
-      "date": "2026-10-31"
+      "url": "https://www.youtube.com/watch?v=usZLo_9Jz54",
+      "source": "www.youtube.com",
+      "date": "2026-11-01"
     },
     {
       "type": "待核实线索",
-      "title": "Making it easier for websites to express AI training preferences",
+      "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences/",
-      "source": "openai.com",
-      "date": "2026-10-31"
+      "url": "https://arxiv.org/abs/2409.02292",
+      "source": "arxiv.org",
+      "date": "2026-11-01"
     },
     {
       "type": "待核实线索",
-      "title": "Show HN: Ghost in the Log – a Halloween log investigation with a live AI",
+      "title": "Show HN: LinkedIn-ops – Zero-dependency CDP automation built for AI agents",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://ghost-in-the-log.vercel.app/",
-      "source": "ghost-in-the-log.vercel.app",
-      "date": "2026-10-31"
+      "url": "https://github.com/shashtag-ventures/linkedin-ops",
+      "source": "github.com",
+      "date": "2026-11-01"
     },
     {
       "type": "待核实线索",
-      "title": "Anthropomorphize AI, but first learn what 'AI wants' means",
+      "title": "WiCi: Connecting GPUs over WiFi",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://blog.kolen.dev/LLM/want",
-      "source": "blog.kolen.dev",
-      "date": "2026-10-31"
+      "url": "https://wici.ai",
+      "source": "wici.ai",
+      "date": "2026-11-01"
     },
     {
       "type": "待核实线索",
-      "title": "Rewriting Copyright Law for Generative AI Would Hurt Everyone",
+      "title": "How AI may drive union-resistant tech workers to the bargaining table",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.eff.org/deeplinks/2026/10/rewriting-copyright-law-generative-ai-would-hurt-everyone",
-      "source": "www.eff.org",
-      "date": "2026-10-31"
+      "url": "https://www.theguardian.com/technology/2026/jul/21/ai-tech-workers-unionize",
+      "source": "www.theguardian.com",
+      "date": "2026-11-01"
     },
     {
       "type": "待核实线索",
-      "title": "Google's $500B bloodbath reflects the danger it faces from AI",
+      "title": "The Elephant-Goldfish Model plugin for spec-driven AI development",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.economist.com/business/2026/10/29/googles-500bn-bloodbath-reflects-the-danger-it-faces-from-aiFromTheEconomist",
-      "source": "www.economist.com",
-      "date": "2026-10-31"
+      "url": "https://opensource.googleblog.com/2026/10/introducing-elephant-goldfish-model-plugin.html",
+      "source": "opensource.googleblog.com",
+      "date": "2026-11-01"
     }
   ],
   "candidate_count": 12
