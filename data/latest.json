@@ -1,67 +1,67 @@
 {
-  "date": "2026-11-02",
-  "generated_at": "2026-11-02T02:37:37.000138+00:00",
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T03:57:41.739514+00:00",
   "method": "headline-only, not independently verified",
   "stories": [
     {
       "type": "待核实线索",
-      "title": "New AI-driven malware feeds stolen data to Claude to rank victims' assets",
+      "title": "MVP for a WW2 FPS Written by AI",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/new-ai-driven-windows-malware-feeds-stolen-data-to-claude-to-rank-victims-assets-by-value-then-deletes-itself-payload-builds-custom-target-assessment-can-switch-models-if-one-refuses-or-skip-the-ai-step-entirely",
-      "source": "www.tomshardware.com",
-      "date": "2026-11-02"
+      "url": "https://hng-production-47bb.up.railway.app/",
+      "source": "hng-production-47bb.up.railway.app",
+      "date": "2026-11-03"
     },
     {
       "type": "待核实线索",
-      "title": "A Powerful Mosquito-Hunting Laser Uses A.I. To Zap Winged Pests",
+      "title": "Show HN: CheapGPT – a free local AI assistant powered by Chrome's Gemini Nano",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.nytimes.com/2026/10/30/business/mosquito-laser-ai.html",
-      "source": "www.nytimes.com",
-      "date": "2026-11-02"
+      "url": "https://www.predatorray.me/CheapGPT/",
+      "source": "www.predatorray.me",
+      "date": "2026-11-03"
     },
     {
       "type": "待核实线索",
-      "title": "How to Model \"Taarof\" with AI [video]",
+      "title": "Own Your HackerTube,an AI Curator Inspired by Karpathy's HackerTube",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://youtu.be/X7vf7koPxKg?si=qTC7OOblJyWjibv6&t=829",
-      "source": "youtu.be",
-      "date": "2026-11-02"
+      "url": "https://ownhackertube.cc/",
+      "source": "ownhackertube.cc",
+      "date": "2026-11-03"
     },
     {
       "type": "待核实线索",
-      "title": "AI fan wikis riddled with errors are muddying the waters of games culture",
+      "title": "Claude's new rules against game cloning won't stop the AI copying boom",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
-      "source": "www.eurogamer.net",
-      "date": "2026-11-02"
+      "url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
+      "source": "arstechnica.com",
+      "date": "2026-11-03"
     },
     {
       "type": "待核实线索",
-      "title": "AI Can Write More of the Code. We Still Have to Engineer the System",
+      "title": "Show HN: PhoneUse – Phones for AI Agents",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://picon.dev/en/publications/ai-assisted-engineering/",
-      "source": "picon.dev",
-      "date": "2026-11-02"
+      "url": "https://www.phoneuse.com/",
+      "source": "www.phoneuse.com",
+      "date": "2026-11-03"
     },
     {
       "type": "待核实线索",
-      "title": "Zhipu AI: China's Enterprise AI Champion [video]",
+      "title": "An AI visibility checker that runs in the browser",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.youtube.com/watch?v=y5YKL75e78Y",
-      "source": "www.youtube.com",
-      "date": "2026-11-02"
+      "url": "https://lumi-geo.pages.dev/",
+      "source": "lumi-geo.pages.dev",
+      "date": "2026-11-03"
     }
   ],
   "candidate_count": 12
