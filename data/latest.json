@@ -1,67 +1,67 @@
 {
-  "date": "2026-11-03",
-  "generated_at": "2026-11-03T03:57:41.739514+00:00",
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T03:04:18.322254+00:00",
   "method": "headline-only, not independently verified",
   "stories": [
     {
       "type": "待核实线索",
-      "title": "MVP for a WW2 FPS Written by AI",
+      "title": "Is hosting an open-source inference engine profitable?",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://hng-production-47bb.up.railway.app/",
-      "source": "hng-production-47bb.up.railway.app",
-      "date": "2026-11-03"
+      "url": "https://userecurrence.ai/research/is-hosting-open-source-inference-profitable",
+      "source": "userecurrence.ai",
+      "date": "2026-11-04"
     },
     {
       "type": "待核实线索",
-      "title": "Show HN: CheapGPT – a free local AI assistant powered by Chrome's Gemini Nano",
+      "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.predatorray.me/CheapGPT/",
-      "source": "www.predatorray.me",
-      "date": "2026-11-03"
+      "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+      "source": "www.wsj.com",
+      "date": "2026-11-04"
     },
     {
       "type": "待核实线索",
-      "title": "Own Your HackerTube,an AI Curator Inspired by Karpathy's HackerTube",
+      "title": "I Built an AI That Works Through the Apocalypse – Will Prowse [video]",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://ownhackertube.cc/",
-      "source": "ownhackertube.cc",
-      "date": "2026-11-03"
+      "url": "https://www.youtube.com/watch?v=E2N7IsZ_Xio",
+      "source": "www.youtube.com",
+      "date": "2026-11-04"
     },
     {
       "type": "待核实线索",
-      "title": "Claude's new rules against game cloning won't stop the AI copying boom",
+      "title": "Old, Polluting Jet Engines Are Being Scavenged to Power Data Centers",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
-      "source": "arstechnica.com",
-      "date": "2026-11-03"
+      "url": "https://www.nytimes.com/2026/11/03/climate/jet-engines-ai-data-center-generators-boneyard.html",
+      "source": "www.nytimes.com",
+      "date": "2026-11-04"
     },
     {
       "type": "待核实线索",
-      "title": "Show HN: PhoneUse – Phones for AI Agents",
+      "title": "OpenAI is quietly renaming data centers 'compute campuses'",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.phoneuse.com/",
-      "source": "www.phoneuse.com",
-      "date": "2026-11-03"
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
+      "source": "www.theverge.com",
+      "date": "2026-11-04"
     },
     {
       "type": "待核实线索",
-      "title": "An AI visibility checker that runs in the browser",
+      "title": "Show HN: Pauseless – Free silence/filler-word remover from videos, on-browser",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://lumi-geo.pages.dev/",
-      "source": "lumi-geo.pages.dev",
-      "date": "2026-11-03"
+      "url": "https://tahaygun.github.io/pauseless/",
+      "source": "tahaygun.github.io",
+      "date": "2026-11-04"
     }
   ],
   "candidate_count": 12
