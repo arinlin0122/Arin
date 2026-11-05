@@ -1,67 +1,67 @@
 {
-  "date": "2026-11-04",
-  "generated_at": "2026-11-04T03:04:18.322254+00:00",
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T03:35:07.880179+00:00",
   "method": "headline-only, not independently verified",
   "stories": [
     {
       "type": "待核实线索",
-      "title": "Is hosting an open-source inference engine profitable?",
+      "title": "Learnings from Auditing Public Evaluations",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://userecurrence.ai/research/is-hosting-open-source-inference-profitable",
-      "source": "userecurrence.ai",
-      "date": "2026-11-04"
+      "url": "https://www.primeintellect.ai/blog/auditing-public-evaluations",
+      "source": "www.primeintellect.ai",
+      "date": "2026-11-05"
     },
     {
       "type": "待核实线索",
-      "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+      "title": "Flims and TV shows created using AI have now reached a high level of quality",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
-      "source": "www.wsj.com",
-      "date": "2026-11-04"
+      "url": "https://crateh.com/en",
+      "source": "crateh.com",
+      "date": "2026-11-05"
     },
     {
       "type": "待核实线索",
-      "title": "I Built an AI That Works Through the Apocalypse – Will Prowse [video]",
+      "title": "Infinite Slop",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.youtube.com/watch?v=E2N7IsZ_Xio",
-      "source": "www.youtube.com",
-      "date": "2026-11-04"
+      "url": "https://infiniteslop.ai/",
+      "source": "infiniteslop.ai",
+      "date": "2026-11-05"
     },
     {
       "type": "待核实线索",
-      "title": "Old, Polluting Jet Engines Are Being Scavenged to Power Data Centers",
+      "title": "Transcribe Video to Text – Transcribe Video to Text Online Free",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.nytimes.com/2026/11/03/climate/jet-engines-ai-data-center-generators-boneyard.html",
-      "source": "www.nytimes.com",
-      "date": "2026-11-04"
+      "url": "https://videotranscriber.ai/",
+      "source": "videotranscriber.ai",
+      "date": "2026-11-05"
     },
     {
       "type": "待核实线索",
-      "title": "OpenAI is quietly renaming data centers 'compute campuses'",
+      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
+      "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
       "source": "www.theverge.com",
-      "date": "2026-11-04"
+      "date": "2026-11-05"
     },
     {
       "type": "待核实线索",
-      "title": "Show HN: Pauseless – Free silence/filler-word remover from videos, on-browser",
+      "title": "2026: The State of Enterprise AI",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://tahaygun.github.io/pauseless/",
-      "source": "tahaygun.github.io",
-      "date": "2026-11-04"
+      "url": "https://menlovc.com/perspective/2026-the-state-of-enterprise-ai/",
+      "source": "menlovc.com",
+      "date": "2026-11-05"
     }
   ],
   "candidate_count": 12
