@@ -1,67 +1,67 @@
 {
-  "date": "2026-11-05",
-  "generated_at": "2026-11-05T03:35:07.880179+00:00",
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T03:30:02.807269+00:00",
   "method": "headline-only, not independently verified",
   "stories": [
     {
       "type": "待核实线索",
-      "title": "Learnings from Auditing Public Evaluations",
+      "title": "Open AI Cellular: Open platform for prototyping and testing AI based 6G",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.primeintellect.ai/blog/auditing-public-evaluations",
-      "source": "www.primeintellect.ai",
-      "date": "2026-11-05"
+      "url": "https://www.openaicellular.org",
+      "source": "www.openaicellular.org",
+      "date": "2026-11-06"
     },
     {
       "type": "待核实线索",
-      "title": "Flims and TV shows created using AI have now reached a high level of quality",
+      "title": "Nvidia Kubernetes Engine (NVKE)",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://crateh.com/en",
-      "source": "crateh.com",
-      "date": "2026-11-05"
+      "url": "https://github.com/dsx-ai-factory/nvke",
+      "source": "github.com",
+      "date": "2026-11-06"
     },
     {
       "type": "待核实线索",
-      "title": "Infinite Slop",
+      "title": "You Had Me at \"Hello\": A Chinese‑Language Framework Targeting AI Infrastructure",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://infiniteslop.ai/",
-      "source": "infiniteslop.ai",
-      "date": "2026-11-05"
+      "url": "https://era.security/blog/greeter-flowise-ai-infrastructure-attack",
+      "source": "era.security",
+      "date": "2026-11-06"
     },
     {
       "type": "待核实线索",
-      "title": "Transcribe Video to Text – Transcribe Video to Text Online Free",
+      "title": "The Farm Robotics Challenge",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://videotranscriber.ai/",
-      "source": "videotranscriber.ai",
-      "date": "2026-11-05"
+      "url": "https://www.farmroboticschallenge.ai",
+      "source": "www.farmroboticschallenge.ai",
+      "date": "2026-11-06"
     },
     {
       "type": "待核实线索",
-      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+      "title": "Perplexity Teammates",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
-      "source": "www.theverge.com",
-      "date": "2026-11-05"
+      "url": "https://www.perplexity.ai/hub/products/teammate",
+      "source": "www.perplexity.ai",
+      "date": "2026-11-06"
     },
     {
       "type": "待核实线索",
-      "title": "2026: The State of Enterprise AI",
+      "title": "Claude was faster and cheaper. We took the scenic route anyway",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://menlovc.com/perspective/2026-the-state-of-enterprise-ai/",
-      "source": "menlovc.com",
-      "date": "2026-11-05"
+      "url": "https://blog.grainulation.org/verify-then-vote/",
+      "source": "blog.grainulation.org",
+      "date": "2026-11-06"
     }
   ],
   "candidate_count": 12
