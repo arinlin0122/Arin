@@ -1,67 +1,67 @@
 {
-  "date": "2026-11-06",
-  "generated_at": "2026-11-06T03:30:02.807269+00:00",
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T02:57:33.814322+00:00",
   "method": "headline-only, not independently verified",
   "stories": [
     {
       "type": "待核实线索",
-      "title": "Open AI Cellular: Open platform for prototyping and testing AI based 6G",
+      "title": "Digestive Tract for Digestion, Respiration in Air-Breathing Weatherloach [pdf]",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.openaicellular.org",
-      "source": "www.openaicellular.org",
-      "date": "2026-11-06"
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11201251/",
+      "source": "pmc.ncbi.nlm.nih.gov",
+      "date": "2026-11-07"
     },
     {
       "type": "待核实线索",
-      "title": "Nvidia Kubernetes Engine (NVKE)",
+      "title": "I Tested a Popular A.I. Slop Detector. It Felt Empowering",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://github.com/dsx-ai-factory/nvke",
-      "source": "github.com",
-      "date": "2026-11-06"
+      "url": "https://www.nytimes.com/2026/08/13/technology/personaltech/pangram-ai-detector-test.html",
+      "source": "www.nytimes.com",
+      "date": "2026-11-07"
     },
     {
       "type": "待核实线索",
-      "title": "You Had Me at \"Hello\": A Chinese‑Language Framework Targeting AI Infrastructure",
+      "title": "The AI sell-off compared to well-known stock market crashes",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://era.security/blog/greeter-flowise-ai-infrastructure-attack",
-      "source": "era.security",
-      "date": "2026-11-06"
+      "url": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
+      "source": "www.kadoa.com",
+      "date": "2026-11-07"
     },
     {
       "type": "待核实线索",
-      "title": "The Farm Robotics Challenge",
+      "title": "Diana – a terminal that records what your coding agents did",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.farmroboticschallenge.ai",
-      "source": "www.farmroboticschallenge.ai",
-      "date": "2026-11-06"
+      "url": "https://heydiana.ai/",
+      "source": "heydiana.ai",
+      "date": "2026-11-07"
     },
     {
       "type": "待核实线索",
-      "title": "Perplexity Teammates",
+      "title": "Coding agents ranked for builders shipping AI software",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.perplexity.ai/hub/products/teammate",
-      "source": "www.perplexity.ai",
-      "date": "2026-11-06"
+      "url": "https://rankings.leffke.com/categories/coding-agents",
+      "source": "rankings.leffke.com",
+      "date": "2026-11-07"
     },
     {
       "type": "待核实线索",
-      "title": "Claude was faster and cheaper. We took the scenic route anyway",
+      "title": "Z2RAM – HBM replacement, no capacitor, mass manufacturable at 300nm",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://blog.grainulation.org/verify-then-vote/",
-      "source": "blog.grainulation.org",
-      "date": "2026-11-06"
+      "url": "https://www.nagarelabs.ai/",
+      "source": "www.nagarelabs.ai",
+      "date": "2026-11-07"
     }
   ],
   "candidate_count": 12
