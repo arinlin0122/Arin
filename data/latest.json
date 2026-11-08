@@ -1,67 +1,67 @@
 {
-  "date": "2026-11-07",
-  "generated_at": "2026-11-07T02:57:33.814322+00:00",
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T02:35:15.390336+00:00",
   "method": "headline-only, not independently verified",
   "stories": [
     {
       "type": "待核实线索",
-      "title": "Digestive Tract for Digestion, Respiration in Air-Breathing Weatherloach [pdf]",
+      "title": "Why mandating AI use in the workplace can backfire",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11201251/",
-      "source": "pmc.ncbi.nlm.nih.gov",
-      "date": "2026-11-07"
+      "url": "https://www.msn.com/en-us/news/other/why-mandating-ai-use-in-the-workplace-can-backfire/ar-AA2gAwkW",
+      "source": "www.msn.com",
+      "date": "2026-11-08"
     },
     {
       "type": "待核实线索",
-      "title": "I Tested a Popular A.I. Slop Detector. It Felt Empowering",
+      "title": "AIG Mistakenly Locks and Erases iPhone and Cannot Resolve After 3 Weeks",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.nytimes.com/2026/08/13/technology/personaltech/pangram-ai-detector-test.html",
-      "source": "www.nytimes.com",
-      "date": "2026-11-07"
+      "url": "https://www.reddit.com/r/iphone/comments/1xq6lky/warning_to_all_applecare_customers/",
+      "source": "www.reddit.com",
+      "date": "2026-11-08"
     },
     {
       "type": "待核实线索",
-      "title": "The AI sell-off compared to well-known stock market crashes",
+      "title": "Consumer brain wave headsets threaten privacy",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
-      "source": "www.kadoa.com",
-      "date": "2026-11-07"
+      "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
+      "source": "www.science.org",
+      "date": "2026-11-08"
     },
     {
       "type": "待核实线索",
-      "title": "Diana – a terminal that records what your coding agents did",
+      "title": "AI agents stole 190k gaming credentials for under $400 in model costs",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://heydiana.ai/",
-      "source": "heydiana.ai",
-      "date": "2026-11-07"
+      "url": "https://research.checkpoint.com/2026/hacking-on-autopilot-inside-artex-cybercrime-campaigns/",
+      "source": "research.checkpoint.com",
+      "date": "2026-11-08"
     },
     {
       "type": "待核实线索",
-      "title": "Coding agents ranked for builders shipping AI software",
+      "title": "AI Spend Is Increasing but Isn't Causing a SaaSpocalypse",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://rankings.leffke.com/categories/coding-agents",
-      "source": "rankings.leffke.com",
-      "date": "2026-11-07"
+      "url": "https://www.forbes.com/sites/timkeary/2026/11/05/zip-finds-ai-spend-is-increasing-but-isnt-causing-a-saaspocalypse/",
+      "source": "www.forbes.com",
+      "date": "2026-11-08"
     },
     {
       "type": "待核实线索",
-      "title": "Z2RAM – HBM replacement, no capacitor, mass manufacturable at 300nm",
+      "title": "Quantum Computers Are Poised to Crack Encryption. AI Could Beat Them to It.",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.nagarelabs.ai/",
-      "source": "www.nagarelabs.ai",
-      "date": "2026-11-07"
+      "url": "https://www.wsj.com/tech/ai/ai-math-online-encryption-quantum-computers-57926bb2",
+      "source": "www.wsj.com",
+      "date": "2026-11-08"
     }
   ],
   "candidate_count": 12
