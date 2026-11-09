@@ -1,38 +1,38 @@
 {
   "schema_version": 1,
-  "attempted_at": "2026-11-08T22:06:04.196913+00:00",
-  "last_success_at": "2026-11-08T22:06:04.196913+00:00",
+  "attempted_at": "2026-11-09T06:30:41.300168+00:00",
+  "last_success_at": "2026-11-09T06:30:41.300168+00:00",
   "status": "ok",
   "sources": [
     {
       "topic": "Elon Musk",
       "url": "https://news.google.com/rss/search?q=%22Elon+Musk%22+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "last_success_at": "2026-11-08T22:06:04.196913+00:00"
+      "last_success_at": "2026-11-09T06:30:41.300168+00:00"
     },
     {
       "topic": "xAI",
       "url": "https://news.google.com/rss/search?q=%22xAI%22+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "last_success_at": "2026-11-08T22:06:04.196913+00:00"
+      "last_success_at": "2026-11-09T06:30:41.300168+00:00"
     },
     {
       "topic": "Tesla",
       "url": "https://news.google.com/rss/search?q=%22Tesla%22+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "last_success_at": "2026-11-08T22:06:04.196913+00:00"
+      "last_success_at": "2026-11-09T06:30:41.300168+00:00"
     },
     {
       "topic": "SpaceX",
       "url": "https://news.google.com/rss/search?q=%22SpaceX%22+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "last_success_at": "2026-11-08T22:06:04.196913+00:00"
+      "last_success_at": "2026-11-09T06:30:41.300168+00:00"
     },
     {
       "topic": "Neuralink",
       "url": "https://news.google.com/rss/search?q=%22Neuralink%22+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "last_success_at": "2026-11-08T22:06:04.196913+00:00"
+      "last_success_at": "2026-11-09T06:30:41.300168+00:00"
     }
   ],
   "items": [
@@ -41,7 +41,14 @@
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9XeFVQR0UwbnFselBRcWJuZHAxRmpKbHlTVUlJem1lNWhzMW9zNkM0R2Z5emFqbkRwdjZNd3l1aENOeFc4cVlJTFU2RW02a2tU?oc=5",
       "source": "SpaceX",
       "topic": "SpaceX",
-      "published_at": "2026-11-08T21:23:29+00:00"
+      "published_at": "2026-11-09T06:27:24+00:00"
+    },
+    {
+      "title": "Tesla Announces It Will Discontinue the Cybertruck, a Culture War on Wheels - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBQNzhsUk9VMGxqSXoxRUJqbURmWjdsbmlPYjZWOTV2Y05hdnlaYTBiMjJoS2tZT1VDUER0TUVSYUtaN3J6bng1UkQ5c1Z0QmM0WGpsaUdzT1RoTDVxdmVsT2g3UEthYW5ueDRFRzhFZFY3UWVQaWt3d2FZUQ?oc=5",
+      "source": "The New York Times",
+      "topic": "Tesla",
+      "published_at": "2026-11-08T17:40:38+00:00"
     },
     {
       "title": "xAI's Jet Engine-Powered Data Center Has Experts Raising The Alarm - SlashGear",
@@ -65,11 +72,11 @@
       "published_at": "2026-11-07T22:18:48+00:00"
     },
     {
-      "title": "Tesla Cybercab Goes Personal: Liquid Silver, 40 kWh Pack Confirmed - BASENOR - Tesla Accessories",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMlY1SU93TlZETm9CTTRtWmVSc2plSUdZSzRwQUR2dUVWNGxraUJQVWZmMFkxR2lVRlN0ejRNaXJwR1pJSmpWYlc0RURqblNoOW00UXJhQXcxbEdLSGRzQWRlaWxmdmZ1WGJEWEgtOXhra05adFQzaEMydVBVaHB3c0NZcWZrcVhrdkN0MFNlWkVGWC1oYnFCenNJNDFiaDc1?oc=5",
-      "source": "BASENOR - Tesla Accessories",
-      "topic": "Tesla",
-      "published_at": "2026-11-07T22:04:14+00:00"
+      "title": "SpaceX's December Lockup Is Nearly the Biggest Share Unlock in IPO History. History Says This Is What Happens Next. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVFVaREdwb29kZHB0WU5zN3RCM0Q5QjBtM2NKUnJnOE42WTZXejVIMGJ0R3RRT2JsbU1Nb2w5dVhrVWZuTGFYdE9rUGwwMThneWxSbEJsWEZnN2JIMm5vZTlvVldQeUNvTFZsX2UyT2xBbl9kR1lBMkVkZ2lNUXVic2NVMUhBREstVDFzRHZMMGRCTGNvT1dZbHVXWktpckhVXzhYUzh3?oc=5",
+      "source": "Yahoo Finance",
+      "topic": "SpaceX",
+      "published_at": "2026-11-07T21:05:00+00:00"
     },
     {
       "title": "SpaceX sets Nov. 13 date for Starship launch and catch - SpaceNews",
@@ -128,11 +135,11 @@
       "published_at": "2026-11-06T20:42:07+00:00"
     },
     {
-      "title": "Why SpaceX Stock Is Up Today - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT1lLREJWVkZHZ3ZXRTU5LTJDSUZlS1FKNHl5OXFibkRSOUtnci1BQTU4ZGczdGp6dU5PeGNRZF82YTdnQnFDd3VLM3lIcTZZcEZOcndTR2FGZ0c0RFFQZnhORGlNR1dQc0I5a3pmRlFseHJ2blZsc3dwd20xMlRmUTZXZlp2Y1JGZ1UxUHU0S3c?oc=5",
+      "title": "Musk Says SpaceX Will Hit a Revenue Number That Not One of Its 37 Analysts Believes - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN1Z5WHVqZTlWWFdqaGJLbjF4Tk8zbk5zUUM2U2dXeFBIN0VEaUxTTXVpdHJSbEVaRk9tOExjZk5mWDc5a01TREpLYzVJRHhpZmR3MXNiMDROcmV2RG5TNzlJRHAwbkJjYy1NWVJwTXhCZ0U4aGNkRmthdXYtVUs2eTQ3X185am5IQmtycjVXc0NMWUhjeFVfdA?oc=5",
       "source": "Yahoo Finance",
       "topic": "SpaceX",
-      "published_at": "2026-11-06T19:18:01+00:00"
+      "published_at": "2026-11-06T20:26:44+00:00"
     },
     {
       "title": "Good Riddance: The Tesla Cybertruck Is Dead - Edmunds",
@@ -156,13 +163,6 @@
       "published_at": "2026-11-06T17:13:45+00:00"
     },
     {
-      "title": "Musk bids farewell to Cybertruck as Tesla bets on robots and self-driving - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOelNJSDFOR0xNbkI3MjJLdlh2WFpzS2VFNEJ0QjcwTllGeVpOVm1ORTF4bE1WMldSX1dxNDhiMFhadGJrdUE0eC1xZmhiRDVqSHpvZzJWWUJlOHNDb2ZLc05HNVp1cDVPQ245OHNXNTVLNi1mamFidVFSYm5WSFNHYjRJT0ZyeXMyVS1vbVlEOVIwSXNNZ0c3Um9INEw0RjRhdVUwWGszTkI1QWxfTno5V3l1TkFDM1VVZnl2X05rRko5cTk3YWJnQW4zVVRrc1gwVDZB?oc=5",
-      "source": "Yahoo Finance",
-      "topic": "Tesla",
-      "published_at": "2026-11-06T16:22:59+00:00"
-    },
-    {
       "title": "Musk Called It Tesla’s ‘Best Product Ever.’ Now the Cybertruck Is Being Scrapped. - WSJ",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTHpMa2lsQWt4MmYySXFrVk5TRTBleFg2akdjT0RhN215TkMwVkFnRm9yeHhBQ3NiZkdKQWV1dENHR19vTzVNYWpIS1dGdDU0dGNSanVmT1BROW9lLTIxMy1wVUJmTTFGNGh0d1JCYTI3VGhfT2dNT1RMVkp4cVJGZnY3RERwOVNOcmlrWjlfTVFxZ3dTNlVqMkxjdDhxMGZ0OVduTlplV2loX0xXZklrclVMNVpzOS02MDlQQQ?oc=5",
       "source": "WSJ",
@@ -175,6 +175,13 @@
       "source": "CNN",
       "topic": "Tesla",
       "published_at": "2026-11-06T14:24:03+00:00"
+    },
+    {
+      "title": "Tesla Will Kill the Cybertruck in 2027 - Car and Driver",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nUTA5ZGlpRjh2ZmpjZkhFOHN3X0FOZHl6QkZmWlpael8zaTZ2aGkxclg3ZzBDWFhZQXJ5Zi16bk81bTFVZnVYb1RkeDFYWENtVzNNLS1yaWxaOEhJckxlWktkSFlLNkNPWDY2aXRtb1BmRnEy?oc=5",
+      "source": "Car and Driver",
+      "topic": "Tesla",
+      "published_at": "2026-11-06T14:08:38+00:00"
     },
     {
       "title": "Tesla to wind down Cybertruck production after years of poor sales in few markets - NBC News",
@@ -199,17 +206,17 @@
     },
     {
       "title": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MOHpuVjVYejRkd2VlX2hvWGF0RDMxYUNzTGcxaTFadzNJT1c0Y19idmNzSl9nNDFFZnUzaWh4VFU4VkNqSWJOR3EzWk91MWhUdGxhamVWaEkxd1lOYVB3QnVOV1l5V0RCcXRndVQ3bE5DUdIBd0FVX3lxTE56Sy1vYlZjU2N0N2tfU3NMOGZ1TnNfaHQ5bmRYV0JxeENDZFpjMElvelY3RW52U2hMYXRkaHM4UlZaWVJaak9vUVVnUllwQ3hIbDhmb3N0d1RYeHdqQTh3cjJ6Z0lXRXVMS1VuclU5cFpfTjNNeXdJ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MOHpuVjVYejRkd2VlX2hvWGF0RDMxYUNzTGcxaTFadzNJT1c0Y19idmNzSl9nNDFFZnUzaWh4VFU4VkNqSWJOR3EzWk91MWhUdGxhamVWaEkxd1lOYVB3QnVOV1l5V0RCcXRndVQ3bE5DUQ?oc=5",
       "source": "CNBC",
       "topic": "Tesla",
       "published_at": "2026-11-06T13:12:36+00:00"
     },
     {
-      "title": "Texas Governor-Elect Requests Pause on Land Talks With SpaceX - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUmo5bGd6NWxSRkMyY09hNDJJMVdYc1RuY1B1UUlrZG4wT2hCdVY3aERmejgwR2RWZlhGRjRLeXVnYXk0X3ZaMVNhSm54LXhVQlgtU2NrS0JSSWV0dXpfUmRtMHlGYmtBYlo1RG53NjJPMTB0QnZENlp0TFJXY0FnQ01yQklnc1hIV0ZmU2lhV28tN3RYdGNvWGdWczU3cENFRHFWaFpBbVNPT3V6UzgyRURR?oc=5",
-      "source": "Bloomberg.com",
-      "topic": "SpaceX",
-      "published_at": "2026-11-06T10:00:00+00:00"
+      "title": "Tesla’s Cybertruck Is Dying - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUFk0ZXU4cmlyMGcyY0ItRW03Wk81cTgxeWJjNHJLbE16ZHBJSFppOXgybTZwSkNJUXlFa1NDd1VrUVVDa0FfWWYzRnMxZDhEbUZqRW9fQ2FxbkE2aHRlUEFzNFU5MG9oanM5dU83QjVBbnh4Rk52b2J1aDcwekRPN1N0Y3ZTcF9POEJPSERNRXI?oc=5",
+      "source": "Yahoo Finance",
+      "topic": "Tesla",
+      "published_at": "2026-11-06T11:09:41+00:00"
     },
     {
       "title": "Musk Says Tesla Will Wind Down Cybertruck Production Next Year To Make Room For Cybercab - Forbes",
@@ -222,13 +229,6 @@
       "title": "Elon Musk | SpaceX, Tesla, xAI, X, & PayPal - Britannica",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xeFllLWI4enZVQmExeDZsV2Ewa19ESXc4XzVlUmc3N29kQmhyRnZOa2dWUlV1SFd2bHBkS3FrX0ZTTW5PekRWaFUweEFOMkgwRDNnRQ?oc=5",
       "source": "Britannica",
-      "topic": "Elon Musk",
-      "published_at": "2026-11-06T08:00:00+00:00"
-    },
-    {
-      "title": "‘The nail that sticks out gets hammered first’: Elon Musk’s net worth falls $113 billion from Tesla and SpaceX drops - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFRGhZalMwZnhqRzhBcW5NQU5QWl9SbjEwMThBY3ZoeHBBUlRvMGRUV0NHanJWcmtKTmdlUkVlazJhRmNvbU9uYXFoRTJOM2hRaDZPZm53QUt3ZUlxYlJuNXlOVXdjVHNFcl8xaVlfTzh0bjJ1NjktUjJibS0wcGs?oc=5",
-      "source": "Fortune",
       "topic": "Elon Musk",
       "published_at": "2026-11-06T08:00:00+00:00"
     },
@@ -268,13 +268,6 @@
       "published_at": "2026-11-05T21:42:17+00:00"
     },
     {
-      "title": "Elon Musk's business empire braces for Democratic wave as Texas flips blue - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTnZDaGFzNXYwekJoM29EUXZoZFp2b2Voa3Vib2hiMU5jQVpNWGFQZXNuMk5DaWdEUUlvVWNpT3BvNjMxcXN2NDBrX29RUlB2clNoUHhLVEpYM0dDUF9PMWxmSVlsQmZ3MEMzWmU0aWFCUE1YQ3FFMHZvY3B3SVUxOXRIYktUM0ZXSld3bm5ETjlGS0hsYmlTcHlEc0hzVTc3ck9PQ3ZLZTBCVEVybXJzTGI4VXFQZDJ3bjB4YndoeUhkeFk?oc=5",
-      "source": "Reuters",
-      "topic": "Elon Musk",
-      "published_at": "2026-11-05T21:33:46+00:00"
-    },
-    {
       "title": "Elon Musk Will Be Investigated Under Democratic Congress—What To Know - Forbes",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORk40Z3QtUVN4MWtITjh3T1Y1SzZaWjVLQ205ME4xWGxBMGY4SG1NUTU3WWw1aUVJVDlzaWpvOXQ1c2o0UElNOFRFX1N2Z0ItbUp0LVo4RWdWLUpUb01pdE9ENm9UNnJDa251N1h1dXl2YkFLcUVUS250eUpxV3VBNkJCWEhjSkxOQ1VETGQ5RFNHdFI4UnQ0YklZd2xDc2lELTRnTXBvOEdJVXkzVHpEZU4wNGhlYnZBSXdnVDF2TWV5VlE?oc=5",
       "source": "Forbes",
@@ -301,13 +294,6 @@
       "source": "BGR",
       "topic": "xAI",
       "published_at": "2026-11-05T17:17:00+00:00"
-    },
-    {
-      "title": "Elon Musk spent at least $225M in Texas. The governor-elect who sued for Abbott emails won anyway - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tclhJM1hWZmlYUDJUdmhiYnFjdnczNlBHclhPYVJITEdTUzZDdDhrY0lCV2tkcFBZeDZyWWVWTldndnZiNGFmQXd0aTNlQzFwMTVYcWN6ZWdZeHZkZ2NYOUNUR056N0FDVHBTdmRyVkZURjRYLW9rMkt0RGg4Q2M?oc=5",
-      "source": "Fortune",
-      "topic": "Elon Musk",
-      "published_at": "2026-11-05T16:45:00+00:00"
     },
     {
       "title": "The Neuralink Paradox: Clinical Realities, Consumer Hype and the Fight Over BCI Innovation - Roar News",
@@ -352,6 +338,13 @@
       "published_at": "2026-11-04T21:11:23+00:00"
     },
     {
+      "title": "After Texas’ blue wave, what happens to Elon Musk and SpaceX? - Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWU1GMlgxZ3l4eUF0TlFZUkExUXFEUXBrdUp6WklCd1RUbkxWY0c2VXhJRDlCcy13Y210YjJ0VEI3MkdJY0lNVXhna2lzU1ZYeF80WWhWLTdiWjllQTQwLVRzTlFOdkFlcE1leFI5Rjh3RnZrNUE1ZUYxME15OXg4TVRwb0xZT0pMdDEwdHEwWkhFN1hqU2JrbGlHV1pUSW1lVTlhOXNXR2Q?oc=5",
+      "source": "Ars Technica",
+      "topic": "Elon Musk",
+      "published_at": "2026-11-04T20:36:05+00:00"
+    },
+    {
       "title": "Jess Asato MP On Taking Elon Musk’s xAI To Court Over Deepfakes: ‘This Is Part Of Women's Freedom’ - ELLE",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMTVqbXNiNzlsN2dkSkllYVNfdkJZUlhSV1RCSTRsSFJfMTF0SEtOQXRBQkFuOHMyRjJpeXowLWZadjVVMWxmV1NuWHpvX2RiQm9HMnp3SFIwX0JUamh3Z0pjQ011TDhqdnRaS0lseVRZa3llSUI0bno4S3NTUEdFbXlGbkI1Y1Jydjg1S1lmTXFLQ19uZHJ2eA?oc=5",
       "source": "ELLE",
@@ -359,11 +352,11 @@
       "published_at": "2026-11-04T17:23:37+00:00"
     },
     {
-      "title": "High-Horsepower EV Showdown: We Compare the Rivian R2 and Tesla Model Y - Car and Driver",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVUFBWVhzcC1HNmgzSmJwaGdCWVpKUEJ0VlRWR2xPUEc0bFltdGtLcjRKU2JPQnBxUWdkQnpYTjM4RjlFeWh2UnJ5QjU4emctaXlJcWRLc3NGVEpHUEJsUlFPcWpYTW9ocHBwQTk4Ni1PUDAxbjlhakNxMlpLendmOXJTTVlEUjJ2T0FvcGNIT2RqMlJGY2c3NWRneTJqZHdQQnFSYV9TVWJlN1VrZVByeXNuMDJRMVdMNEVBdVU0NXlvdDNVb3hiZGl2cnZ1SU1yVkRn?oc=5",
-      "source": "Car and Driver",
-      "topic": "Tesla",
-      "published_at": "2026-11-04T14:57:16+00:00"
+      "title": "The Elon Musk Era of Politics Is Just Beginning - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMENFVEtwcnhmZWQzbDVpenZabmpPak1PeTQ2WGM2M2V1VVFvNUxSaEVTazlRYU9qZnNaSDBFVDY1V2tqSHloeXZQbFBfUEd5U3BBM3RkbDJ3TTIwQy1tZGlad0N5alF5dTFfTE1aWjloTm03S0RVRVd3Z3Boa0R3ZHNRTGQ2UE1BQ1FGRExSOURKRU42eE15RFFybTZVWC05dTY0d3o3b2dFNmNmalpkdkNNdzNSdG4xVHh4SVNGZw?oc=5",
+      "source": "Bloomberg.com",
+      "topic": "Elon Musk",
+      "published_at": "2026-11-04T17:04:04+00:00"
     },
     {
       "title": "SpaceX signs deal with Qualcomm to provide network technology for U.S. mobile service - CNBC",
@@ -455,6 +448,13 @@
       "source": "Bloomberg.com",
       "topic": "Neuralink",
       "published_at": "2026-11-03T08:21:26+00:00"
+    },
+    {
+      "title": "xAI expansion brings more data centers, growing concerns to Southaven - FOX13 Memphis",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPek5DZUVCT3dKYzhNQUN5OGtLVTl1bzdrNHRFemdZSUxFS0p3UjVnLUo5YktwQzJMOFlnNmcwQWVhYm1raE1yenB3TjlPU2g2VzlpTGJxNUVHVlJRemtlUWc5V0ROdDFOMXp6TzNVWS1FZU5zT05KeUgxZ0duZU9zYTljb2VUT3VmTmdpUnNlWmFJMk9MbVowMURJVGNtRDgzWTBFdDFqcy13RGdmYmZlQ2FYYi13WE92LUZGOVcyZlFzTXp0NFY4WklzSWR4TG1KZ1U3R2JhbjZzX2tFVGp5NDU4ZnVMVWs?oc=5",
+      "source": "FOX13 Memphis",
+      "topic": "xAI",
+      "published_at": "2026-11-02T23:08:00+00:00"
     }
   ]
 }
