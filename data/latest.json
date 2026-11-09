@@ -1,67 +1,67 @@
 {
-  "date": "2026-11-08",
-  "generated_at": "2026-11-08T02:35:15.390336+00:00",
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T02:48:45.561734+00:00",
   "method": "headline-only, not independently verified",
   "stories": [
     {
       "type": "待核实线索",
-      "title": "Why mandating AI use in the workplace can backfire",
+      "title": "New Research Tests Whether AI Models Know Their Own Thoughts",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.msn.com/en-us/news/other/why-mandating-ai-use-in-the-workplace-can-backfire/ar-AA2gAwkW",
-      "source": "www.msn.com",
-      "date": "2026-11-08"
+      "url": "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/",
+      "source": "www.quantamagazine.org",
+      "date": "2026-11-09"
     },
     {
       "type": "待核实线索",
-      "title": "AIG Mistakenly Locks and Erases iPhone and Cannot Resolve After 3 Weeks",
+      "title": "Show HN: NLP capabilities of Opus, Astra, Argon measured by Codenames skills",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.reddit.com/r/iphone/comments/1xq6lky/warning_to_all_applecare_customers/",
-      "source": "www.reddit.com",
-      "date": "2026-11-08"
+      "url": "https://wordspies.com/hn",
+      "source": "wordspies.com",
+      "date": "2026-11-09"
     },
     {
       "type": "待核实线索",
-      "title": "Consumer brain wave headsets threaten privacy",
+      "title": "AI-first browser test automation at $0.01 per step",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
-      "source": "www.science.org",
-      "date": "2026-11-08"
+      "url": "https://www.yourAItester.com",
+      "source": "www.youraitester.com",
+      "date": "2026-11-09"
     },
     {
       "type": "待核实线索",
-      "title": "AI agents stole 190k gaming credentials for under $400 in model costs",
+      "title": "Revolut Cut AI Costs 90% and Started Shipping Faster",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://research.checkpoint.com/2026/hacking-on-autopilot-inside-artex-cybercrime-campaigns/",
-      "source": "research.checkpoint.com",
-      "date": "2026-11-08"
+      "url": "https://linas.substack.com/p/revolut-ai-coding-costs-open-source-models",
+      "source": "linas.substack.com",
+      "date": "2026-11-09"
     },
     {
       "type": "待核实线索",
-      "title": "AI Spend Is Increasing but Isn't Causing a SaaSpocalypse",
+      "title": "Microsoft Workers Call for Accountable AI",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.forbes.com/sites/timkeary/2026/11/05/zip-finds-ai-spend-is-increasing-but-isnt-causing-a-saaspocalypse/",
-      "source": "www.forbes.com",
-      "date": "2026-11-08"
+      "url": "https://dash.palform.app/fill/org_0R2JXZPZ7PFWX/form_0R8K0PRYXGM71?f=fat_0R9JYW9RTDRDS",
+      "source": "dash.palform.app",
+      "date": "2026-11-09"
     },
     {
       "type": "待核实线索",
-      "title": "Quantum Computers Are Poised to Crack Encryption. AI Could Beat Them to It.",
+      "title": "Staff at the US center for AI safety are reporting to the White House",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.wsj.com/tech/ai/ai-math-online-encryption-quantum-computers-57926bb2",
-      "source": "www.wsj.com",
-      "date": "2026-11-08"
+      "url": "https://apnews.com/article/ai-safety-trump-white-house-d3318eb2cf011df53e9ddb3e03d25f13",
+      "source": "apnews.com",
+      "date": "2026-11-09"
     }
   ],
   "candidate_count": 12
