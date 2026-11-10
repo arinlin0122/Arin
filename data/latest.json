@@ -1,67 +1,67 @@
 {
-  "date": "2026-11-09",
-  "generated_at": "2026-11-09T02:48:45.561734+00:00",
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T04:41:38.320687+00:00",
   "method": "headline-only, not independently verified",
   "stories": [
     {
       "type": "待核实线索",
-      "title": "New Research Tests Whether AI Models Know Their Own Thoughts",
+      "title": "Anthropic joins AI's natural gas frenzy, buys $3.4B worth of turbines",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/",
-      "source": "www.quantamagazine.org",
-      "date": "2026-11-09"
+      "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+      "source": "techcrunch.com",
+      "date": "2026-11-10"
     },
     {
       "type": "待核实线索",
-      "title": "Show HN: NLP capabilities of Opus, Astra, Argon measured by Codenames skills",
+      "title": "FlashStates Unlocking Flexible Hybrid State Management for Agentic LLM Inference",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://wordspies.com/hn",
-      "source": "wordspies.com",
-      "date": "2026-11-09"
+      "url": "https://flashstates.ai/",
+      "source": "flashstates.ai",
+      "date": "2026-11-10"
     },
     {
       "type": "待核实线索",
-      "title": "AI-first browser test automation at $0.01 per step",
+      "title": "Autonomous AI Agents Conduct End-to-End Research with Human Participants",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.yourAItester.com",
-      "source": "www.youraitester.com",
-      "date": "2026-11-09"
+      "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.76675",
+      "source": "advanced.onlinelibrary.wiley.com",
+      "date": "2026-11-10"
     },
     {
       "type": "待核实线索",
-      "title": "Revolut Cut AI Costs 90% and Started Shipping Faster",
+      "title": "The Red Queen hypothesis – a new way forward for self-improving AI",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://linas.substack.com/p/revolut-ai-coding-costs-open-source-models",
-      "source": "linas.substack.com",
-      "date": "2026-11-09"
+      "url": "https://www.cl.cam.ac.uk/news/2026/07-21-red-queen-hypothesis/",
+      "source": "www.cl.cam.ac.uk",
+      "date": "2026-11-10"
     },
     {
       "type": "待核实线索",
-      "title": "Microsoft Workers Call for Accountable AI",
+      "title": "Trump Says He Told AI Executive to Kiss His Family Goodbye Before Going to Jail",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://dash.palform.app/fill/org_0R2JXZPZ7PFWX/form_0R8K0PRYXGM71?f=fat_0R9JYW9RTDRDS",
-      "source": "dash.palform.app",
-      "date": "2026-11-09"
+      "url": "https://gizmodo.com/trump-says-he-told-an-ai-executive-to-kiss-his-family-goodbye-before-going-to-jail-2000837040",
+      "source": "gizmodo.com",
+      "date": "2026-11-10"
     },
     {
       "type": "待核实线索",
-      "title": "Staff at the US center for AI safety are reporting to the White House",
+      "title": "AI Second Brain Masterclass [video]",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://apnews.com/article/ai-safety-trump-white-house-d3318eb2cf011df53e9ddb3e03d25f13",
-      "source": "apnews.com",
-      "date": "2026-11-09"
+      "url": "https://www.youtube.com/watch?v=QY5joNgjR5o",
+      "source": "www.youtube.com",
+      "date": "2026-11-10"
     }
   ],
   "candidate_count": 12
