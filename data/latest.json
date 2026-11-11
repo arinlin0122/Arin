@@ -1,67 +1,67 @@
 {
-  "date": "2026-11-10",
-  "generated_at": "2026-11-10T04:41:38.320687+00:00",
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T02:52:36.282857+00:00",
   "method": "headline-only, not independently verified",
   "stories": [
     {
       "type": "待核实线索",
-      "title": "Anthropic joins AI's natural gas frenzy, buys $3.4B worth of turbines",
+      "title": "Show HN: Daily GPU Rental Prices Across AWS, Azure, RunPod and Vast.ai",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
-      "source": "techcrunch.com",
-      "date": "2026-11-10"
+      "url": "https://taipeiledger.com/gpu/",
+      "source": "taipeiledger.com",
+      "date": "2026-11-11"
     },
     {
       "type": "待核实线索",
-      "title": "FlashStates Unlocking Flexible Hybrid State Management for Agentic LLM Inference",
+      "title": "Matching product records with a decision model",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://flashstates.ai/",
-      "source": "flashstates.ai",
-      "date": "2026-11-10"
+      "url": "https://codecut.ai/typesafe-jev-vs-rapidfuzz-sentence-transformers/",
+      "source": "codecut.ai",
+      "date": "2026-11-11"
     },
     {
       "type": "待核实线索",
-      "title": "Autonomous AI Agents Conduct End-to-End Research with Human Participants",
+      "title": "The indie game community is in disarray over AI and Big Walk",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.76675",
-      "source": "advanced.onlinelibrary.wiley.com",
-      "date": "2026-11-10"
+      "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+      "source": "www.theverge.com",
+      "date": "2026-11-11"
     },
     {
       "type": "待核实线索",
-      "title": "The Red Queen hypothesis – a new way forward for self-improving AI",
+      "title": "Show HN: A company running in an AI harness",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.cl.cam.ac.uk/news/2026/07-21-red-queen-hypothesis/",
-      "source": "www.cl.cam.ac.uk",
-      "date": "2026-11-10"
+      "url": "https://restless.run/",
+      "source": "restless.run",
+      "date": "2026-11-11"
     },
     {
       "type": "待核实线索",
-      "title": "Trump Says He Told AI Executive to Kiss His Family Goodbye Before Going to Jail",
+      "title": "How to Be a Good Farrier: What the Car Teaches Us About AI and Your Job",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://gizmodo.com/trump-says-he-told-an-ai-executive-to-kiss-his-family-goodbye-before-going-to-jail-2000837040",
-      "source": "gizmodo.com",
-      "date": "2026-11-10"
+      "url": "https://www.sethserver.com/ai/how-to-be-a-good-farrier.html",
+      "source": "www.sethserver.com",
+      "date": "2026-11-11"
     },
     {
       "type": "待核实线索",
-      "title": "AI Second Brain Masterclass [video]",
+      "title": "Could AI's leading men become as powerful as Ford or Rockefeller?",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.youtube.com/watch?v=QY5joNgjR5o",
-      "source": "www.youtube.com",
-      "date": "2026-11-10"
+      "url": "https://www.economist.com/business/2026/04/16/could-ais-leading-men-become-as-powerful-as-ford-or-rockefeller",
+      "source": "www.economist.com",
+      "date": "2026-11-11"
     }
   ],
   "candidate_count": 12
