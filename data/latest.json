@@ -1,67 +1,67 @@
 {
-  "date": "2026-11-11",
-  "generated_at": "2026-11-11T02:52:36.282857+00:00",
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T03:57:05.043168+00:00",
   "method": "headline-only, not independently verified",
   "stories": [
     {
       "type": "待核实线索",
-      "title": "Show HN: Daily GPU Rental Prices Across AWS, Azure, RunPod and Vast.ai",
+      "title": "Show HN: App to help parents find, plan, and review outings with their kids",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://taipeiledger.com/gpu/",
-      "source": "taipeiledger.com",
-      "date": "2026-11-11"
+      "url": "https://sproutings.app/",
+      "source": "sproutings.app",
+      "date": "2026-11-12"
     },
     {
       "type": "待核实线索",
-      "title": "Matching product records with a decision model",
+      "title": "Compromised GitHub accounts push CI secret stealer to 61k repositories",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://codecut.ai/typesafe-jev-vs-rapidfuzz-sentence-transformers/",
-      "source": "codecut.ai",
-      "date": "2026-11-11"
+      "url": "https://www.aikido.dev/blog/compromised-github-accounts-push-ci-secret-stealer-to-tens-of-thousands-of-repositories",
+      "source": "www.aikido.dev",
+      "date": "2026-11-12"
     },
     {
       "type": "待核实线索",
-      "title": "The indie game community is in disarray over AI and Big Walk",
+      "title": "United Airlines Is Banning AI Bots from Booking Flights",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
-      "source": "www.theverge.com",
-      "date": "2026-11-11"
+      "url": "https://www.wsj.com/tech/ai/united-airlines-is-banning-ai-bots-from-booking-flights-5b514b38",
+      "source": "www.wsj.com",
+      "date": "2026-11-12"
     },
     {
       "type": "待核实线索",
-      "title": "Show HN: A company running in an AI harness",
+      "title": "Can commercial stage-gates keep enterprise AI pilots out of procurement stalls?",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://restless.run/",
-      "source": "restless.run",
-      "date": "2026-11-11"
+      "url": "https://pilotmap.bizmasterynow.com/",
+      "source": "pilotmap.bizmasterynow.com",
+      "date": "2026-11-12"
     },
     {
       "type": "待核实线索",
-      "title": "How to Be a Good Farrier: What the Car Teaches Us About AI and Your Job",
+      "title": "Show HN: gethome – a local-first smart home hub with AI",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.sethserver.com/ai/how-to-be-a-good-farrier.html",
-      "source": "www.sethserver.com",
-      "date": "2026-11-11"
+      "url": "https://github.com/gethome-inc/gethome-hub",
+      "source": "github.com",
+      "date": "2026-11-12"
     },
     {
       "type": "待核实线索",
-      "title": "Could AI's leading men become as powerful as Ford or Rockefeller?",
+      "title": "He let an AI read too many court auction listings. Now he is in a Turkish jail",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.economist.com/business/2026/04/16/could-ais-leading-men-become-as-powerful-as-ford-or-rockefeller",
-      "source": "www.economist.com",
-      "date": "2026-11-11"
+      "url": "https://medium.com/@rkzlyldrm/he-let-an-ai-read-too-many-court-auction-listings-now-he-is-in-a-turkish-jail-a26bd486a43a",
+      "source": "medium.com",
+      "date": "2026-11-12"
     }
   ],
   "candidate_count": 12
