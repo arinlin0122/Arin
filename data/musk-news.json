@@ -1,47 +1,89 @@
 {
   "schema_version": 1,
-  "attempted_at": "2026-11-12T19:54:34.014177+00:00",
-  "last_success_at": "2026-11-12T19:54:34.014177+00:00",
+  "attempted_at": "2026-11-13T06:46:53.756286+00:00",
+  "last_success_at": "2026-11-13T06:46:53.756286+00:00",
   "status": "ok",
   "sources": [
     {
       "topic": "Elon Musk",
       "url": "https://news.google.com/rss/search?q=%22Elon+Musk%22+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "last_success_at": "2026-11-12T19:54:34.014177+00:00"
+      "last_success_at": "2026-11-13T06:46:53.756286+00:00"
     },
     {
       "topic": "xAI",
       "url": "https://news.google.com/rss/search?q=%22xAI%22+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "last_success_at": "2026-11-12T19:54:34.014177+00:00"
+      "last_success_at": "2026-11-13T06:46:53.756286+00:00"
     },
     {
       "topic": "Tesla",
       "url": "https://news.google.com/rss/search?q=%22Tesla%22+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "last_success_at": "2026-11-12T19:54:34.014177+00:00"
+      "last_success_at": "2026-11-13T06:46:53.756286+00:00"
     },
     {
       "topic": "SpaceX",
       "url": "https://news.google.com/rss/search?q=%22SpaceX%22+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "last_success_at": "2026-11-12T19:54:34.014177+00:00"
+      "last_success_at": "2026-11-13T06:46:53.756286+00:00"
     },
     {
       "topic": "Neuralink",
       "url": "https://news.google.com/rss/search?q=%22Neuralink%22+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "last_success_at": "2026-11-12T19:54:34.014177+00:00"
+      "last_success_at": "2026-11-13T06:46:53.756286+00:00"
     }
   ],
   "items": [
     {
-      "title": "SpaceX plans over $74 billion investment in Texas, Arizona AI campuses - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdlQwLUxxTENmenRpSFFXVlNUeVkzeURtNWxCZ1RuVEQwdENKV0g3MndreVZsZFYwVGtpT3Q3SDJZU0pHTGI1WFFYWERreFJmbzVjaUtOR2NjUURRMTVHNVlKdGE0VkdRVzRvekpIcHdmRGdOV2kwRXVmbWl1blRIV1VKSjQ4c19FSVFTUWZNM2ptQ0ZaMW96a2UyTFphWjNsSnc3ZmJZdWhHNWpiS19hTDhYSk9vNkpkeng1N3prZ1Y3b1lI?oc=5",
-      "source": "Reuters",
+      "title": "Watch SpaceX attempt a historic Starship launch and double-catch landing today (Nov. 13) - Space",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNHFNbXFIdVRRLUtmNFBVVk0xUlU2aTJMUG5tdUIzQ1ktT3ZuRUVuUlhpSlBJdkRTNEFLYmY5YUZ5QlZPMGdIY1FLZVZJWXRET2FRQ0xzdlA5SDlyVVU0WW9PSEJhb0pNX1R0OEp1bEJmczg0ZHQtUXUtUkJFZ2VtOVR0dFFTcVRaaVFraFNlMGFQcGtSbG5tSExsWVg0MmFSa2cxVE9icmJiWTFGVUVjYzVkYlI3cXU4OFBhUjc2OFZQNmN4UlRlTDQzZkY0QWV0dW9XcU53?oc=5",
+      "source": "Space",
       "topic": "SpaceX",
-      "published_at": "2026-11-12T17:51:48+00:00"
+      "published_at": "2026-11-13T05:07:23+00:00"
+    },
+    {
+      "title": "Tesla FSD Supervised at NZ Expo: 5 Details That Matter - BASENOR - Tesla Accessories",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbWdIQVhfNS1GRnhnRkltVjlPQ2NnMWpWSDNJYkloZzg2Z183aVBncTZIdlVvcWx4bFZlamRzRW1zUU93RmFOYk44OFpMVkF2MktoSXAwaWlqWXBUVWx1M1VKbEFEZV9OVV8xcDJKYVVTSGh2OWVaZUJ5ZDA5ZGVjME56WjhSQkdfU3FpUnNETlZwUQ?oc=5",
+      "source": "BASENOR - Tesla Accessories",
+      "topic": "Tesla",
+      "published_at": "2026-11-13T00:05:11+00:00"
+    },
+    {
+      "title": "Kiro adds xAI’s Grok 4.7 to its AI coding platform - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JTEV2NFdFeVcwQ0RXalNma3BKbDQtNDNIMHZhYi02ZnNHUlhObEkzbnE1RVcxSWREb1VoWEtwejFoak9KQ0FPNVZJMWwwWXVWa0t1cEp4aTl6dElnLVloMTdtUFpzOFdV?oc=5",
+      "source": "Crypto Briefing",
+      "topic": "xAI",
+      "published_at": "2026-11-12T23:06:47+00:00"
+    },
+    {
+      "title": "Elon Musk Makes Bold $10 Trillion Net Worth Remark as He Predicts Tesla Cybercab Will Dominate Ride-Hailing: ‘Obvious to Anyone With Eyes and a Brain’ - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdWoxaEFUeGs5UnhXUThCLXBpNlNWbEo2M0wzZFVvejljc2xlemhSNC04Q01uZm0wSHVKNFFaX3BvMnpyeXBXdVJ0ZDNacmFLUU9WYUpONXVNYjhBSWN2NXlwSkRmN0EtckRjcDV4MVhCX2JzSFRFNnh1MFl1T3FiWXlCNzNJVWNoUHBoZmRqZzJBQQ?oc=5",
+      "source": "Yahoo Finance",
+      "topic": "Elon Musk",
+      "published_at": "2026-11-12T23:00:14+00:00"
+    },
+    {
+      "title": "SpaceX and Tesla Talks on Record Merger Are Said to Progress - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOVhjTWZjYS1paVVuVHpOVmJRaFpkclFuVmtDZ1RYQS1tUjI3YlNoTURnMWwyMUNxRlJEdXVYVHZoNUxRTUVOT28xS0JzS2thUmQ4WE5jMEgtajNlRWhCc1UzRkxBZGRuV2tRZWlmQjFBbmxPbk1ZVjI1Vy1wVy1fRTFaTXgxMjFpNDNKeDg0alZTLUhzZXNKYmxkNlNrMFZwdHBkTEJFTEhrQmNZdE40ZQ?oc=5",
+      "source": "Bloomberg.com",
+      "topic": "Tesla",
+      "published_at": "2026-11-12T20:22:35+00:00"
+    },
+    {
+      "title": "SpaceX Plans $74 Billion Investment to Build Data Centers in Texas and Arizona - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50Ym5PVmtVcmozcmwzTDBvSVZuSUVuanV6R3FNY0lrQm5GZ3pYZk1TQThWd2xERm9xUWs0NEdpTnpmSEFsOG9NT1hxdHVOb2xUSVNjeWhCckR3eGxoLTlSN2VyTV9EQXJ5VDJsM3Vxalp2NF9oTFE?oc=5",
+      "source": "The New York Times",
+      "topic": "SpaceX",
+      "published_at": "2026-11-12T19:45:26+00:00"
+    },
+    {
+      "title": "SpaceX’s next move is chasing the unprecedented ‘holy grail’ of rocketry. Here’s what’s at stake - CNN",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBJY0R6TVZrTGdoenBJel9CQVNLakI2S3BCLUlCXzdwYTI0eTFCUWFrVFhEcVNJVFZsamlnZ2Z6V2NzeUF4NGRrMUpJVEdyU3VmNHNxQjZuS2R3WVU3M0FJbmRpaENoUmZTa1daN1UxdDE3bjZ5RmdndkcybDdmQQ?oc=5",
+      "source": "CNN",
+      "topic": "SpaceX",
+      "published_at": "2026-11-12T18:27:00+00:00"
     },
     {
       "title": "Could Elon Musk End Up as Jensen Huang’s Boss? ‘That Would Be an Honor.’ - Barron's",
@@ -58,6 +100,13 @@
       "published_at": "2026-11-12T11:21:52+00:00"
     },
     {
+      "title": "SpaceX Starship Flight 15 could be a major step toward full rocket reusability and cheaper missions - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNlA2V0FhTW5kSHowVThrci1aN09VVDVlR2JPUjhkS3JVQUgxLW83ek1HeTlfOUhWUFNib1lkenFxemtsTE5rbk1RSFJrSVExUDFrRndXTk85NU5XNGlHSUxUdEdDUW1iU3dpWUxFYzlITnc3SDVWaDh2R0hST3UtQzRhU1FybnhFeVBJZ1k5SUpuLV9P0gGaAUFVX3lxTE1wTjhWMWZNeHpSTHVqT1Z3RnJqYmZXUWtBM3d6VGlnblFMZmNpeGdjQUhzTVl2RTFPT3FmNFFHSDIyWWRCYkN3UVluRlhmemJRM1NBeXFfWktlTEs5RGZsdEdMbVNORXRFczg1M2lCbkY0Rm8xNFkxMmx5YXFDcmE0Q0RObVlHQjVLWlYxMWF2cnpFVmxhTXAxdHc?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "topic": "SpaceX",
+      "published_at": "2026-11-12T10:21:05+00:00"
+    },
+    {
       "title": "Elon Musk Says It Would Be an Honor to Hire Nvidia’s Huang - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdW1jOE5uNWVrTTE5TUlXdzJfdThnOUhkUUpLMGRBaWQ3cGJqcmtNbkY5NVUwT1A1eG1tUjFCUldRd3ozMXZwZnlpVDFQRnpxSXA3a0RNMnlTRUxqbldIc0JGQlBMNUFHd0tJelBzVnZJc2NDNm5Ldk93N3FCd0E5U0p0enp5VnRVdkNOU3pBdjVZVFJBYjlDcmtPQnpDUHRTR0dEQy1MbTU3LXFkejR0WHU2dUk?oc=5",
       "source": "Bloomberg.com",
@@ -72,20 +121,6 @@
       "published_at": "2026-11-12T07:30:00+00:00"
     },
     {
-      "title": "Finland clears Tesla assisted driving tech after changes - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTlM5bTZEWktQbU9STjk1NE9iMjNpUVJaNUJXcVI1bUV3ZmxPN2p2NjQ0c2ZaQXdITlJkeDNCYkV2MjgwVjlaMjFYTnN6U2VGMHBJNDV3T1VTZ3IwTnVRcGtxdGR5djY3VldGVnVhOEg4YTI0dEUzbWJJVUFNeHZoa1RuZVphZnU3SGk4b3FPeEcxSjR1aGVsMUh5SExpNlZINVE?oc=5",
-      "source": "Reuters",
-      "topic": "Tesla",
-      "published_at": "2026-11-12T06:52:36+00:00"
-    },
-    {
-      "title": "SpaceX launches 2nd mystery mission for US Space Force in 6-day span (photos) - Space",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSDVhY3ZiVWw0WFRNcDBENXBCRU1tbU4yTG9MYUhQZ2pNVEtNeDRDMUZGaS0zT2tkXzZyOUFLeUhFNFJaMHo5R3pxRDVHMXcya0tiRF80aktGZGFXMmlVUkdUQUhUSG1Bd1BsSEpHMnQ4enhuaVh3X0RRZEw5bE1XU1JNYW9ndmRSUGpzQmhBc256OWMtd3NRUEhtMEFweVhFOTEwZm5TZ0VlcXNzYTl6QUZGeFZ0VklpNS1RZ2EtTXFyNTY1V1paZEt6bGRDWnV6?oc=5",
-      "source": "Space",
-      "topic": "SpaceX",
-      "published_at": "2026-11-12T05:26:18+00:00"
-    },
-    {
       "title": "From SpaceX to Anthropic, markets have a new playbook for mega-share debuts - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSVBKOUFhVENlOHhiWWtwTlhGOEdkTXJLaWRrV0I0a19lOGhsVWp6RFNkVHJVdWVYMUk5N3RkX1BueVUtcGV3dkRFeFdrZmdqR0tNWFViY01SZlhkcExlN3BTV1JWcDFTR3NXZDdURDBMY2tsN1U5bXRwOXRWY1BfZTFyTGlGMnhXT1N2SVRXX05UVV9oSmFSdlVBRnBaV1QzcFkwdnhzaS0?oc=5",
       "source": "Reuters",
@@ -93,8 +128,15 @@
       "published_at": "2026-11-12T05:06:00+00:00"
     },
     {
+      "title": "USA: Court rejects federal government's request to dismiss lawsuit against xAI over alleged data centre power plant pollution in Mississippi - Business and Human Rights Centre",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQWTEzY2YyS0Fpc1l0SVFQNDJtUkFZMklTMVkzY21RMFU2RTJJdEdCdEtGVXRka1BiQlM4NElJdzJCbGdobm1IREhPSTJ5NzdvU3VWTG53alVOU2RWX01UVktXUkQ1OTM1dXZjMnhiVW5NUHhWcGI3TnZrVmY1Nm9KNEswVTN0elVBWmR3QUlQc0ZmVkNmWXJ2dWd3QmpaemhTWGJ3dkFaU1NkMGE3U0R4WEwzTEN6emxwQ0piT3EtQ1hZRjVneGk3dFJIdkRBMkt5amI4Tlh2SDFia2dpMFYwMGpoS25pb09HSGRHRkdHaXBaZlNvNXItZDJxOTU?oc=5",
+      "source": "Business and Human Rights Centre",
+      "topic": "xAI",
+      "published_at": "2026-11-12T04:20:39+00:00"
+    },
+    {
       "title": "Elon Musk says it would be an 'honor' to hire Nvidia's Jensen Huang - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XcTlzd01BSWFhRWROazZzbHhQNmpWLXRjY3Ayd291bVRRNUFfbnhlRnpJekdIZnhMWDVSeng2Q19aOXQydWltRnlxMEpfLXctZVJRMFM4eFBUREhxQW10YkdRLXBqTmszWWdEYUx0U2k0OWtwUEg4NVV6Vy0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XcTlzd01BSWFhRWROazZzbHhQNmpWLXRjY3Ayd291bVRRNUFfbnhlRnpJekdIZnhMWDVSeng2Q19aOXQydWltRnlxMEpfLXctZVJRMFM4eFBUREhxQW10YkdRLXBqTmszWWdEYUx0U2k0OWtwUEg4NVV6Vy3SAYIBQVVfeXFMTnhOZkY5bXVCQ1JhWEhRbXVHQkd4cVVuTFZ4VG1iTzFKTHMyOHZqV1FwRlVpbUx4akpENS1sUV9EOFlBNzFhNmdxUTdHdGtDc3Y3NmtNZ0FnTTBRLXdFXzhBQk15NW9TS2d1OFZxOXFUR0RwZUw2Z2JKMndpenRVNWhFZw?oc=5",
       "source": "CNBC",
       "topic": "Elon Musk",
       "published_at": "2026-11-12T03:25:00+00:00"
@@ -163,18 +205,11 @@
       "published_at": "2026-11-11T15:07:00+00:00"
     },
     {
-      "title": "USSF-627 Mission - SpaceX",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9XeFVQR0UwbnFselBRcWJuZHAxRmpKbHlTVUlJem1lNWhzMW9zNkM0R2Z5emFqbkRwdjZNd3l1aENOeFc4cVlJTFU2RW02a2tU?oc=5",
-      "source": "SpaceX",
-      "topic": "SpaceX",
-      "published_at": "2026-11-11T08:00:00+00:00"
-    },
-    {
-      "title": "Neuralink’s New Brain Implant Trial Includes Stroke Patients - TeslaNorth.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPazlBSTg3NGVEdXJjYk1acHRyS2tSSE4tS1ZvZ0Z6alVMZzV2Zzc5RXdHUFZNU1hiZXI2azBKODYzd0NibmlxVjFMN1d5SklTUU9ibVFfVmFsblpoa3BacVNoWmhMNk92WW5VaE1Zc2hSVWhfQk04VkNEZ1N6VTZocFo3Uko?oc=5",
-      "source": "TeslaNorth.com",
-      "topic": "Neuralink",
-      "published_at": "2026-11-11T03:52:43+00:00"
+      "title": "Finland clears Tesla assisted driving tech after changes - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTlM5bTZEWktQbU9STjk1NE9iMjNpUVJaNUJXcVI1bUV3ZmxPN2p2NjQ0c2ZaQXdITlJkeDNCYkV2MjgwVjlaMjFYTnN6U2VGMHBJNDV3T1VTZ3IwTnVRcGtxdGR5djY3VldGVnVhOEg4YTI0dEUzbWJJVUFNeHZoa1RuZVphZnU3SGk4b3FPeEcxSjR1aGVsMUh5SExpNlZINVE?oc=5",
+      "source": "Reuters",
+      "topic": "Tesla",
+      "published_at": "2026-11-11T06:53:00+00:00"
     },
     {
       "title": "Neuralink PreStocks to Russian Ruble Price Today | Live NEURALINK to RUB Converter & Exchange Rate - CryptoRank",
@@ -191,25 +226,11 @@
       "published_at": "2026-11-10T22:20:01+00:00"
     },
     {
-      "title": "SpaceX moves Starship Flight 15 booster to launch pad for 'squeeze test' ahead of epic double-catch attempt (photos) - Space",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQZUVUejZCSkpnekNYV2JJWkhXM3FvdGl0UnFiT0pzNkRJS2VhWFNJRHRZNDNtWHRCZUY5ZWgydjRxQlZFLVRzdXByRHZOZWlMankxUmxzR0lBU3NPeGJ0bk9wMUZ1ZExqM3UzbmFJZEZCUW5pRWFMWksyQ3Q5bWVXVndGRVJpZ3VSQ3o2bDF4b1B5NXBpeWlib3hXVEJwbV9Ibjl1RklJNXhESHQ2QnhBX3Q5TzhhVjhhX08yNkl5RXlIRlp4c29fWUhqX3JPLXloWllBTG9pVVNGcTBBT2RqNzBjTUZWSDhFczVsenBmQWR2blpRSXY0QnFFcThYNTd2YkE?oc=5",
-      "source": "Space",
-      "topic": "SpaceX",
-      "published_at": "2026-11-10T22:09:39+00:00"
-    },
-    {
       "title": "Democrats have been waiting to put Elon Musk under oath. Their chance is coming. - NBC News",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMEc1ZjlyQWZqWkJ0Y3FuY0I4T2UzRFVrOWpOT1JVVlEwTTFWWURIUm1sSTRRN2R1a1BoZG1zLVVvRnhOOEdiLTRUYm5HeThkaGJHZHBWbzNYMWlXZ0JZYjM4cmJoRDh3TWNRdHN3MVRGeTVhMkhfRmxEMG1LaVFzb043ZTdyVERDa0NYU3lZZ0JDdXM4Ylhad0p2bw?oc=5",
       "source": "NBC News",
       "topic": "Elon Musk",
       "published_at": "2026-11-10T17:00:40+00:00"
-    },
-    {
-      "title": "Tesla has a very Tesla reason for killing off its sunroof option - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdTNmelZqdmM1aHJzVzAzLUxDRXVfUUZmWXVKTWpRbXZzcmJUemhSNjNvWkVGWTA1Nm83LTBMYk1kdlRqNGdiTXphY2VKVGx6cF9ZVFhjanRibnd5NUR3Wi1neUQ5ODBGcjFfWkE1OHZuc3ljS2gwZFRGWFBfNGNnMlZMbVY1MHc?oc=5",
-      "source": "Business Insider",
-      "topic": "Tesla",
-      "published_at": "2026-11-10T16:44:00+00:00"
     },
     {
       "title": "Convert 1000 JPY (Japanese Yen) to XAI (Xai) - Bybit",
@@ -224,13 +245,6 @@
       "source": "FourWeekMBA",
       "topic": "xAI",
       "published_at": "2026-11-10T10:54:46+00:00"
-    },
-    {
-      "title": "Elon Musk | SpaceX, Tesla, xAI, X, & PayPal - Britannica",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xeFllLWI4enZVQmExeDZsV2Ewa19ESXc4XzVlUmc3N29kQmhyRnZOa2dWUlV1SFd2bHBkS3FrX0ZTTW5PekRWaFUweEFOMkgwRDNnRQ?oc=5",
-      "source": "Britannica",
-      "topic": "Elon Musk",
-      "published_at": "2026-11-10T08:00:00+00:00"
     },
     {
       "title": "SpaceX - Britannica",
@@ -261,18 +275,18 @@
       "published_at": "2026-11-09T22:17:07+00:00"
     },
     {
+      "title": "Elon Musk Confirms ‘Global Bankruptcy’ Fears As Tesla And SpaceX Explore Bitcoin Price Game-Changer - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWm1DVnZDWlVCRjE2NkVqaFdnZEhsNE9UWHZLZVB2UzJHTFR6c3RwbGFfSWRKZjZ5ZW03OWFqSFcwN2dWd2VldTJTT05NeDRTeHExVXJVc094VFItNk8yZHZTOGNvV1ZraDVpRGdkSElTVVFmWU5oazdHZzRwX2hreHhleVViSmpWcFhSakl4dk9RNmhXSnZiY0pnMmszQndXY0ZNX0UwZHdoLUlWODRBZHhmQ2s2b2RYTTNsYWIwVUtRbHNOWXZ6eTRraF81VVdlZEFGRk5R?oc=5",
+      "source": "Forbes",
+      "topic": "Elon Musk",
+      "published_at": "2026-11-09T21:18:00+00:00"
+    },
+    {
       "title": "There’s a Reason Elon Musk’s Cybertruck Never Took Off. Actually, There Are a Few. - Slate Magazine",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb2xDa0pwMnZoYXhtVDNDVnc3d2NQZmdHSENPMWllcFAzNW5QckMwQVRXRlNJTW1YdFdvNDVyR0l2cExWRTBzVmE1bkhfd3pvVVUxRmN3c1lZeHYyelE5SUR1aUgtczRHQ3NBNkFqUGRuMVQyblU4NDRxbjVDaGJjRTFlQ0NnT2c?oc=5",
       "source": "Slate Magazine",
       "topic": "Elon Musk",
       "published_at": "2026-11-09T20:39:00+00:00"
-    },
-    {
-      "title": "Tesla launches self-driving Robotaxi service in San Antonio - KSAT",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNlJxUFN5Q3VzYTZxR1lQelM1eGN5UndXTjRLTFVxcXZhYmZxWDR4MFg2dkRseFFzM2tfdms3YU0tVlFlOF9rel95MVl2ZktvbUNtd0RRVHQ0V0FOeE1LTnctOTZxUFptcXFEdlpvNVFMQm93eVh4MXFSTmpMdXJMUkVkYnhnNzBMdEdOOS1RcDdUSE1zRUdkZENReUh2NUNUSjNqZnR3?oc=5",
-      "source": "KSAT",
-      "topic": "Tesla",
-      "published_at": "2026-11-09T20:26:11+00:00"
     },
     {
       "title": "Neuralink PreStocks to Euro Price Today | Live NEURALINK to EUR Converter & Exchange Rate - CryptoRank",
@@ -303,13 +317,6 @@
       "published_at": "2026-11-09T14:30:00+00:00"
     },
     {
-      "title": "Here's What Must Happen for SpaceX Stock to Rebound - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLXNneFY0c3h3Z3ZBWmFnSnJlenVFaGFiTTVrMjIxcWl4OUNaMUN4dk5tX3dDUEFkTk9BMktpbUxsQUMwQkxxd0d3V19NckZqeE0yU0FWaTR5a1l4OEZIdmlySTBQMDBvcmlUTEpCU1NfTTdvRHQwS0R6VXJFaGdfQ051bTJzZDR3dHhYallES21SUmxiYjdLV0dZNA?oc=5",
-      "source": "Yahoo Finance",
-      "topic": "SpaceX",
-      "published_at": "2026-11-09T13:42:00+00:00"
-    },
-    {
       "title": "Elon Musk's empire braces for Democratic crackdown - Axios",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CYzZZMjE3cUhTM3ROVVROekpFVDhvVklxdWNiSnY1bk95V0hsdl9fNkx1ZWMtY3U3dGVuUll6eGt6OXNwN0pIX1MxWHd5ek9TcVBZMFFOZjYxMG84dzB5SFpaUGVjdUdIUkhGbGphcnNjUQ?oc=5",
       "source": "Axios",
@@ -336,6 +343,13 @@
       "source": "SlashGear",
       "topic": "xAI",
       "published_at": "2026-11-08T15:45:00+00:00"
+    },
+    {
+      "title": "Trump era spurs $1.5T US M&A surge, SpaceX buys xAI for $250B - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeWpLNXZyWXBEVi1mREhhNzJlR0FsdF9KV25HVmwyOWFyOUFfM0RGbE00Z081TG9OTkhHU3RkRkRYTzFSNU9IdHpJeXBEX0VwR2paVU96V01OLVpMNm9Pd3QwQTNLU25CNWdrTDJEMEQxWEI5aWJDNXc2WHZVbUw5NkRqZEk4N2pJLUtRWQ?oc=5",
+      "source": "Crypto Briefing",
+      "topic": "xAI",
+      "published_at": "2026-11-08T14:11:20+00:00"
     },
     {
       "title": "NAACP v. xAI - Constitutional Accountability Center",
@@ -380,6 +394,13 @@
       "published_at": "2026-11-06T23:11:31+00:00"
     },
     {
+      "title": "Elon Musk Says SpaceX Sales Are ‘Exploding’—and Forecasts Revenue Twice Wall Street’s Estimate - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUmNBOVZudDlZREhxOTBldFJEbEI4Wlg4M3ZSdGlPSlNPa25YZDE5UXVoWl9nWU16V3htR2hBcmU3ZVBZaENHbF9QdDcyZFZoVHhpeDFMUll3bURFaUFPd1pIZDlxNjJtZG94WEpCLXpDeFVSdktVZGxrTnJiOTBObzNETDE?oc=5",
+      "source": "Barron's",
+      "topic": "Elon Musk",
+      "published_at": "2026-11-06T21:34:00+00:00"
+    },
+    {
       "title": "XAI Madison Equity Premium Income Fund (MCN) Stock Price, News, Quote & History - Yahoo! Finance Canada",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9DWWRhanNqZDFEb3JzSkloRkpCRm5fZWoyR2FObkFzQTAzYVFONkgzX3JhTzlVWUFWZnduMGdZVXU3RGtKdEs2ZkRkSno3eDYy?oc=5",
       "source": "Yahoo! Finance Canada",
@@ -415,13 +436,6 @@
       "published_at": "2026-11-06T15:56:00+00:00"
     },
     {
-      "title": "SpaceX (SPCX) Lands $45 Billion AI Deal And Moves To Merge xAI - Simply Wall St",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRTROeHk1RkxPX3BrenpYQkRjRnlTbVN4ZGhsMDFkY013ajN5MEprSEtNek50VXZGb0JwcU5mUFJIZ3Z0YUR5a0R1M2pINEFxNGxReUJEVEY1SkRrZFVmaWtXNXhvSzhfRHRybVpIVWJlQ19sem4wY0pVaVNab1NxVHYyaENzc3JKS2I0UEZyLU9oSzlSN2VtaERJTUdtekNvUmV5aG1Id0VzdGZrRm8wZjh6ODF1dnFzd1hsSmlvSUVXY1BNVldCUXd5NFV6R3BvWTUzWm9oV2t1YktvZElOQtIB5gFBVV95cUxPd2E3T2FjcnNqOGhzT1QydEp6Yjc1Y1ZfUU9EZmMxSE9veDctOFllQzRQMXNydE9mZUpqWlZWYk9aMlVUVEo4WGFaUDMtVUhkVFl2bEZKalBhakZkaW9FMjZDRVdGZlVHNkJxamZDVW8tTzE0VldOUXZ5eHBEajhHRkRCN3U1MDllSjZZRWVjUWN6TmpDa0FRR2xJaFIxM0llLVNVNGF3NHJ2ajZKSlVBaUVMRi1ibEJsVXZCV2l1MGpONE9rcjFxOVJmTWJEWll5LTVxdGJYMXdzeVVVM0JCVXVRcGNWUQ?oc=5",
-      "source": "Simply Wall St",
-      "topic": "xAI",
-      "published_at": "2026-11-06T14:33:55+00:00"
-    },
-    {
       "title": "Tesla set to wind down production of Cybertruck | CNN Business - CNN",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbWtnUlF4Z3VoWFhsY3ZDZmNmQi1IUHIyMTBwZFZZZVN2Mkl2dmtaZ1g3NGV3c0VGRlJkc2F2VjJaWFRrVHVFVXR1NXJ0Q0JjSHQ2Q3lVNkFvNFpaSk5pMXhBUm1TVlN2MS1QX0tZWHFjUEVwVUlZMXpteFhBVUxkV3pfSTBtdHBNenJr?oc=5",
       "source": "CNN",
@@ -441,20 +455,6 @@
       "source": "CBS News",
       "topic": "Tesla",
       "published_at": "2026-11-06T13:29:00+00:00"
-    },
-    {
-      "title": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MOHpuVjVYejRkd2VlX2hvWGF0RDMxYUNzTGcxaTFadzNJT1c0Y19idmNzSl9nNDFFZnUzaWh4VFU4VkNqSWJOR3EzWk91MWhUdGxhamVWaEkxd1lOYVB3QnVOV1l5V0RCcXRndVQ3bE5DUQ?oc=5",
-      "source": "CNBC",
-      "topic": "Tesla",
-      "published_at": "2026-11-06T13:12:36+00:00"
-    },
-    {
-      "title": "Musk Says Tesla Will Wind Down Cybertruck Production Next Year To Make Room For Cybercab - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQUZNLTVPQ29tNld4bHBMTXNQcFhjYmRMdmZEX1A1M3VfUVhiMFlLdlJBZjU2RTZmUTAyczdhcjB2VEFCbHBHV1FtV09NNzRJcHlzX1dOWXRfRTFqQ1FxV1h3NFdJWV93SmpySE5ZWktvQ21zWFR6MHBrT3pWM3N4X09jQXNyakVHVVJzcy1ibzB6ZF81d180X3o5OGM4SXJvM2RmQ3RVVkFvRlZ1NlNxci02bG12MGM?oc=5",
-      "source": "Forbes",
-      "topic": "Tesla",
-      "published_at": "2026-11-06T08:57:06+00:00"
     }
   ]
 }
