@@ -1,67 +1,67 @@
 {
-  "date": "2026-11-12",
-  "generated_at": "2026-11-12T03:57:05.043168+00:00",
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T03:29:00.184446+00:00",
   "method": "headline-only, not independently verified",
   "stories": [
     {
       "type": "待核实线索",
-      "title": "Show HN: App to help parents find, plan, and review outings with their kids",
+      "title": "Loose Ends: A check for unused code AI wrote or forgot to remove",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://sproutings.app/",
-      "source": "sproutings.app",
-      "date": "2026-11-12"
-    },
-    {
-      "type": "待核实线索",
-      "title": "Compromised GitHub accounts push CI secret stealer to 61k repositories",
-      "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
-      "why": "需要阅读原文核实具体事实和影响。",
-      "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.aikido.dev/blog/compromised-github-accounts-push-ci-secret-stealer-to-tens-of-thousands-of-repositories",
-      "source": "www.aikido.dev",
-      "date": "2026-11-12"
-    },
-    {
-      "type": "待核实线索",
-      "title": "United Airlines Is Banning AI Bots from Booking Flights",
-      "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
-      "why": "需要阅读原文核实具体事实和影响。",
-      "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.wsj.com/tech/ai/united-airlines-is-banning-ai-bots-from-booking-flights-5b514b38",
-      "source": "www.wsj.com",
-      "date": "2026-11-12"
-    },
-    {
-      "type": "待核实线索",
-      "title": "Can commercial stage-gates keep enterprise AI pilots out of procurement stalls?",
-      "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
-      "why": "需要阅读原文核实具体事实和影响。",
-      "action": "打开原文并记录三个关键事实。",
-      "url": "https://pilotmap.bizmasterynow.com/",
-      "source": "pilotmap.bizmasterynow.com",
-      "date": "2026-11-12"
-    },
-    {
-      "type": "待核实线索",
-      "title": "Show HN: gethome – a local-first smart home hub with AI",
-      "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
-      "why": "需要阅读原文核实具体事实和影响。",
-      "action": "打开原文并记录三个关键事实。",
-      "url": "https://github.com/gethome-inc/gethome-hub",
+      "url": "https://github.com/sid732/loose-ends",
       "source": "github.com",
-      "date": "2026-11-12"
+      "date": "2026-11-13"
     },
     {
       "type": "待核实线索",
-      "title": "He let an AI read too many court auction listings. Now he is in a Turkish jail",
+      "title": "Notion AI chat transcripts exposed in Fireworks AI breach",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://medium.com/@rkzlyldrm/he-let-an-ai-read-too-many-court-auction-listings-now-he-is-in-a-turkish-jail-a26bd486a43a",
-      "source": "medium.com",
-      "date": "2026-11-12"
+      "url": "https://www.notion.com/en-gb/security/advisories/security-incident-involving-a-third-party-ai-vendor",
+      "source": "www.notion.com",
+      "date": "2026-11-13"
+    },
+    {
+      "type": "待核实线索",
+      "title": "Show HN: Grow any hobby (skills for humans not AI)",
+      "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
+      "why": "需要阅读原文核实具体事实和影响。",
+      "action": "打开原文并记录三个关键事实。",
+      "url": "https://grow-bonsai.app/",
+      "source": "grow-bonsai.app",
+      "date": "2026-11-13"
+    },
+    {
+      "type": "待核实线索",
+      "title": "Escaping Space: Part II",
+      "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
+      "why": "需要阅读原文核实具体事实和影响。",
+      "action": "打开原文并记录三个关键事实。",
+      "url": "https://www.perplexity.ai/hub/blog/escaping-space-part-ii",
+      "source": "www.perplexity.ai",
+      "date": "2026-11-13"
+    },
+    {
+      "type": "待核实线索",
+      "title": "No, AI agents did not discover a previously unknown Maya site",
+      "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
+      "why": "需要阅读原文核实具体事实和影响。",
+      "action": "打开原文并记录三个关键事实。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+      "source": "www.theverge.com",
+      "date": "2026-11-13"
+    },
+    {
+      "type": "待核实线索",
+      "title": "I Love AI",
+      "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
+      "why": "需要阅读原文核实具体事实和影响。",
+      "action": "打开原文并记录三个关键事实。",
+      "url": "https://www.possibilityspace.org/blog/posts/i-love-ai/",
+      "source": "www.possibilityspace.org",
+      "date": "2026-11-13"
     }
   ],
   "candidate_count": 12
