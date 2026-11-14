@@ -1,67 +1,67 @@
 {
-  "date": "2026-11-13",
-  "generated_at": "2026-11-13T03:29:00.184446+00:00",
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T03:25:07.415910+00:00",
   "method": "headline-only, not independently verified",
   "stories": [
     {
       "type": "待核实线索",
-      "title": "Loose Ends: A check for unused code AI wrote or forgot to remove",
+      "title": "Show HN: Browserr – An MCP-first browser for AI agents (one Rust binary)",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://github.com/sid732/loose-ends",
-      "source": "github.com",
-      "date": "2026-11-13"
+      "url": "https://browserr.dev",
+      "source": "browserr.dev",
+      "date": "2026-11-14"
     },
     {
       "type": "待核实线索",
-      "title": "Notion AI chat transcripts exposed in Fireworks AI breach",
+      "title": "MathHelm: A Place to discuss AI-generated papers",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.notion.com/en-gb/security/advisories/security-incident-involving-a-third-party-ai-vendor",
-      "source": "www.notion.com",
-      "date": "2026-11-13"
+      "url": "https://terrytao.wordpress.com/2026/11/13/introducing-mathhelm-a-place-to-discuss-ai-generated-papers/",
+      "source": "terrytao.wordpress.com",
+      "date": "2026-11-14"
     },
     {
       "type": "待核实线索",
-      "title": "Show HN: Grow any hobby (skills for humans not AI)",
+      "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://grow-bonsai.app/",
-      "source": "grow-bonsai.app",
-      "date": "2026-11-13"
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "source": "www.techpowerup.com",
+      "date": "2026-11-14"
     },
     {
       "type": "待核实线索",
-      "title": "Escaping Space: Part II",
+      "title": "Show HN: Open-Source Version of Cyclon: Phone where AI is the interface?",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.perplexity.ai/hub/blog/escaping-space-part-ii",
-      "source": "www.perplexity.ai",
-      "date": "2026-11-13"
+      "url": "https://opencyclone.vercel.app/",
+      "source": "opencyclone.vercel.app",
+      "date": "2026-11-14"
     },
     {
       "type": "待核实线索",
-      "title": "No, AI agents did not discover a previously unknown Maya site",
+      "title": "Airtasker Third-Party Security Incident",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
-      "source": "www.theverge.com",
-      "date": "2026-11-13"
+      "url": "https://support.airtasker.com/hc/en-au/articles/64280722804505-November-2026-Third-Party-Security-Incident",
+      "source": "support.airtasker.com",
+      "date": "2026-11-14"
     },
     {
       "type": "待核实线索",
-      "title": "I Love AI",
+      "title": "Of Course Americans Blamed the Ground Stop on AI",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.possibilityspace.org/blog/posts/i-love-ai/",
-      "source": "www.possibilityspace.org",
-      "date": "2026-11-13"
+      "url": "https://www.theatlantic.com/ideas/2026/11/faa-grounding-flights-cancelled/689444/",
+      "source": "www.theatlantic.com",
+      "date": "2026-11-14"
     }
   ],
   "candidate_count": 12
