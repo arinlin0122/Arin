@@ -1,41 +1,76 @@
 {
   "schema_version": 1,
-  "attempted_at": "2026-11-14T18:01:58.229882+00:00",
-  "last_success_at": "2026-11-14T18:01:58.229882+00:00",
+  "attempted_at": "2026-11-14T22:25:14.467715+00:00",
+  "last_success_at": "2026-11-14T22:25:14.467715+00:00",
   "status": "ok",
   "sources": [
     {
       "topic": "Elon Musk",
       "url": "https://news.google.com/rss/search?q=%22Elon+Musk%22+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "last_success_at": "2026-11-14T18:01:58.229882+00:00"
+      "last_success_at": "2026-11-14T22:25:14.467715+00:00"
     },
     {
       "topic": "xAI",
       "url": "https://news.google.com/rss/search?q=%22xAI%22+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "last_success_at": "2026-11-14T18:01:58.229882+00:00"
+      "last_success_at": "2026-11-14T22:25:14.467715+00:00"
     },
     {
       "topic": "Tesla",
       "url": "https://news.google.com/rss/search?q=%22Tesla%22+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "last_success_at": "2026-11-14T18:01:58.229882+00:00"
+      "last_success_at": "2026-11-14T22:25:14.467715+00:00"
     },
     {
       "topic": "SpaceX",
       "url": "https://news.google.com/rss/search?q=%22SpaceX%22+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "last_success_at": "2026-11-14T18:01:58.229882+00:00"
+      "last_success_at": "2026-11-14T22:25:14.467715+00:00"
     },
     {
       "topic": "Neuralink",
       "url": "https://news.google.com/rss/search?q=%22Neuralink%22+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "last_success_at": "2026-11-14T18:01:58.229882+00:00"
+      "last_success_at": "2026-11-14T22:25:14.467715+00:00"
     }
   ],
   "items": [
+    {
+      "title": "SpaceX Catches a Starship - Space Policy Online",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zQU01U3l3QzNGQlZPOVJTbFh1LTlHSTY3MVNuSHpTUG5wRnU2UjI2THhyOUxZOHN1TW1ZVl9YZldndmJsU2VudURLUnBsRDZoRDh2TWtuQVFmdXlqb3Y2andfSTNqdGFSb1lzT1F3?oc=5",
+      "source": "Space Policy Online",
+      "topic": "SpaceX",
+      "published_at": "2026-11-14T21:53:00+00:00"
+    },
+    {
+      "title": "SpaceX successfully catches Starship and makes history - NPR",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTkcyZTZfYTNaUW1HemJBRUtfYldKd1cteXZMcHdpdGtySk1nRUh6SFhHMlRlTUh4eTRaTDFaYkhibDJnZTRmYlNWLUUtUmo3NlNWcTh0dEpEMXhGdXNxaHE3aU5kWEZMSjFrQ0FYYnJPMkZRR2ljak9vNGxXVmRQMHYxay1YdHREcGJxa0dmdWJaM2hQYkVjRDBZWXdsUQ?oc=5",
+      "source": "NPR",
+      "topic": "SpaceX",
+      "published_at": "2026-11-14T21:42:41+00:00"
+    },
+    {
+      "title": "SpaceX catches Starship at Texas launch site after nearly a day in orbit - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUy1hcVFMUVFOc0lrZWNVT3lvV1gzbVl1MHE0am1WaFBYRjlJWWtJNnEwZERmdGxLZHdLUFhhaUJoZ3BPeTZRZ0ZtNzBJcmFqTTVjcnBtb2pUblpLTm5nWXBnazdHZTBDNUM1cmJYTjlwNnk5TkllVEd4bnJQSGxJanU3OHBhMmpRRnN5b3F4Q1BQRV9ud001RHc3cEo0d1pJbWNZSnhMc0hZSV9RV3JmUW5KT2ZxY3JoRGc?oc=5",
+      "source": "NBC News",
+      "topic": "SpaceX",
+      "published_at": "2026-11-14T21:33:00+00:00"
+    },
+    {
+      "title": "SpaceX catches upper stage of Starship rocket in historic first - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdGFvOUM3TDc1a3hvVXppS0tjbklLX3MyS094bGRNVFh2dGxVbGRLRFRJZmxpS0VHa2hQRHNBMHJqZ2Fxd2wzMzBOazZPQzJ2dEJtRThqYW9yV0VzTUVrVWFDbmtVYUVjTElyUnB4U3pOaG5qaTdGOUxSWTJscUpOMzBmeWUybXFWc25WdU9tT2JUOF9qZGpid0I0S0hrR1pyWVlZcUpB0gGrAUFVX3lxTE16S1ZpTnRzaHp5LS04QlVFOXNLNmJhNHk3SXZsendHTHJacURRcjFFWVUxT3d2UDhpa0tVeTRXMXdUcGNIV0VacUZDbHdYR0U5MmVtSzlKZnVyNFpRQ3I5Q2RuOFBzLWNJQ1VXVHVYNlNfQVZYVTdJVVdqaFotNEF1MG1rN3ZPaW1DVEZ2dWlIQ0QtOFBrYllrU3NTekpDNVh2Nm5UUE9xTXd6QQ?oc=5",
+      "source": "CNBC",
+      "topic": "SpaceX",
+      "published_at": "2026-11-14T21:14:46+00:00"
+    },
+    {
+      "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPb3UyZjZ1cldRQm96REJfQ2QyeTB2MnJ0cEFNM0xBR0x5SjBWRVVYZ0Foc1BQUGRZcDZpUDc0b2FsSnZvZDRjQ3c3UVpzMVVnVVNWZTlvNGZ2LUtRa191dDVYQXN1Y0JCNURBYWNZakx0ZzI0OHdhSzdhdXhZYXNYbUxHdG8tVmIzcHlzaklfaU1WTkhvTVJONnlsczdUMjFOUjBsa1FGSGZaZVNCUkFXVTNJRWMtcjFMdV9xNTlQSjA2cGZGU1E?oc=5",
+      "source": "TechCrunch",
+      "topic": "Tesla",
+      "published_at": "2026-11-14T20:04:44+00:00"
+    },
     {
       "title": "Tesla Opens Sales of Autonomous Cybercab for ‘Select’ Customers - WSJ",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMThvUmpYTW5TY3k5M3dGODhWa0RtOS1XY1ZHMVBBMEl0eU5UTVBLbWNZLVRTeFhBWnQzMjRMSF8zNV9oMWRUbzRhN0tieHJkblRyc0lZdnJQYmJ1aThMUGptc3VqbU1Fc0VqUldRUUptODA5VU5uZHhoS0FRS240MlB3MVpLRTE4d3cwODBMdndrS19GYkJEbExXSHZ6SVdOcjhuMkR5ek0?oc=5",
@@ -44,11 +79,18 @@
       "published_at": "2026-11-14T15:02:00+00:00"
     },
     {
-      "title": "Tesla: Current and upcoming models, prices, specs, and more - Electrek",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9IaWtMS3AxdnhqLXNOTXJmaGRJdmdnMVUwV0lsMmJJbGZ1TlFNX0pMV0VfTkZpMXFwOFZnT2E2UWhrM0dhVFlEUg?oc=5",
-      "source": "Electrek",
+      "title": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcHNvWnNROEliNGFNNUNHR1ptc3hPLXVRWUYwRjl3dmM5aC1pYVBmOURoZk1Hanh6cEp0eG1LWUh5bDUwRXpnVFlWMFNpQzBVVWdrX2FUcXdydzJHTnd5dV9RbDZOYlk4U2V5UTRSazRVZ3BvR1dZVlUxSkFBUFhhblNydnhJcm1FbDcwY1JFYUNVRTZtbWVvaWRGa01WNkY5QVJudEE1VkZydw?oc=5",
+      "source": "The Verge",
       "topic": "Tesla",
-      "published_at": "2026-11-14T13:13:29+00:00"
+      "published_at": "2026-11-14T14:18:36+00:00"
+    },
+    {
+      "title": "Tesla Was Supposed To Be Losing Europe. The Data Says Otherwise - InsideEVs",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5UXlPRmFOX0ZScVZ3dzJiWWUxdWgtd1JwV01veXhTTk1DSnJ1dU5GX0ZZNmpKd2o5akxuRmJ6N0trckItSEV1T0RsRGNxUlVYZElUU3VHYTBNLVliVU0zLUxKUml4V2dyTzNQUmsxeXFsQQ?oc=5",
+      "source": "InsideEVs",
+      "topic": "Tesla",
+      "published_at": "2026-11-14T14:08:33+00:00"
     },
     {
       "title": "[2026-11-13] Ranking Member Shaheen, Senator Coons Demand Elon Musk... - United States Senate Committee on Foreign Relations (.gov)",
@@ -63,13 +105,6 @@
       "source": "Reuters",
       "topic": "Tesla",
       "published_at": "2026-11-14T08:02:12+00:00"
-    },
-    {
-      "title": "SpaceX's Starship enters Earth's orbit, but booster catch aborted - AFP.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX1BFeGxfd294MHhtSFRHajBCRUFfek05NzRoOHZKbl8xUERIN3k3V0ZpbzBRLTU1MkFOc0d2b0dtSWdIaTZoeW1qYU5iNDFidWhpQ0Fwb2luR0Z3bHBmT2xqTTljckJCQ2ZWRk0xOGE0YkpUTlU5MGd2TTNJQUMzYWpXaEpFU2lI?oc=5",
-      "source": "AFP.com",
-      "topic": "SpaceX",
-      "published_at": "2026-11-14T05:03:45+00:00"
     },
     {
       "title": "Trump is taking Elon Musk on his Asia trip, but he plans to avoid talking about Nvidia scandal - ABC News - Breaking News, Latest News and Videos",
@@ -93,11 +128,11 @@
       "published_at": "2026-11-14T01:19:00+00:00"
     },
     {
-      "title": "Tesla Opens Self-Driving Cybercab Orders To 'Select Customers' At $29,990 - InsideEVs",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9pSWJ3bEQ2TDlJcExpUUQzWlAwb2pnV3g0ZHAyMEpjcmZTN3dEckZHRXFGREVBc3NvZ2ZsYk5UNTR6TVlqd2pTR0g1VlZtZm5vQWNua1dtenZxSGpvNHRfQVR6cGljY1JZakltNnd0YVJ6dVV6NnpuTmNTQzFoQQ?oc=5",
-      "source": "InsideEVs",
-      "topic": "Tesla",
-      "published_at": "2026-11-14T01:12:00+00:00"
+      "title": "Can Elon Musk Bring Jensen Huang Back as Nvidia CEO? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONEtyRXhGWFZvMWswbUZ1bzRvQ0FvNTBzR2dZZ1c5Z19wcktIQllKdzhIR1RXSGFCVlpDel84MjM4YVU1VTVQVzFlNlQ3THdGWHpRd1ZIenVUUFU1bXpJeDdLUmtHTVQ5dmU0aVlaUXFuNUk1dEg1bUVNVHpaUldWVEVmY1RZUmJKMF96Y0hzQWpoU1hlVzl0eQ?oc=5",
+      "source": "Yahoo Finance",
+      "topic": "Elon Musk",
+      "published_at": "2026-11-14T01:00:00+00:00"
     },
     {
       "title": "SpaceX's Starship soars into orbit after booster malfunction thwarts double catch attempt - PBS",
@@ -114,13 +149,6 @@
       "published_at": "2026-11-13T23:39:00+00:00"
     },
     {
-      "title": "SpaceX launches 15th Starship flight; aborts booster recovery maneuver - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUy1hcVFMUVFOc0lrZWNVT3lvV1gzbVl1MHE0am1WaFBYRjlJWWtJNnEwZERmdGxLZHdLUFhhaUJoZ3BPeTZRZ0ZtNzBJcmFqTTVjcnBtb2pUblpLTm5nWXBnazdHZTBDNUM1cmJYTjlwNnk5TkllVEd4bnJQSGxJanU3OHBhMmpRRnN5b3F4Q1BQRV9ud001RHc3cEo0d1pJbWNZSnhMc0hZSV9RV3JmUW5KT2ZxY3JoRGc?oc=5",
-      "source": "NBC News",
-      "topic": "SpaceX",
-      "published_at": "2026-11-13T23:21:00+00:00"
-    },
-    {
       "title": "SpaceX launches milestone Starship flight to demonstrate full reusability of orbit-class rocket - CBS News",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSZjU2emJ2X21oRkFSWllCbXlQSVBWMVJPLTdqMzJ2V0VFVmxsOFN1anZZblpZSFhxZ2xjSE1uU2psLWFQcFcxUVhZNExCS0Z2X2Y0WkpSNk1MemVSNExKRndCVTBEVzRzUEJ0SUxDbEsweFBGN0g4?oc=5",
       "source": "CBS News",
@@ -133,13 +161,6 @@
       "source": "CNBC",
       "topic": "SpaceX",
       "published_at": "2026-11-13T22:50:16+00:00"
-    },
-    {
-      "title": "SpaceX’s Big Day: A Historic Starship Launch, a Tesla Merger Under Scrutiny, and a $74 Billion AI Bet - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWDZJMHVySTJIZTlCX3hmeHIxWEJCQTZUblRPU0poOENiY0xsVEgxSkt4UEh5Zm9qc2pJcmRsZWtWT0lpYXM3aDVUZEw1d2JQMGZiYjhISUE5V0Ezc0owLWhSY281cVp6bjRFV3VybHZKaDRPc1hBaXVsV01yVlNpajgwSXRSbEx1M0twS0J4akZBX0FyZ0tNMm1kTS1LenB1UXdUMnZkRGwtc2NEWGU3U0J5S0dzazFkbnh2U05hYWxVem5iRFQ5UGpiMjhWQnZzS0R0cndR?oc=5",
-      "source": "The Motley Fool",
-      "topic": "Tesla",
-      "published_at": "2026-11-13T19:25:00+00:00"
     },
     {
       "title": "SpaceX faces key launch test tonight with 'double catch' of Starship and Super Heavy Booster - Yahoo Finance",
@@ -161,13 +182,6 @@
       "source": "Crypto Briefing",
       "topic": "xAI",
       "published_at": "2026-11-13T13:04:41+00:00"
-    },
-    {
-      "title": "Double-catch drama: Why Starship's Flight 15 is so important to SpaceX - Space",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeUF0OVZiVkVsSWtMRzRWSDRmNkpwaFVGQkNYeFdvekE3WUFZN1FRWE51ZVFDZU5JTHNKWnZ3NGVQb3NUVGxpWWFqbXdDbWlHQW9xRzlVR0NYa0VXTk9OU1FqY1pFUlkzSFV0bWpMeXFKdWNQaG0wSkt1dWpOVUtVVlJjbV9hZEc3TVozSk9sVXZKLWcwcjh6amZKSURKU0VSc09HdS1wSFBacUdDUmwtQW5YSGFxcjRGMG81NFJ5T3NZcnpVSWlB?oc=5",
-      "source": "Space",
-      "topic": "SpaceX",
-      "published_at": "2026-11-13T13:00:00+00:00"
     },
     {
       "title": "Tesla quietly axed the most affordable all-wheel-drive Model Y - Digital Trends",
@@ -231,13 +245,6 @@
       "source": "Yahoo Finance",
       "topic": "Tesla",
       "published_at": "2026-11-12T21:13:08+00:00"
-    },
-    {
-      "title": "SpaceX plans over $74 billion investment in Texas, Arizona AI campuses - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdlQwLUxxTENmenRpSFFXVlNUeVkzeURtNWxCZ1RuVEQwdENKV0g3MndreVZsZFYwVGtpT3Q3SDJZU0pHTGI1WFFYWERreFJmbzVjaUtOR2NjUURRMTVHNVlKdGE0VkdRVzRvekpIcHdmRGdOV2kwRXVmbWl1blRIV1VKSjQ4c19FSVFTUWZNM2ptQ0ZaMW96a2UyTFphWjNsSnc3ZmJZdWhHNWpiS19hTDhYSk9vNkpkeng1N3prZ1Y3b1lI?oc=5",
-      "source": "Reuters",
-      "topic": "SpaceX",
-      "published_at": "2026-11-12T20:23:24+00:00"
     },
     {
       "title": "SpaceX and Tesla Talks on Record Merger Are Said to Progress - Bloomberg.com",
@@ -345,6 +352,13 @@
       "published_at": "2026-11-11T14:56:00+00:00"
     },
     {
+      "title": "xAI Plans Limited Grok 4.8 Rollout for Bot Users This Week - TOKENPOST",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GSFEtd2UwdDZZdGxYRS13QVh3dVEzNkl5OXhvLV9fbHFJNkpwTDF4UDY1QmxDbEF4SVpTSHhESElJRmZLaG5YUDhZTWlBY0ZXa1AtT2VoLVhEQXc?oc=5",
+      "source": "TOKENPOST",
+      "topic": "xAI",
+      "published_at": "2026-11-11T10:56:07+00:00"
+    },
+    {
       "title": "How to Download & Use Grok (by xAI) on Your Mac As an App - Fello AI",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SajlKTExUdG1FdkllZG0tUVBkM3p5YnlVdExWTGcyQ2l1aWdaRUV4R1hVbFJuVXBvWWJsZXpKM1EwWmtGdXA2amRWSDdSRldzcldtWVBpUlNHSXI0aFhvdGZDOTVvenN5M1ZQWHJySU9sRDhTSGxlb2dQWmJuSjQ?oc=5",
       "source": "Fello AI",
@@ -373,25 +387,11 @@
       "published_at": "2026-11-10T23:30:13+00:00"
     },
     {
-      "title": "Convert 1000 JPY (Japanese Yen) to XAI (Xai) - Bybit",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ET0FmZjNFQmpScFhmMV9FNERDNkVURVoxZjRJcGVUSjFpaWFuTzVWUkZLME41ZlhDaUYzM3Z6VW03bndnN3RjSm1wV2RDRzRSSnFyUkVLZnBDQmVaTEE?oc=5",
-      "source": "Bybit",
-      "topic": "xAI",
-      "published_at": "2026-11-10T13:46:06+00:00"
-    },
-    {
       "title": "Musk Says Neuralink Could Enable Humans to Communicate with Animals by 2028 - Convergence Now",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNelREV2oyX3hqYlZWcGF4SU10elFyU25FZXZ5Z3hoOGxqYlRudTZCdDhzdVJWWWRnaENzdGpiMERUMkZudEQwLTJrb09seFVYRk9PUDJGNTUyMm9RUkgxc1VYZWdlWE9SdXN5NTdicmU3eFl0eWF1WVA4MGhLbm1HWnFrRmpzSDI0NmdmX3o4eWQ4WV9KTXF1QWhzREJDVHFIbTJDLWFWSGpxVlNZS3R4MFJ1NmpkSlM4NlVJ?oc=5",
       "source": "Convergence Now",
       "topic": "Neuralink",
       "published_at": "2026-11-10T06:15:38+00:00"
-    },
-    {
-      "title": "Elon Musk sends strong signal to Tesla stock investors - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOVJTU3FjRjgwOVVZRmk5M3VnLTZvbGQzd3VTT1QwOGp0ZzZyZ0c1V2NPUjZOZWV3Z3JRX0Z1LXkwVk5ENWI4OTJmcWtrRUVVX2o4SHlUWUdOQjRkY25NOFV1T3dMOFhxb2RDUTB3ajJKMjJwX0VQWktEZGs1ek8zU2RadTVPbWpveXNTU0poRVZtWmt2X1YyNDdR?oc=5",
-      "source": "Yahoo Finance",
-      "topic": "Tesla",
-      "published_at": "2026-11-10T03:33:00+00:00"
     },
     {
       "title": "Convert 0.1 ISK (Icelandic Króna) to XAI (Xai) - Bybit",
@@ -401,11 +401,25 @@
       "published_at": "2026-11-10T02:51:46+00:00"
     },
     {
+      "title": "Convert 500 JPY (Japanese Yen) to XAI (Xai) - Bybit",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBnVndVVmN5eE9pNXFBRklEVkIwMklWNjgyeWlGTUZxRUVfZ1Myd0l6WDhSbmNuVjNmVXZOclJ6dHlSc3FYVXRTeE9neFlJQ0NqV212NXl4VGxIQU83?oc=5",
+      "source": "Bybit",
+      "topic": "xAI",
+      "published_at": "2026-11-10T01:54:35+00:00"
+    },
+    {
       "title": "NAACP v. xAI and the Potential Subversion of Citizen Suits - Environmental and Energy Law Program – Harvard Law School",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY3hvUFIyWUJBbVlPYzZudWRjZnZBY3lsV19yUDNVSzJXcS1rN0NZQTFJZlJBMDFiTWJab1Fpalk4SGRSdGl4aHZkQ3RWMWllb3N2cWJoMElkLWpMc0hmWWNNckFuVHc0VWRoQ05wajItTzB6ajdnYVM3al9MR0tvVjRrcXMxUTJvQm0xaUdmeDA?oc=5",
       "source": "Environmental and Energy Law Program – Harvard Law School",
       "topic": "xAI",
       "published_at": "2026-11-09T23:43:47+00:00"
+    },
+    {
+      "title": "Elon Musk Confirms ‘Global Bankruptcy’ Fears As Tesla And SpaceX Explore Bitcoin Price Game-Changer - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWm1DVnZDWlVCRjE2NkVqaFdnZEhsNE9UWHZLZVB2UzJHTFR6c3RwbGFfSWRKZjZ5ZW03OWFqSFcwN2dWd2VldTJTT05NeDRTeHExVXJVc094VFItNk8yZHZTOGNvV1ZraDVpRGdkSElTVVFmWU5oazdHZzRwX2hreHhleVViSmpWcFhSakl4dk9RNmhXSnZiY0pnMmszQndXY0ZNX0UwZHdoLUlWODRBZHhmQ2s2b2RYTTNsYWIwVUtRbHNOWXZ6eTRraF81VVdlZEFGRk5R?oc=5",
+      "source": "Forbes",
+      "topic": "Elon Musk",
+      "published_at": "2026-11-09T21:18:00+00:00"
     },
     {
       "title": "There’s a Reason Elon Musk’s Cybertruck Never Took Off. Actually, There Are a Few. - Slate",
@@ -415,25 +429,11 @@
       "published_at": "2026-11-09T20:39:00+00:00"
     },
     {
-      "title": "And the Perfect Elon Musk Impression Goes to… SNL’s Jeremy Culhane - Them",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mS2JsY1N2QWFRTXF4RWtMRkUwYlJKRlhWQklHaUJzN003TjJ4akNkOHFIM1M3aGVvVkVYLXU4VG9YX2tQeU5lOE0tUnJSaTZITUNUdEk3dWhWX2NaTTljWldtYmpqZUNXd0pkVU52a2R5RHdlN0E?oc=5",
-      "source": "Them",
-      "topic": "Elon Musk",
-      "published_at": "2026-11-09T16:51:52+00:00"
-    },
-    {
       "title": "Musk Says xAI Is Working to Improve Grok Bot's Token Use and Behavior - TOKENPOST",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jWUxpYXRFa010aUZTQ2Jnb2JELW9PemhpT3NsS3pHRFZiaVhDWEp6R1EtUGNGUk9YNmMxUE1RcmNXOFFHLWVfMjBzTTlnRnJCcU9sV25mMGx2V3c?oc=5",
       "source": "TOKENPOST",
       "topic": "xAI",
       "published_at": "2026-11-09T16:49:37+00:00"
-    },
-    {
-      "title": "Elon Musk and the tech bros banked on Trump and lost. Humbled, humiliated: what will they do next? | Jonathan Liew - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbl9JQXRqTmJOc3VVN1NrMWJzT3hPemhleVVCQTdFY25SZ1ZhWTlyaEtReTRHNHpNRnpVSzdUQnZKMjFSQ0pmNHRWRjV3YzF6QzZtd2xEclA2dWJ0cU9UMzN1TUFTV210eGFrUjJTSFZVVXh0M1UwYXVoXzQzY0NORW02YWRqTVVtSk5QQWxFSQ?oc=5",
-      "source": "The Guardian",
-      "topic": "Elon Musk",
-      "published_at": "2026-11-09T16:48:00+00:00"
     },
     {
       "title": "Musk admits Tesla doesn't have enough talent to build more than one car at a time after exodus - Electrek",
