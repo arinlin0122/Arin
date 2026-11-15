@@ -1,67 +1,67 @@
 {
-  "date": "2026-11-14",
-  "generated_at": "2026-11-14T03:25:07.415910+00:00",
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T02:53:24.334122+00:00",
   "method": "headline-only, not independently verified",
   "stories": [
     {
       "type": "待核实线索",
-      "title": "Show HN: Browserr – An MCP-first browser for AI agents (one Rust binary)",
+      "title": "ChatMate: Remote Prompt Execution on AI Assistants Through Sandbox Escaping [video]",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://browserr.dev",
-      "source": "browserr.dev",
-      "date": "2026-11-14"
+      "url": "https://www.youtube.com/watch?v=MspRSCAb6uI",
+      "source": "www.youtube.com",
+      "date": "2026-11-15"
     },
     {
       "type": "待核实线索",
-      "title": "MathHelm: A Place to discuss AI-generated papers",
+      "title": "Medicare's AI Experiment",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://terrytao.wordpress.com/2026/11/13/introducing-mathhelm-a-place-to-discuss-ai-generated-papers/",
-      "source": "terrytao.wordpress.com",
-      "date": "2026-11-14"
+      "url": "https://www.eff.org/deeplinks/2026/11/medicares-ai-experiment-effector-3820",
+      "source": "www.eff.org",
+      "date": "2026-11-15"
     },
     {
       "type": "待核实线索",
-      "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+      "title": "Macula For?",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-      "source": "www.techpowerup.com",
-      "date": "2026-11-14"
+      "url": "https://claude.ai/artifact/2KGKuuJZsMfCu1pjq744qz#en",
+      "source": "claude.ai",
+      "date": "2026-11-15"
     },
     {
       "type": "待核实线索",
-      "title": "Show HN: Open-Source Version of Cyclon: Phone where AI is the interface?",
+      "title": "Multi-agent AI (LangGraph) to audit AI papers for reproducibility",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://opencyclone.vercel.app/",
-      "source": "opencyclone.vercel.app",
-      "date": "2026-11-14"
+      "url": "https://github.com/owenpatience2010-cmyk/paperpulse",
+      "source": "github.com",
+      "date": "2026-11-15"
     },
     {
       "type": "待核实线索",
-      "title": "Airtasker Third-Party Security Incident",
+      "title": "Atlas: A World Model for Spatial Intelligence",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://support.airtasker.com/hc/en-au/articles/64280722804505-November-2026-Third-Party-Security-Incident",
-      "source": "support.airtasker.com",
-      "date": "2026-11-14"
+      "url": "https://worldlabs.ai/blog/atlas",
+      "source": "worldlabs.ai",
+      "date": "2026-11-15"
     },
     {
       "type": "待核实线索",
-      "title": "Of Course Americans Blamed the Ground Stop on AI",
+      "title": "AI in the Search for Extraterrestrial Life",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.theatlantic.com/ideas/2026/11/faa-grounding-flights-cancelled/689444/",
-      "source": "www.theatlantic.com",
-      "date": "2026-11-14"
+      "url": "https://datarootlabs.com/blog/ai-search-extraterrestrial-life",
+      "source": "datarootlabs.com",
+      "date": "2026-11-15"
     }
   ],
   "candidate_count": 12
