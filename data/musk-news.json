@@ -1,41 +1,62 @@
 {
   "schema_version": 1,
-  "attempted_at": "2026-11-15T18:51:35.347417+00:00",
-  "last_success_at": "2026-11-15T18:51:35.347417+00:00",
+  "attempted_at": "2026-11-16T06:30:50.432987+00:00",
+  "last_success_at": "2026-11-16T06:30:50.432987+00:00",
   "status": "ok",
   "sources": [
     {
       "topic": "Elon Musk",
       "url": "https://news.google.com/rss/search?q=%22Elon+Musk%22+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "last_success_at": "2026-11-15T18:51:35.347417+00:00"
+      "last_success_at": "2026-11-16T06:30:50.432987+00:00"
     },
     {
       "topic": "xAI",
       "url": "https://news.google.com/rss/search?q=%22xAI%22+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "last_success_at": "2026-11-15T18:51:35.347417+00:00"
+      "last_success_at": "2026-11-16T06:30:50.432987+00:00"
     },
     {
       "topic": "Tesla",
       "url": "https://news.google.com/rss/search?q=%22Tesla%22+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "last_success_at": "2026-11-15T18:51:35.347417+00:00"
+      "last_success_at": "2026-11-16T06:30:50.432987+00:00"
     },
     {
       "topic": "SpaceX",
       "url": "https://news.google.com/rss/search?q=%22SpaceX%22+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "last_success_at": "2026-11-15T18:51:35.347417+00:00"
+      "last_success_at": "2026-11-16T06:30:50.432987+00:00"
     },
     {
       "topic": "Neuralink",
       "url": "https://news.google.com/rss/search?q=%22Neuralink%22+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "last_success_at": "2026-11-15T18:51:35.347417+00:00"
+      "last_success_at": "2026-11-16T06:30:50.432987+00:00"
     }
   ],
   "items": [
+    {
+      "title": "Residents seek answers after xAI chemical spill leaves thousands of gallons washed into drainage ditch - Action News 5",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxON2lrS0E4bDExa2l5VzZUTHQyRUItNl8tV0tpc216UUlVdDVLU25mTk1nTDlTb0tNdzh1SUlnbE5Kbm5TZGRBS2pkd2xqREo4ZzlKM2k3eFBOWU5wbzVqLWJCS2NvRnJCdXVqRkEtZE5EbjBoeElMOXhrUThRdlBySV9mM2tEbTlvQWQ2ZHg3NmJfeThJT25rVVJNd0Q5ZnhBcWRTZFQ1U01EV2VsMzQweGk1c3hFUklxSmVYNUZTcm1xcmtqT2tpRXZhS1hVWklnMWpnd2d30gHqAUFVX3lxTE9wN0dwYVRlYzIzaUtlU3VtUHNVTzNYSmhjUHNkVWR0QTFEZk5SQV9ndjRUUVZzWjUwVXY2eEp1MThQVkhmLXVmcWJIZm5INjN0M25oVkVTLVJKVE5OZ1hjRmM4cXlBc3E0YTZhQ1o2ekR0elJGME5GNEVlNjVHQWpvVGNZYkVIbFJMVm9GalBHNllMdW41Rm8xbXZIWlhXRU95dUpKV1VqRUVhLVNwa3dsdGt5djJHcHA4dDdseUoxcGxjbFp6SzZYdGs1U0FDazE4Wl9DSGxkS24xcmpsZnVxZHdaZWhXSjRwdw?oc=5",
+      "source": "Action News 5",
+      "topic": "xAI",
+      "published_at": "2026-11-16T05:21:00+00:00"
+    },
+    {
+      "title": "Thousands of gallons of industrial fluid spill at xAI site in Southaven; Cleanup continues as questions mount - FOX13 Memphis",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPZDdGWHZtNW9RV1U4LThIYlFIeG00OUVlc2MycWJUX3N3U1dZRk9ZSzVuc3V4bGpRVVF6SlhQMnZEeHhDeV9ZT1RBamJUVm5Zd25VUFV4WE4zcEJoaVlrU3ZfRXZFWUFCZzNYcUYzeWRGdkhSZmhsTjFLSGh2aTNqX3FCdjFNSExSUWotMi1FVEJsbGtGX2tWVUpKWm5LVnpNZGlmQXV4enpnT1BDdkw3NUdYQlNnYjJkcGs1elpZQ0pFRzI3b00zQTRvd2RZajg4aUpSZ2o0cEoxcE5lSUZnUE83cjlFTTc1SXJaaXcybENzbjBfUDJRVlNLd2x2elBRNVRuRXoyOA?oc=5",
+      "source": "FOX13 Memphis",
+      "topic": "xAI",
+      "published_at": "2026-11-16T02:25:00+00:00"
+    },
+    {
+      "title": "Elon Musk, Uber co-founder join calls to reinstate Jensen Huang as Nvidia chief - France 24",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdGFBampUZ0hYOXJ1UUY2ZkFDdVlBSVZDeVBnejB5dUpiUHU4ZG1kVDM2VHRkSTV5V3Z2cjQyVjJ3dkhoZ0wxWmRFb3dxWllvRUROUi1RWUhRYmtZcWNLVlZpV2UtOGhRZ1RXZHNLZDJOQ0gydllNUTZGWG82MUhoZGhaYjJzZFJqQ05oeENEQ2ZXVHlSM0U1RmlIVzQ0Q1N1VXVtWnF3?oc=5",
+      "source": "France 24",
+      "topic": "Elon Musk",
+      "published_at": "2026-11-15T23:31:00+00:00"
+    },
     {
       "title": "Southaven xAI Chemical Spill Reaches Drainage Ditch - DeSoto County News",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNk1MWHpVaXlSdkc1X0FpRzlSTS15d29MVXpqYWdpVmpxOXdxRzhKcjJqVFgwVHpBcm5lcG02ZW5tNHBvTEdPM0hROFZ1T0Q0Um9xUDBGX3hGM2xaZXJ5NVhWV3lZLUlEa3ByZHFJalhJNmJCQ3pHN2MwOERwRFZnRTc5MXpiVGhj?oc=5",
@@ -44,8 +65,22 @@
       "published_at": "2026-11-15T18:23:08+00:00"
     },
     {
+      "title": "Elon Musk, tech leaders sign petition to reinstate Nvidia's Jensen Huang - Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYVhwdktqTFJnaGkzcl8ycUs1clpzMWpHLWZmOGt0YzE0dkFEQjFYeS12dzRiQUZQbmUwU21UanNEMGo1TEhvQVZHUkR4cmFRQkRXMEwwczRfeDNjQmc3a25WZW1JTXlERjNDTXlBcG1fcEY0cC1DU2FTMUYtSURaV3pWTFpGaUtheXJYUGlySzJsT083UzRRWUd3dmMzRWxKTkp5VlpQSUcwYmpTR1NvTTZ1WmF1aV9uVUE?oc=5",
+      "source": "Anadolu Ajansı",
+      "topic": "Elon Musk",
+      "published_at": "2026-11-15T15:05:44+00:00"
+    },
+    {
       "title": "Thousands of gallons of propylene glycol spill at xAI facility in Southaven - FOX13 Memphis",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZjZ2YjZGZlMySUxnclBYb1lQa2Fyc0RsS0lwUFBtQVEtUElrOVFTY3RYdjhTSmlRN2x5OGJSc3hqTllJSHdrUTFkNXhVc21BSkQ0RVZYcHJqVTR4VjY3Nmp5YzZDWndrenltejl4cl96MnFPeWNHOVhqMlVBb3piSWlKQWxNaVFLM2JsR0NZdUhZeks0S1EyZmF1em41RUUtR1lVMkg3eUFTVkxyMGRvSFI5Smh1QnB3NFlCMFlWcjZwSElPVmhPTlZZU1lReG03TFdmWVFlaTlxaG85a05uenlxYmo3Z3ljWFppd1BWczg?oc=5",
+      "source": "FOX13 Memphis",
+      "topic": "xAI",
+      "published_at": "2026-11-15T15:05:00+00:00"
+    },
+    {
+      "title": "Thousands of gallons of chemicals spill at xAI facility in Southaven - FOX13 Memphis",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYUhOc1Nqek5nQ1llT1NZQTh3LTZqT1FKaWVETEEzeGpHbmE3a080dGs5UXg5UmU2TUVGVXpJWWNGaU9KNEVVQ2I0UC1TZlJaWUY2eHkySGdXSnhXRHVuUTd3UDd3OERSaVBNSGo3SnJGS3hNNlBFVk9SLUNWRlpScmZ5M2NndWNNRE1GQzVGdnJHXy1JNFc1Z3JEaWpnU25BVjdXc080VlBodXZpYnVqVUpIdVRfT1ZLQjBtR3RzdjRYT3o2RlIySTliNlB1MkEwdXFTLXJ4VGZRTkNTaU5uMUZlVW9pUjA?oc=5",
       "source": "FOX13 Memphis",
       "topic": "xAI",
       "published_at": "2026-11-15T15:05:00+00:00"
@@ -65,11 +100,11 @@
       "published_at": "2026-11-15T13:37:00+00:00"
     },
     {
-      "title": "xAI - Britannica",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1FMURTQkxuM3E3MjBCZ2hjbUROSFZIZlh3RGRROUowMHZlQWFVRVJRUm94ZnphNUVFOFEzOUpEcTE0U09heHdhVkJqTng?oc=5",
-      "source": "Britannica",
-      "topic": "xAI",
-      "published_at": "2026-11-15T11:17:33+00:00"
+      "title": "Tesla Was Supposed To Be Losing Europe. The Data Says Otherwise - InsideEVs",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5UXlPRmFOX0ZScVZ3dzJiWWUxdWgtd1JwV01veXhTTk1DSnJ1dU5GX0ZZNmpKd2o5akxuRmJ6N0trckItSEV1T0RsRGNxUlVYZElUU3VHYTBNLVliVU0zLUxKUml4V2dyTzNQUmsxeXFsQQ?oc=5",
+      "source": "InsideEVs",
+      "topic": "Tesla",
+      "published_at": "2026-11-15T12:22:18+00:00"
     },
     {
       "title": "Watch pair of dogs pull up at Walmart in Tesla - USA Today",
@@ -100,11 +135,11 @@
       "published_at": "2026-11-15T00:36:33+00:00"
     },
     {
-      "title": "SpaceX pulls off dramatic midair catch of Starship rocket after fiery plunge from orbit - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRSXMwU3lNQ2NFV1g1cFE4WHZVSVRUaWJCV2dDUHNSNkx2REdTYlIxb1dnbktoZXE1ckhRYXZhNy1ycVlCLWlnb21NZDI5ZFhidkVJc2xJOWoxeVlVaUpVVGxPNXUyWTdrSEE?oc=5",
-      "source": "CBS News",
+      "title": "Elon Musk’s SpaceX catches Starship rocket upper stage from space - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xRWtMclJGOUN4a1pnTFRiMEZjQzJsTkJtT092RlpLSTk5ZndsTUZMenBQRVRwSS1fVjNPNUV1ejQ3b3YtWGIwTk1EYTJ3aUo2eEJOd2E2X1NKQ0E?oc=5",
+      "source": "BBC",
       "topic": "SpaceX",
-      "published_at": "2026-11-14T22:51:00+00:00"
+      "published_at": "2026-11-14T22:15:52+00:00"
     },
     {
       "title": "'Now everything changes': SpaceX catches Starship upper stage for 1st time ever (video) - Space",
@@ -149,18 +184,11 @@
       "published_at": "2026-11-14T20:04:44+00:00"
     },
     {
-      "title": "Elon Musk joins 100,000+ signers on a petition to reinstate Jensen Huang — including 5,000+ who say they work at Nvidia - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcUFtUUhkeXFFYjNLV2w2bV9PcEJUbzRueVdpYkNTMUdaWWFqOVlSam1Qal9ValJPVUxrd0lpb3BrY0o1aUtzMTJnamRhWFUydHVKN3A0WERvRnJfV0VQb1JyTTFiNkRaY2VoUXZScnNpeHk2RDVxNk5OUXphdUtSS0cweW4wSzQ1NmstUUV6ZTYxUQ?oc=5",
-      "source": "Yahoo Finance",
-      "topic": "Elon Musk",
-      "published_at": "2026-11-14T17:25:00+00:00"
-    },
-    {
-      "title": "Tesla Opens Sales of Autonomous Cybercab for ‘Select’ Customers - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMThvUmpYTW5TY3k5M3dGODhWa0RtOS1XY1ZHMVBBMEl0eU5UTVBLbWNZLVRTeFhBWnQzMjRMSF8zNV9oMWRUbzRhN0tieHJkblRyc0lZdnJQYmJ1aThMUGptc3VqbU1Fc0VqUldRUUptODA5VU5uZHhoS0FRS240MlB3MVpLRTE4d3cwODBMdndrS19GYkJEbExXSHZ6SVdOcjhuMkR5ek0?oc=5",
+      "title": "Why Tesla Is Pulling the Plug on Cybertruck - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPck9ZRjlSeFpWQkZCYm1oSVVpTkpRSklJSUE0bm9vcVNPbzVDRDktZ3ZpWDZWUm04TkotZVVCT0NmU0ZnWUJvSUtoa0h6MHBTaWJCQjRoeTg1YTZaaFJaMXdkYmxfYTRCWjUwUEpXMlVUa3ozSS1pbnVaRWZGbDVXUVRjUTRqQU5aSUUwcklEUWg?oc=5",
       "source": "WSJ",
       "topic": "Tesla",
-      "published_at": "2026-11-14T15:12:55+00:00"
+      "published_at": "2026-11-14T15:04:47+00:00"
     },
     {
       "title": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print - The Verge",
@@ -184,6 +212,13 @@
       "published_at": "2026-11-14T08:02:12+00:00"
     },
     {
+      "title": "Tesla Cybercab Now Available For Purchase For Select Customers — But There’s A Catch - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc2l5b2Rza0ZHLVYzUWp2NGlvR3ZuLTBXaEtKZmJvODg1VHBwWDJtX0pPaVIxWFExZXFyc3FCMHlBbjNhX1ppQ0ZwRkVNZHV2cVpqRzU1SWNqR3c3bnNqMmxFQWNlXzVEX2NheTJ4ZXpBR0pWdndEZi04LTZQMXNJTVVYSDZQSVJZQnhSY2hqbWxHY1p6OUpnWnl2bW1DU0U2WGVVMA?oc=5",
+      "source": "Yahoo Finance",
+      "topic": "Tesla",
+      "published_at": "2026-11-14T06:09:37+00:00"
+    },
+    {
       "title": "Trump is taking Elon Musk on his Asia trip, but he plans to avoid talking about Nvidia scandal - ABC News - Breaking News, Latest News and Videos",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPd2ltbWU4XzFITFNtZWJUWWNYVUppcU13Q183ejM4RDZqNGJ0SV9ac3FVSnZjeVJsTTlwXzFodTV3OFNvWnJkbmJMZDBveWI0SDR4UzJWV1lHZ2tTZWNTNXlaU2ZaM1RJREVEM1Q4dEEtVlpQTEtPTkwxbDlLMmd3OXE2THBxaUlsREV2b1N3ejTSAZYBQVVfeXFMTVlmeEJvQWxpQVF6WFZicGJ5eHVFQy1IU0hka1M1SncyOExla1FrWGdzcTRRZ2xLbVhzZUZyeGZqenNzXy1rbUkxQ0VVRzVWRWpkOThGZmlheF82UHlhSHQ1cHBLNWdVVWpvbFJhYVk2RGZyblhxdlpQam42Q1o4MGx2MUFKdm51SjBMOHJyb3pYOVB6WHNR?oc=5",
       "source": "ABC News - Breaking News, Latest News and Videos",
@@ -203,13 +238,6 @@
       "source": "Britannica",
       "topic": "Elon Musk",
       "published_at": "2026-11-14T02:19:00+00:00"
-    },
-    {
-      "title": "Tesla Opens Self-Driving Cybercab Orders To 'Select Customers' At $29,990 - InsideEVs",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9pSWJ3bEQ2TDlJcExpUUQzWlAwb2pnV3g0ZHAyMEpjcmZTN3dEckZHRXFGREVBc3NvZ2ZsYk5UNTR6TVlqd2pTR0g1VlZtZm5vQWNua1dtenZxSGpvNHRfQVR6cGljY1JZakltNnd0YVJ6dVV6NnpuTmNTQzFoQQ?oc=5",
-      "source": "InsideEVs",
-      "topic": "Tesla",
-      "published_at": "2026-11-14T01:12:00+00:00"
     },
     {
       "title": "SpaceX's Starship soars into orbit after booster malfunction thwarts double catch attempt - PBS",
@@ -261,25 +289,11 @@
       "published_at": "2026-11-13T12:52:14+00:00"
     },
     {
-      "title": "Convert 1000 JPY (Japanese Yen) to XAI (Xai) - Bybit",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ET0FmZjNFQmpScFhmMV9FNERDNkVURVoxZjRJcGVUSjFpaWFuTzVWUkZLME41ZlhDaUYzM3Z6VW03bndnN3RjSm1wV2RDRzRSSnFyUkVLZnBDQmVaTEE?oc=5",
-      "source": "Bybit",
-      "topic": "xAI",
-      "published_at": "2026-11-13T11:56:15+00:00"
-    },
-    {
       "title": "SpaceX's giant rocket may leave NASA in the dust - NPR",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPS29lRWxDTEFxWU55UU1fMlhIcXNJamF3bFRkX01nWEhnRjI1QjNnZHppcERYSFJPTzVJVHlvc0pVVkh6WENxSTJQTkVlODhuaGY4b1dzWUhTcjVJZ0w0NGhNWmtsQ0JkNzRlX2trUS1KVkozZFJFOGFWeXRCQVZtUHV1YllJalFsT3Qxd2tObFBKdw?oc=5",
       "source": "NPR",
       "topic": "SpaceX",
       "published_at": "2026-11-13T10:00:00+00:00"
-    },
-    {
-      "title": "Jeremy Clarkson Exposes Alarming Flaws During Tesla Cybercab Ride - Motor1.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfaGQxUHhfb1FnU2VVZ2lRSTZZbjBDbXV5eG1LUGlyYzExM2ZnTjJjeGZCalozYW05MFAyQkpNWmhpS2tXTUl3a01qc2pwM0RIMmszYTFXSS1JZVFlT1ZuTkxCYXl5b0RnQjlUSzZ0R2dadkRhWW83eVBLR0c?oc=5",
-      "source": "Motor1.com",
-      "topic": "Tesla",
-      "published_at": "2026-11-13T08:28:00+00:00"
     },
     {
       "title": "Jensen Huang is out at Nvidia. Elon Musk says hiring him would be ‘an honor’ - Fortune",
@@ -289,18 +303,18 @@
       "published_at": "2026-11-13T08:03:00+00:00"
     },
     {
-      "title": "Calling your biggest AI rival's work a MASTERPIECE takes confidence. Especially when you're planning to BEAT it in just 2 or 3 MONTHS. That's exactly where xAI is aiming with Grok 5. We're talking about AI that can tackle serious coding, complex research, a - X",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rT3FKVmhEeXdWV0J6bm1DRy1HMElLVlVuVlhBR2NQVE9iU3N1Uk5XaFNsMEcwVHF3a2lXYVBnOG1WUmZwVm1aemFqd0ppWml5dXpMZmxCTDVWNXpZZ0ZFX3BOZVVmZUc3UGczdA?oc=5",
-      "source": "X",
-      "topic": "xAI",
-      "published_at": "2026-11-13T08:00:01+00:00"
-    },
-    {
       "title": "Starship Flight 15 - SpaceX",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vNXBfdXhzTnJReWZSYkJuczA4ejRpc3NlRE1VcEZlcWFUQTlIWjJGbENNSXIzVmhqVTFRQW9ZbjZLbW9hR2NHWlB6UFJMdkxDbUh5NFZUS3F5cnBjbG5Z?oc=5",
       "source": "SpaceX",
       "topic": "SpaceX",
       "published_at": "2026-11-13T08:00:00+00:00"
+    },
+    {
+      "title": "Woman injured in Highway 84 crash sues Tesla, car event organizers over alleged negligence - NBC Bay Area",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM08wdk5XYnJXYlgwUHc5Y09yNnJtSk5wdm1fRWV6Nl8yWkJoN1NnWFRNN3VGV3UtbDgzN0dVOFpjdVhjVGhyRWY5WXR5d1FvUXZrUExLeENHUFE1ZXhIWEtJdHR2RzQ2d0Z0M1VISnFmSllGTmNfZHliM0IwZmh0dGl4RVlXTFFQUGNlcWs1MjdHUHNPNmR3MDhEONIBowFBVV95cUxOMTd6d25IODJKSlJzUl8yY2lZeU40c0Jzd2lrOXMzUHpsZ09hc0hialZPbmZLdEJEcUFfd2lWSnBrX2p4TEtpWHZTZjBJbGhRWjhJclRDQTRGQ3BYX0FyQ20yVjdqd3ZBTkZFb2ZSc29Cb2FUdHVvblJiT0VFTXpaZHlUT3pPcnZCNEEwb3hyemlGd2dTbm5sVkFTc2JYVENETzJv?oc=5",
+      "source": "NBC Bay Area",
+      "topic": "Tesla",
+      "published_at": "2026-11-13T02:35:56+00:00"
     },
     {
       "title": "Kiro adds xAI’s Grok 4.7 to its AI coding platform - Crypto Briefing",
@@ -317,13 +331,6 @@
       "published_at": "2026-11-12T23:00:14+00:00"
     },
     {
-      "title": "SpaceX-Tesla Merger Could Come Soon: What Do Shareholders Get? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMW9aemx6Rjkyb1pDcmpWZ3U1Y3RvY0pwczNrSlQ1TTFCN0FOV09GME9HTnh0Y0JfWC1LaTJibXFBS0ttelo2bkVHSmh0M1U2U09jU1JYdDdGZWdVYlFmQnJqbWh1UUlLT3Z2NktSRjlpNWhwZVFJLVdkUUpqazlKWUVJNVFKb1FtM0Q5bTRPbzZjc3JGRVpJMURwcw?oc=5",
-      "source": "Yahoo Finance",
-      "topic": "Tesla",
-      "published_at": "2026-11-12T21:13:08+00:00"
-    },
-    {
       "title": "SpaceX and Tesla Talks on Record Merger Are Said to Progress - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOVhjTWZjYS1paVVuVHpOVmJRaFpkclFuVmtDZ1RYQS1tUjI3YlNoTURnMWwyMUNxRlJEdXVYVHZoNUxRTUVOT28xS0JzS2thUmQ4WE5jMEgtajNlRWhCc1UzRkxBZGRuV2tRZWlmQjFBbmxPbk1ZVjI1Vy1wVy1fRTFaTXgxMjFpNDNKeDg0alZTLUhzZXNKYmxkNlNrMFZwdHBkTEJFTEhrQmNZdE40ZQ?oc=5",
       "source": "Bloomberg.com",
@@ -338,32 +345,11 @@
       "published_at": "2026-11-12T15:04:00+00:00"
     },
     {
-      "title": "Elon Musk says he’d hire Jensen Huang, who just quit the top job at Nvidia. Could SpaceX be his next stop? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdS14MlAwTTdDQVgtSE16b1RIWFVOSk12SFdyUDE5YkE2Y1hnUkFwQ3lpZmYwWkI4UUhDUVRZRGFtYWNiSHJ5XzRDX0N5N3VNVTltSHJsbC0xZkVtVmVwUHVOcGp5YzhsVHBXRG92bEhJUVIzb0ZtbllBLTJkUTJwZmRVRHc3czVKRGpIOURR?oc=5",
-      "source": "Yahoo Finance",
-      "topic": "Elon Musk",
-      "published_at": "2026-11-12T14:45:00+00:00"
-    },
-    {
-      "title": "Elon Musk Says It Would Be an Honor to Hire Nvidia’s Huang - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdW1jOE5uNWVrTTE5TUlXdzJfdThnOUhkUUpLMGRBaWQ3cGJqcmtNbkY5NVUwT1A1eG1tUjFCUldRd3ozMXZwZnlpVDFQRnpxSXA3a0RNMnlTRUxqbldIc0JGQlBMNUFHd0tJelBzVnZJc2NDNm5Ldk93N3FCd0E5U0p0enp5VnRVdkNOU3pBdjVZVFJBYjlDcmtPQnpDUHRTR0dEQy1MbTU3LXFkejR0WHU2dUk?oc=5",
-      "source": "Bloomberg.com",
-      "topic": "Elon Musk",
-      "published_at": "2026-11-12T08:34:56+00:00"
-    },
-    {
       "title": "Neuralink gave paralysed people a reason to wake up in the morning. The goal now is to help them actually GET OUT OF BED. They can already control computers with their thoughts. Next challenge? Getting their own bodies moving again. Neuralink wants to - X",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54dWxodDhoNjIySlBUbGc2a2I4SXAxNDRhakF3VWRJTHVraWtMcG9wbzNybFpRT0NzZU5XaDZRVzZoQXZjV0pRc3hRelJVSlctaHEySW94X0ZiNkFBLXRVQjlPWXJFeXJXRDU3YQ?oc=5",
       "source": "X",
       "topic": "Neuralink",
       "published_at": "2026-11-12T07:30:00+00:00"
-    },
-    {
-      "title": "USA: Court rejects federal government's request to dismiss lawsuit against xAI over alleged data centre power plant pollution in Mississippi - Business and Human Rights Centre",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQWTEzY2YyS0Fpc1l0SVFQNDJtUkFZMklTMVkzY21RMFU2RTJJdEdCdEtGVXRka1BiQlM4NElJdzJCbGdobm1IREhPSTJ5NzdvU3VWTG53alVOU2RWX01UVktXUkQ1OTM1dXZjMnhiVW5NUHhWcGI3TnZrVmY1Nm9KNEswVTN0elVBWmR3QUlQc0ZmVkNmWXJ2dWd3QmpaemhTWGJ3dkFaU1NkMGE3U0R4WEwzTEN6emxwQ0piT3EtQ1hZRjVneGk3dFJIdkRBMkt5amI4Tlh2SDFia2dpMFYwMGpoS25pb09HSGRHRkdHaXBaZlNvNXItZDJxOTU?oc=5",
-      "source": "Business and Human Rights Centre",
-      "topic": "xAI",
-      "published_at": "2026-11-12T04:20:39+00:00"
     },
     {
       "title": "Elon Musk says it would be an 'honor' to hire Nvidia's Jensen Huang - CNBC",
@@ -373,11 +359,32 @@
       "published_at": "2026-11-12T03:25:00+00:00"
     },
     {
+      "title": "How the midterm election results could impact Elon Musk's many business interests in Texas - NPR",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQmYwWVUyTkxaY1JEMi1vUlY4eGpnUlItbzZsZ1hoZW9GaG9JYkx4d1F5WGpRS09Gb3JrWi05ZDNSYmwwNVZGZDJjU1l2Z3JjcnJoemR5WGVSc3FRNmRIeWdnWWFlOV9BRi1LejAxVmlpQzFIZHBVNmg0clJJWEt4ZjM3dlRhWWJNOUwzRzA4Z2x4VUlxc2p1emxNUXNWMjc5YkRLTEhIdjAwSjNGa3F4QWNfRzMzNV83Y2txYkNORGR2MWRnR2ZPdjJnZU5ZYmM?oc=5",
+      "source": "NPR",
+      "topic": "Elon Musk",
+      "published_at": "2026-11-11T21:05:16+00:00"
+    },
+    {
+      "title": "Mississippi regulators uphold xAI air permit for 41 gas turbines in Southaven despite environmental opposition - FOX13 Memphis",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQVnF1eW5xeWtZRGJIbDRUMm5BbFlTTzIwc0w3dEtsUUdtWkktTVI3ZHdWa3UtTGtMeTN1SXFNYnppRHlGMmFiV0xxTTk5alRsQmZ3cWtIVFJ2dEFkYVlCU2Iwc2J2cHU4QmRtZ1Y5UW9KWk9QcFZzUTlrUEdPbWJMRWV2Tm5CVnk0cTZZbk5NM01lU3pGTnNFSlBqa0w0VTRkcGl0SS1NWHB1dURPWGR1NmhEV3JmY1RyNjVtVlpRaXQ3cXZyY2cydG9Ed1FLTWRkc2lOREZwMGNQRVYxbndfaEFZYVhMNG1HNTNxdThkRHJrSXhUUmZCMk1qWkpUQW5NWXRNc1VQT2NMV2prX1p4cVRUTFZIMWppbHAzODJPYw?oc=5",
+      "source": "FOX13 Memphis",
+      "topic": "xAI",
+      "published_at": "2026-11-11T20:08:00+00:00"
+    },
+    {
       "title": "Neuralink PreStocks Exchanges NEURALINK Markets | Buy & Sell & Trade - CryptoRank",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oUGlPN3k3X0pMODZ0bUZEd0Qxc0RhMU16Rkg5OEgxbFJJYjliMXNGMjBSVXpuUnNDZHE2Q0pudjEzVzlrNUtDRGg4V3hYTm5HOWdLclBEZGpMeEkxMURVOHgweTJBZnZyT3c0?oc=5",
       "source": "CryptoRank",
       "topic": "Neuralink",
       "published_at": "2026-11-11T18:23:49+00:00"
+    },
+    {
+      "title": "MDEQ Permit Board Doubles Down on Unlawfully Flawed Permit for xAI’s Massive Colossus Gas Plant - NAACP",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWm52SExOWUFZS0lnakkwSXZZRF9Ebi1ySHZwZ1IyY3YzanlqTlNveGRJVHNJZ042V2ozZ3hqU3RDZ2lteDMtdm50VG1HSFFTUHZOUFpMU2pvZ1JpcHRKS1MyQkZzaXRjZE16ZDBDclJKOHFGS05FYTRxd1l0aU9qNEJNSUdOeWM3czJJUlA1Zk1Ea2hUdW9BY3NIVlpEcEgyLU0yLU5DQk5UN1AtWWtmSndqdmo?oc=5",
+      "source": "NAACP",
+      "topic": "xAI",
+      "published_at": "2026-11-11T12:00:00+00:00"
     },
     {
       "title": "How to Download & Use Grok (by xAI) on Your Mac As an App - Fello AI",
@@ -408,11 +415,11 @@
       "published_at": "2026-11-11T03:52:43+00:00"
     },
     {
-      "title": "Neuralink PreStocks to Russian Ruble Price Today | Live NEURALINK to RUB Converter & Exchange Rate - CryptoRank",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1LdjlaMm1NZE1jMlNSdWQ5WDNjVENpV1FfbW0tdFVwVmlhbUJUZ2g4eWRrbk1zNjFhSDBFcTViLXBuR3NSVHVjeUVjeUNENDEyZ3ZiODNQX3VYTE9naXpmdkg3NA?oc=5",
-      "source": "CryptoRank",
-      "topic": "Neuralink",
-      "published_at": "2026-11-10T23:30:13+00:00"
+      "title": "Democrats have been waiting to put Elon Musk under oath. Their chance is coming. - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMEc1ZjlyQWZqWkJ0Y3FuY0I4T2UzRFVrOWpOT1JVVlEwTTFWWURIUm1sSTRRN2R1a1BoZG1zLVVvRnhOOEdiLTRUYm5HeThkaGJHZHBWbzNYMWlXZ0JZYjM4cmJoRDh3TWNRdHN3MVRGeTVhMkhfRmxEMG1LaVFzb043ZTdyVERDa0NYU3lZZ0JDdXM4Ylhad0p2bw?oc=5",
+      "source": "NBC News",
+      "topic": "Elon Musk",
+      "published_at": "2026-11-10T17:00:40+00:00"
     },
     {
       "title": "Musk Says Neuralink Could Enable Humans to Communicate with Animals by 2028 - Convergence Now",
@@ -420,13 +427,6 @@
       "source": "Convergence Now",
       "topic": "Neuralink",
       "published_at": "2026-11-10T06:15:38+00:00"
-    },
-    {
-      "title": "Convert 0.1 ISK (Icelandic Króna) to XAI (Xai) - Bybit",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pQnl1dl9ld3dNVHhmQUIweDA5bnZkVHpVZVZEa1VkRkNrOEk3UkE1Y29JcXNUSTlwX2FlRGw0R0V6dm9vUlh4bHJxVFY2LWVaZ0h2ZFRVclZTeUNy?oc=5",
-      "source": "Bybit",
-      "topic": "xAI",
-      "published_at": "2026-11-10T02:51:46+00:00"
     },
     {
       "title": "NAACP v. xAI and the Potential Subversion of Citizen Suits - Environmental and Energy Law Program – Harvard Law School",
