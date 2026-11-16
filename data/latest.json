@@ -1,67 +1,67 @@
 {
-  "date": "2026-11-15",
-  "generated_at": "2026-11-15T02:53:24.334122+00:00",
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T02:54:10.388572+00:00",
   "method": "headline-only, not independently verified",
   "stories": [
     {
       "type": "待核实线索",
-      "title": "ChatMate: Remote Prompt Execution on AI Assistants Through Sandbox Escaping [video]",
+      "title": "Putting Task Expertise into RL Achieves SOTA Performance on Text-to-SQL",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.youtube.com/watch?v=MspRSCAb6uI",
-      "source": "www.youtube.com",
-      "date": "2026-11-15"
+      "url": "https://thinkingmachines.ai/news/putting-task-expertise-into-rl/",
+      "source": "thinkingmachines.ai",
+      "date": "2026-11-16"
     },
     {
       "type": "待核实线索",
-      "title": "Medicare's AI Experiment",
+      "title": "AI and the City",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.eff.org/deeplinks/2026/11/medicares-ai-experiment-effector-3820",
-      "source": "www.eff.org",
-      "date": "2026-11-15"
+      "url": "https://www.stripeeconomics.com/p/ai-and-the-city",
+      "source": "www.stripeeconomics.com",
+      "date": "2026-11-16"
     },
     {
       "type": "待核实线索",
-      "title": "Macula For?",
+      "title": "Qwen4-Max",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://claude.ai/artifact/2KGKuuJZsMfCu1pjq744qz#en",
-      "source": "claude.ai",
-      "date": "2026-11-15"
+      "url": "https://qwen.ai/blog?id=qwen4-max",
+      "source": "qwen.ai",
+      "date": "2026-11-16"
     },
     {
       "type": "待核实线索",
-      "title": "Multi-agent AI (LangGraph) to audit AI papers for reproducibility",
+      "title": "Show HN: AquarIum – pick your favorite (AI-generated) fish tank",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://github.com/owenpatience2010-cmyk/paperpulse",
-      "source": "github.com",
-      "date": "2026-11-15"
+      "url": "https://galleries.artfish.ai/aquarium/",
+      "source": "galleries.artfish.ai",
+      "date": "2026-11-16"
     },
     {
       "type": "待核实线索",
-      "title": "Atlas: A World Model for Spatial Intelligence",
+      "title": "Will the AI boom continue? Forecasting the trajectory of the AI industry",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://worldlabs.ai/blog/atlas",
-      "source": "worldlabs.ai",
-      "date": "2026-11-15"
+      "url": "https://forecastingresearch.substack.com/p/will-the-ai-boom-continue-forecasting",
+      "source": "forecastingresearch.substack.com",
+      "date": "2026-11-16"
     },
     {
       "type": "待核实线索",
-      "title": "AI in the Search for Extraterrestrial Life",
+      "title": "A.I. Stories in the Age of AI Hype: A Conversation with Ted Chiang",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://datarootlabs.com/blog/ai-search-extraterrestrial-life",
-      "source": "datarootlabs.com",
-      "date": "2026-11-15"
+      "url": "https://buttondown.com/charliejane/archive/ai-stories-in-the-age-of-ai-hype-a-conversation/",
+      "source": "buttondown.com",
+      "date": "2026-11-16"
     }
   ],
   "candidate_count": 12
