@@ -1,67 +1,67 @@
 {
-  "date": "2026-11-16",
-  "generated_at": "2026-11-16T02:54:10.388572+00:00",
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T05:09:12.801406+00:00",
   "method": "headline-only, not independently verified",
   "stories": [
     {
       "type": "待核实线索",
-      "title": "Putting Task Expertise into RL Achieves SOTA Performance on Text-to-SQL",
+      "title": "Last year we built megakernels. This year we deleted them: The road to TKCC",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://thinkingmachines.ai/news/putting-task-expertise-into-rl/",
-      "source": "thinkingmachines.ai",
-      "date": "2026-11-16"
+      "url": "https://www.together.ai/blog/road-to-together-compiler",
+      "source": "www.together.ai",
+      "date": "2026-11-17"
     },
     {
       "type": "待核实线索",
-      "title": "AI and the City",
+      "title": "Devi: App is live. Now find the first customers",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.stripeeconomics.com/p/ai-and-the-city",
-      "source": "www.stripeeconomics.com",
-      "date": "2026-11-16"
+      "url": "https://devi.devz.ai/signup?utm_source=hackernews&utm_medium=hnpost&utm_campaign=hnpost111326",
+      "source": "devi.devz.ai",
+      "date": "2026-11-17"
     },
     {
       "type": "待核实线索",
-      "title": "Qwen4-Max",
+      "title": "From One Sentence to a Running Pipeline",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://qwen.ai/blog?id=qwen4-max",
-      "source": "qwen.ai",
-      "date": "2026-11-16"
+      "url": "https://altertable.ai/blog/2026-11-16-from-one-sentence-to-a-running-pipeline",
+      "source": "altertable.ai",
+      "date": "2026-11-17"
     },
     {
       "type": "待核实线索",
-      "title": "Show HN: AquarIum – pick your favorite (AI-generated) fish tank",
+      "title": "Agentic AI Attacks Nobody's Talking About (Yet)",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://galleries.artfish.ai/aquarium/",
-      "source": "galleries.artfish.ai",
-      "date": "2026-11-16"
+      "url": "https://glyphzerolabs.com/blog/2026-04-17-agentic-ai-attacks/",
+      "source": "glyphzerolabs.com",
+      "date": "2026-11-17"
     },
     {
       "type": "待核实线索",
-      "title": "Will the AI boom continue? Forecasting the trajectory of the AI industry",
+      "title": "The Public Launch of SolveIt",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://forecastingresearch.substack.com/p/will-the-ai-boom-continue-forecasting",
-      "source": "forecastingresearch.substack.com",
-      "date": "2026-11-16"
+      "url": "https://www.fast.ai/posts/2026-11-16-solveit-launch/",
+      "source": "www.fast.ai",
+      "date": "2026-11-17"
     },
     {
       "type": "待核实线索",
-      "title": "A.I. Stories in the Age of AI Hype: A Conversation with Ted Chiang",
+      "title": "Show HN: Fluxtail – Centralized log search and Live Tail",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://buttondown.com/charliejane/archive/ai-stories-in-the-age-of-ai-hype-a-conversation/",
-      "source": "buttondown.com",
-      "date": "2026-11-16"
+      "url": "https://indielaunches.com/projects/prj_diyrnmfunvob-fluxtail",
+      "source": "indielaunches.com",
+      "date": "2026-11-17"
     }
   ],
   "candidate_count": 12
