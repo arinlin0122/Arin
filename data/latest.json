@@ -1,67 +1,67 @@
 {
-  "date": "2026-11-17",
-  "generated_at": "2026-11-17T05:09:12.801406+00:00",
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T04:36:39.232265+00:00",
   "method": "headline-only, not independently verified",
   "stories": [
     {
       "type": "待核实线索",
-      "title": "Last year we built megakernels. This year we deleted them: The road to TKCC",
+      "title": "AI-assisted code at scale: provenance, quality, centrality and review time",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.together.ai/blog/road-to-together-compiler",
-      "source": "www.together.ai",
-      "date": "2026-11-17"
+      "url": "https://donsbot.com/2026/11/17/ai-assisted-code-at-scale-provenance-quality-centrality-and-review-time/",
+      "source": "donsbot.com",
+      "date": "2026-11-18"
     },
     {
       "type": "待核实线索",
-      "title": "Devi: App is live. Now find the first customers",
+      "title": "Java4Shell (CVE-2026-114938): RCE in the OpenJDK Base64 decoder",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://devi.devz.ai/signup?utm_source=hackernews&utm_medium=hnpost&utm_campaign=hnpost111326",
-      "source": "devi.devz.ai",
-      "date": "2026-11-17"
+      "url": "https://mikiri.ai/attack-scenarios/java4shell/",
+      "source": "mikiri.ai",
+      "date": "2026-11-18"
     },
     {
       "type": "待核实线索",
-      "title": "From One Sentence to a Running Pipeline",
+      "title": "How \"Independent\" AI Safety Groups Are Pumping Anthropic IPO – Internet of Bugs",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://altertable.ai/blog/2026-11-16-from-one-sentence-to-a-running-pipeline",
-      "source": "altertable.ai",
-      "date": "2026-11-17"
+      "url": "https://www.youtube.com/watch?v=pyRG_5dCrfg",
+      "source": "www.youtube.com",
+      "date": "2026-11-18"
     },
     {
       "type": "待核实线索",
-      "title": "Agentic AI Attacks Nobody's Talking About (Yet)",
+      "title": "Provisioning Networks for AI Supercomputers: A Trace-Driven Study of Performance",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://glyphzerolabs.com/blog/2026-04-17-agentic-ai-attacks/",
-      "source": "glyphzerolabs.com",
-      "date": "2026-11-17"
+      "url": "https://arxiv.org/abs/2610.41700",
+      "source": "arxiv.org",
+      "date": "2026-11-18"
     },
     {
       "type": "待核实线索",
-      "title": "The Public Launch of SolveIt",
+      "title": "Engineering Vitals in the Age of AI",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.fast.ai/posts/2026-11-16-solveit-launch/",
-      "source": "www.fast.ai",
-      "date": "2026-11-17"
+      "url": "https://octopus.com/blog/engineering-vitals-in-the-age-of-ai",
+      "source": "octopus.com",
+      "date": "2026-11-18"
     },
     {
       "type": "待核实线索",
-      "title": "Show HN: Fluxtail – Centralized log search and Live Tail",
+      "title": "Disaggregated Inference from the Ground Up",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://indielaunches.com/projects/prj_diyrnmfunvob-fluxtail",
-      "source": "indielaunches.com",
-      "date": "2026-11-17"
+      "url": "https://www.cerebras.ai/blog/disaggregated-inference-from-the-ground-up",
+      "source": "www.cerebras.ai",
+      "date": "2026-11-18"
     }
   ],
   "candidate_count": 12
