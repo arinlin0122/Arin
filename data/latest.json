@@ -1,67 +1,67 @@
 {
-  "date": "2026-11-18",
-  "generated_at": "2026-11-18T04:36:39.232265+00:00",
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T04:18:15.406592+00:00",
   "method": "headline-only, not independently verified",
   "stories": [
     {
       "type": "待核实线索",
-      "title": "AI-assisted code at scale: provenance, quality, centrality and review time",
+      "title": "Turning one photo into a Goodbye GTA 5 AI video",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://donsbot.com/2026/11/17/ai-assisted-code-at-scale-provenance-quality-centrality-and-review-time/",
-      "source": "donsbot.com",
-      "date": "2026-11-18"
+      "url": "https://gta5goodbyeai.com/",
+      "source": "gta5goodbyeai.com",
+      "date": "2026-11-19"
     },
     {
       "type": "待核实线索",
-      "title": "Java4Shell (CVE-2026-114938): RCE in the OpenJDK Base64 decoder",
+      "title": "As Meta bets big on Muse AI agent, early safety mishaps surface",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://mikiri.ai/attack-scenarios/java4shell/",
-      "source": "mikiri.ai",
-      "date": "2026-11-18"
+      "url": "https://www.reuters.com/investigations/meta-bets-big-muse-ai-agent-early-safety-mishaps-surface-2026-11-18/",
+      "source": "www.reuters.com",
+      "date": "2026-11-19"
     },
     {
       "type": "待核实线索",
-      "title": "How \"Independent\" AI Safety Groups Are Pumping Anthropic IPO – Internet of Bugs",
+      "title": "Verifiable Identity for AI Agents · Agent Name Service",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.youtube.com/watch?v=pyRG_5dCrfg",
-      "source": "www.youtube.com",
-      "date": "2026-11-18"
+      "url": "https://ansinfo.ai/",
+      "source": "ansinfo.ai",
+      "date": "2026-11-19"
     },
     {
       "type": "待核实线索",
-      "title": "Provisioning Networks for AI Supercomputers: A Trace-Driven Study of Performance",
+      "title": "AI asked better questions than KPMG accountants in audit",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://arxiv.org/abs/2610.41700",
-      "source": "arxiv.org",
-      "date": "2026-11-18"
+      "url": "https://www.ft.com/content/5168b3e9-75d0-4be0-9ccd-d327d6b16c05",
+      "source": "www.ft.com",
+      "date": "2026-11-19"
     },
     {
       "type": "待核实线索",
-      "title": "Engineering Vitals in the Age of AI",
+      "title": "High-Interactivity Decode with FlyDSL MonoKernels in vLLM",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://octopus.com/blog/engineering-vitals-in-the-age-of-ai",
-      "source": "octopus.com",
-      "date": "2026-11-18"
+      "url": "https://vllm.ai/blog/2026-11-18-flydsl-monokernels",
+      "source": "vllm.ai",
+      "date": "2026-11-19"
     },
     {
       "type": "待核实线索",
-      "title": "Disaggregated Inference from the Ground Up",
+      "title": "Show HN: A Air traffic control SIM that forces you to remember how to write code",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.cerebras.ai/blog/disaggregated-inference-from-the-ground-up",
-      "source": "www.cerebras.ai",
-      "date": "2026-11-18"
+      "url": "https://github.com/shawnzam/holding-pattern",
+      "source": "github.com",
+      "date": "2026-11-19"
     }
   ],
   "candidate_count": 12
