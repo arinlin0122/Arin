@@ -1,67 +1,67 @@
 {
-  "date": "2026-11-19",
-  "generated_at": "2026-11-19T04:18:15.406592+00:00",
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T04:05:52.158595+00:00",
   "method": "headline-only, not independently verified",
   "stories": [
     {
       "type": "待核实线索",
-      "title": "Turning one photo into a Goodbye GTA 5 AI video",
+      "title": "Show HN: GhostFleet: A Battleship game with an advanced AI opponent",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://gta5goodbyeai.com/",
-      "source": "gta5goodbyeai.com",
-      "date": "2026-11-19"
+      "url": "https://ghostfleet.in/play?mode=wraithAI",
+      "source": "ghostfleet.in",
+      "date": "2026-11-20"
     },
     {
       "type": "待核实线索",
-      "title": "As Meta bets big on Muse AI agent, early safety mishaps surface",
+      "title": "You can't spell ennui without AI",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.reuters.com/investigations/meta-bets-big-muse-ai-agent-early-safety-mishaps-surface-2026-11-18/",
-      "source": "www.reuters.com",
-      "date": "2026-11-19"
+      "url": "https://12gramsofcarbon.com/p/you-cant-spell-ennui-without-ai",
+      "source": "12gramsofcarbon.com",
+      "date": "2026-11-20"
     },
     {
       "type": "待核实线索",
-      "title": "Verifiable Identity for AI Agents · Agent Name Service",
+      "title": "Stanford AI100 – One Hundred Year Study on Artificial Intelligence – 2026 Report",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://ansinfo.ai/",
-      "source": "ansinfo.ai",
-      "date": "2026-11-19"
+      "url": "https://ai100.stanford.edu/reports/2026-report",
+      "source": "ai100.stanford.edu",
+      "date": "2026-11-20"
     },
     {
       "type": "待核实线索",
-      "title": "AI asked better questions than KPMG accountants in audit",
+      "title": "PwC Is Teaching Critical Thinking to 85,000 Employees",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.ft.com/content/5168b3e9-75d0-4be0-9ccd-d327d6b16c05",
-      "source": "www.ft.com",
-      "date": "2026-11-19"
+      "url": "https://www.inc.com/minda-zetlin/pwc-is-teaching-critical-thinking-to-85000-employees-we-all-need-it-with-or-without-ai/91435254",
+      "source": "www.inc.com",
+      "date": "2026-11-20"
     },
     {
       "type": "待核实线索",
-      "title": "High-Interactivity Decode with FlyDSL MonoKernels in vLLM",
+      "title": "Nobody is talking seriously about AI demand",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://vllm.ai/blog/2026-11-18-flydsl-monokernels",
-      "source": "vllm.ai",
-      "date": "2026-11-19"
+      "url": "https://twitter.com/giovannicatt3/status/2094815425972539565",
+      "source": "twitter.com",
+      "date": "2026-11-20"
     },
     {
       "type": "待核实线索",
-      "title": "Show HN: A Air traffic control SIM that forces you to remember how to write code",
+      "title": "Dutch watchdog tells people not to buy AI smart glasses",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://github.com/shawnzam/holding-pattern",
-      "source": "github.com",
-      "date": "2026-11-19"
+      "url": "https://www.bbc.com/news/articles/ckq6eyrzrzy5o",
+      "source": "www.bbc.com",
+      "date": "2026-11-20"
     }
   ],
   "candidate_count": 12
