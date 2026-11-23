@@ -1,67 +1,67 @@
 {
-  "date": "2026-11-22",
-  "generated_at": "2026-11-22T03:18:42.643805+00:00",
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T03:51:05.391666+00:00",
   "method": "headline-only, not independently verified",
   "stories": [
     {
       "type": "待核实线索",
-      "title": "First Recorded Death \"Involving a Rectal Explosion During Self-Gratification\"",
+      "title": "How do you shortlist an agent memory system?",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.vice.com/en/article/man-dies-from-rectal-injuries-after-silly-experiment-with-compressed-air-at-work/",
-      "source": "www.vice.com",
-      "date": "2026-11-22"
+      "url": "https://agentmemories.ai/",
+      "source": "agentmemories.ai",
+      "date": "2026-11-23"
     },
     {
       "type": "待核实线索",
-      "title": "Together.ai: Prompt Leakage for Requests",
+      "title": "CRS; Taxing AI: Alternative Approaches [pdf]",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
-      "source": "www.together.ai",
-      "date": "2026-11-22"
+      "url": "https://www.everycrsreport.com/files/2026-11-18_R49520_89f5bd00177f068d1c0bfa42cffcb1cfe4d0f36c.pdf",
+      "source": "www.everycrsreport.com",
+      "date": "2026-11-23"
     },
     {
       "type": "待核实线索",
-      "title": "Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
+      "title": "YC Startup working on Cost per Kill for missiles",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+      "url": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
+      "source": "www.wired.com",
+      "date": "2026-11-23"
+    },
+    {
+      "type": "待核实线索",
+      "title": "VistaPrint applies generative AI edits to prints without consent or warning",
+      "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
+      "why": "需要阅读原文核实具体事实和影响。",
+      "action": "打开原文并记录三个关键事实。",
+      "url": "https://bsky.app/profile/mostlybree.kitrocha.com/post/3n2vxgsvrhs2q",
+      "source": "bsky.app",
+      "date": "2026-11-23"
+    },
+    {
+      "type": "待核实线索",
+      "title": "It Will Never: confident predictions and verdicts about AI [video]",
+      "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
+      "why": "需要阅读原文核实具体事实和影响。",
+      "action": "打开原文并记录三个关键事实。",
+      "url": "https://www.youtube.com/watch?v=_Zzv15cwG1A",
       "source": "www.youtube.com",
-      "date": "2026-11-22"
+      "date": "2026-11-23"
     },
     {
       "type": "待核实线索",
-      "title": "Immigration officers make arrests at Seattle airport in 'distressing' scene",
+      "title": "Dario Amodei suggests video games could pacify the masses after AI takes jobs",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://apnews.com/article/immigration-arrest-seattle-airport-ice-4748ddb6161c28853d763e835aeb31f1",
-      "source": "apnews.com",
-      "date": "2026-11-22"
-    },
-    {
-      "type": "待核实线索",
-      "title": "Wall Street Asks What Can Save AI Trade After Anthropic Wipeout",
-      "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
-      "why": "需要阅读原文核实具体事实和影响。",
-      "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-21/wall-street-asks-what-can-save-ai-trade-after-anthropic-wipeout",
-      "source": "www.bloomberg.com",
-      "date": "2026-11-22"
-    },
-    {
-      "type": "待核实线索",
-      "title": "TabPFN-4: The next step for predictive intelligence",
-      "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
-      "why": "需要阅读原文核实具体事实和影响。",
-      "action": "打开原文并记录三个关键事实。",
-      "url": "https://priorlabs.ai/technical-reports/tabpfn-4-preview",
-      "source": "priorlabs.ai",
-      "date": "2026-11-22"
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness",
+      "source": "www.theverge.com",
+      "date": "2026-11-23"
     }
   ],
   "candidate_count": 12
