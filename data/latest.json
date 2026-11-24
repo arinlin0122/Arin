@@ -1,67 +1,67 @@
 {
-  "date": "2026-11-23",
-  "generated_at": "2026-11-23T03:51:05.391666+00:00",
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T06:59:29.060108+00:00",
   "method": "headline-only, not independently verified",
   "stories": [
     {
       "type": "待核实线索",
-      "title": "How do you shortlist an agent memory system?",
+      "title": "AI tutoring outperforms in-class active learning",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://agentmemories.ai/",
-      "source": "agentmemories.ai",
-      "date": "2026-11-23"
+      "url": "https://www.nature.com/articles/s41598-025-97652-6",
+      "source": "www.nature.com",
+      "date": "2026-11-24"
     },
     {
       "type": "待核实线索",
-      "title": "CRS; Taxing AI: Alternative Approaches [pdf]",
+      "title": "Can an LLM Grade Objective Facts Without Favoring Itself?",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.everycrsreport.com/files/2026-11-18_R49520_89f5bd00177f068d1c0bfa42cffcb1cfe4d0f36c.pdf",
-      "source": "www.everycrsreport.com",
-      "date": "2026-11-23"
+      "url": "https://blog.logcat.ai/2026/11/23/can-an-llm-grade-objective-facts-without-favoring-itself/",
+      "source": "blog.logcat.ai",
+      "date": "2026-11-24"
     },
     {
       "type": "待核实线索",
-      "title": "YC Startup working on Cost per Kill for missiles",
+      "title": "Google has uncovered an autonomous AI cyber attack",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
-      "source": "www.wired.com",
-      "date": "2026-11-23"
+      "url": "https://mashable.com/tech/google-says-first-autonomous-ai-cyberattack-has-happened",
+      "source": "mashable.com",
+      "date": "2026-11-24"
     },
     {
       "type": "待核实线索",
-      "title": "VistaPrint applies generative AI edits to prints without consent or warning",
+      "title": "Crowdsrike Acquires Zscaler",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://bsky.app/profile/mostlybree.kitrocha.com/post/3n2vxgsvrhs2q",
-      "source": "bsky.app",
-      "date": "2026-11-23"
+      "url": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html",
+      "source": "www.cnbc.com",
+      "date": "2026-11-24"
     },
     {
       "type": "待核实线索",
-      "title": "It Will Never: confident predictions and verdicts about AI [video]",
+      "title": "Google Wants to Make a 24/7 AI TV Channel. You'll Be the Main Character",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.youtube.com/watch?v=_Zzv15cwG1A",
-      "source": "www.youtube.com",
-      "date": "2026-11-23"
+      "url": "https://www.404media.co/google-wants-to-make-a-24-7-ai-tv-channel-youll-be-the-main-character/",
+      "source": "www.404media.co",
+      "date": "2026-11-24"
     },
     {
       "type": "待核实线索",
-      "title": "Dario Amodei suggests video games could pacify the masses after AI takes jobs",
+      "title": "PGAIBench and AAA: can AI safely change production Postgres?",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness",
-      "source": "www.theverge.com",
-      "date": "2026-11-23"
+      "url": "https://postgres.ai/blog/20261123-pgaibench",
+      "source": "postgres.ai",
+      "date": "2026-11-24"
     }
   ],
   "candidate_count": 12
