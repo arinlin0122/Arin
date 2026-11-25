@@ -1,67 +1,67 @@
 {
-  "date": "2026-11-24",
-  "generated_at": "2026-11-24T06:59:29.060108+00:00",
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T05:31:57.605253+00:00",
   "method": "headline-only, not independently verified",
   "stories": [
     {
       "type": "待核实线索",
-      "title": "AI tutoring outperforms in-class active learning",
+      "title": "Dutch data protection authority advises against purchasing AI camera glasses",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.nature.com/articles/s41598-025-97652-6",
-      "source": "www.nature.com",
-      "date": "2026-11-24"
+      "url": "https://autoriteitpersoonsgegevens.nl/en/current/ap-advises-against-purchasing-ai-camera-glasses-serious-risks-for-users-and-bystanders",
+      "source": "autoriteitpersoonsgegevens.nl",
+      "date": "2026-11-25"
     },
     {
       "type": "待核实线索",
-      "title": "Can an LLM Grade Objective Facts Without Favoring Itself?",
+      "title": "Series F",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://blog.logcat.ai/2026/11/23/can-an-llm-grade-objective-facts-without-favoring-itself/",
-      "source": "blog.logcat.ai",
-      "date": "2026-11-24"
+      "url": "https://sierra.ai/blog/series-f-30b",
+      "source": "sierra.ai",
+      "date": "2026-11-25"
     },
     {
       "type": "待核实线索",
-      "title": "Google has uncovered an autonomous AI cyber attack",
+      "title": "US Army plans to detonate an Iowa ammo plant, leading to airbourne lead plume",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://mashable.com/tech/google-says-first-autonomous-ai-cyberattack-has-happened",
-      "source": "mashable.com",
-      "date": "2026-11-24"
+      "url": "https://www.centredaily.com/news/nation-world/national/article318231892.html",
+      "source": "www.centredaily.com",
+      "date": "2026-11-25"
     },
     {
       "type": "待核实线索",
-      "title": "Crowdsrike Acquires Zscaler",
+      "title": "Strix Halo AI Toolboxes",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html",
-      "source": "www.cnbc.com",
-      "date": "2026-11-24"
+      "url": "https://strix-halo-toolboxes.com/",
+      "source": "strix-halo-toolboxes.com",
+      "date": "2026-11-25"
     },
     {
       "type": "待核实线索",
-      "title": "Google Wants to Make a 24/7 AI TV Channel. You'll Be the Main Character",
+      "title": "Finetuning models 6x cheaper than Tinker",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.404media.co/google-wants-to-make-a-24-7-ai-tv-channel-youll-be-the-main-character/",
-      "source": "www.404media.co",
-      "date": "2026-11-24"
+      "url": "https://nextron.physionlabs.ai/",
+      "source": "nextron.physionlabs.ai",
+      "date": "2026-11-25"
     },
     {
       "type": "待核实线索",
-      "title": "PGAIBench and AAA: can AI safely change production Postgres?",
+      "title": "Journal proofing AI heavily alters researcher's accepted paper without tracking",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://postgres.ai/blog/20261123-pgaibench",
-      "source": "postgres.ai",
-      "date": "2026-11-24"
+      "url": "https://bsky.app/profile/yungenchee.bsky.social/post/3n325cjuhxk2g",
+      "source": "bsky.app",
+      "date": "2026-11-25"
     }
   ],
   "candidate_count": 12
