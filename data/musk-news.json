@@ -1,47 +1,75 @@
 {
   "schema_version": 1,
-  "attempted_at": "2026-11-24T22:27:09.327956+00:00",
-  "last_success_at": "2026-11-24T22:27:09.327956+00:00",
+  "attempted_at": "2026-11-25T08:35:09.148419+00:00",
+  "last_success_at": "2026-11-25T08:35:09.148419+00:00",
   "status": "ok",
   "sources": [
     {
       "topic": "Elon Musk",
       "url": "https://news.google.com/rss/search?q=%22Elon+Musk%22+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "last_success_at": "2026-11-24T22:27:09.327956+00:00"
+      "last_success_at": "2026-11-25T08:35:09.148419+00:00"
     },
     {
       "topic": "xAI",
       "url": "https://news.google.com/rss/search?q=%22xAI%22+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "last_success_at": "2026-11-24T22:27:09.327956+00:00"
+      "last_success_at": "2026-11-25T08:35:09.148419+00:00"
     },
     {
       "topic": "Tesla",
       "url": "https://news.google.com/rss/search?q=%22Tesla%22+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "last_success_at": "2026-11-24T22:27:09.327956+00:00"
+      "last_success_at": "2026-11-25T08:35:09.148419+00:00"
     },
     {
       "topic": "SpaceX",
       "url": "https://news.google.com/rss/search?q=%22SpaceX%22+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "last_success_at": "2026-11-24T22:27:09.327956+00:00"
+      "last_success_at": "2026-11-25T08:35:09.148419+00:00"
     },
     {
       "topic": "Neuralink",
       "url": "https://news.google.com/rss/search?q=%22Neuralink%22+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "last_success_at": "2026-11-24T22:27:09.327956+00:00"
+      "last_success_at": "2026-11-25T08:35:09.148419+00:00"
     }
   ],
   "items": [
     {
-      "title": "Tesla-SpaceX Merger: Five Directors Named to Negotiate $3.6T Deal - BASENOR - Tesla Accessories",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONjdvOVNYMDBITm1aMFowb01hLWQzcndBRkxkYllTUUFRYVB1VlA5bUM1bWdxZHFLNEFJMHhOSjBVbFI3SklSTFhMU0tSc0JKdUoxckM4a0ZPc1Raamx4SnpLWmtGRDB1aXZtdks0dWtQQzFYNFlDYVNxWEFDZDlVbHpRbGFRcUhRdWJpVVJycVpnZjNsVG1TZjV6bHlPbjQ?oc=5",
-      "source": "BASENOR - Tesla Accessories",
+      "title": "Neuralink Brain Implant Allows Participant With Paralysis to Play GTA 6 - ColombiaOne.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMWlGcWdzdzEyMll2TU9pazhHbFFGajNPQ1Q4SGNET3IyR1dUbkRaclRnZG5FOWlEUkxJaWE0RDhnQk9vVkxLdWViR2VMaEtZWTd3Mmt0bERjVUdLNy11TUwtajZPekdTYWhFam5PZkQ0eFMxRWJLLVk1SE9IaG5peg?oc=5",
+      "source": "ColombiaOne.com",
+      "topic": "Neuralink",
+      "published_at": "2026-11-25T00:30:00+00:00"
+    },
+    {
+      "title": "Tesla-SpaceX Merger: The AI Logic, Valuation Math, and Risks - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAyWjJfbG1QVklLakxQYmxta19aS0Voc1JBZUF6aGc5YUhGUS1CVWc1NW1LZXF5U3lYSVROMWJEUDNSb182dXFPV0JOT3AwVjJfaTR4SWVjS0NaZ3c1Sko1eEZ6TVQtQ2pUZlppVzZyZEY0UFozU1FnRzVjVk0?oc=5",
+      "source": "Barron's",
       "topic": "Tesla",
-      "published_at": "2026-11-24T17:07:04+00:00"
+      "published_at": "2026-11-24T21:23:00+00:00"
+    },
+    {
+      "title": "Three xAI co-founders launch Epochal to teach AI to predict the future - The Next Web",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51WmVFakRuTTlobWV4OUQzTTdHd3NYbDRpRmRuZU04bVRkVkp1RlZ6RldzUFJrZFNRVjlram9xVC1VbEFkYXdFX3dyQzlkcGNKZlh0MjQwMFhMOWE2U3BRWEhfZV8yU1lGc3dReHBaTG1INmhhaEN1ZVVsNGx1eVU?oc=5",
+      "source": "The Next Web",
+      "topic": "xAI",
+      "published_at": "2026-11-24T20:11:36+00:00"
+    },
+    {
+      "title": "Possible Tesla merger could aid SpaceX's S&P 500 entry, ⁠J.P. Morgan says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeF9US0dlUFQ3RDhYOXdRbUlzYkJOQlhGdWdVTm02VjVUbkVlRFIxb0F5RFZNTEZTRndBcXcxWGtYa2lfTTAtTjJSN1MwSFRSYXdDSGJuM3RRSnlDTVZwVk1nNTJmeDdKUEp1VDd4enBsR2FTcG5uR3g1Z3lYLWdickFodnd5Q1pVejM1OTJ5cE5oZDBWdUE4c2F0bktTVlRNY185LThMaENJVWNpbG1IUERZbnJCMER2R2p0NQ?oc=5",
+      "source": "Reuters",
+      "topic": "SpaceX",
+      "published_at": "2026-11-24T17:45:22+00:00"
+    },
+    {
+      "title": "Elon Musk asks US appeals court to throw out Twitter fraud verdict - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY2RYYWp5emZ0cUZ0dVRlUWpfYlpWV0FoOE92VVM1bkNhalo3ejViOENfTnVOMmpVRG5pX1JJMWNMZzJpUmdMdnhuVDd2VlFXT2JBZkZEaGFieUZISTZ3TUF3TGkwRzY0MHlPLWk3eHBBbGRoZVkzeGJ1NjItekh0M24taDVqd2lyT1dQRWlaeVZ6YzJUVERUODNKanNGc2ZjQ0cyRFZkZjhORG9wRU1kcTR1Z3hqYVlYVlh5VGdzMA?oc=5",
+      "source": "Reuters",
+      "topic": "Elon Musk",
+      "published_at": "2026-11-24T17:38:54+00:00"
     },
     {
       "title": "XAI Founders Unveil New AI Startup to Predict Future Events - Bloomberg.com",
@@ -79,13 +107,6 @@
       "published_at": "2026-11-24T13:22:48+00:00"
     },
     {
-      "title": "Tesla Was Supposed To Be Losing Europe. The Data Says Otherwise - InsideEVs",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5UXlPRmFOX0ZScVZ3dzJiWWUxdWgtd1JwV01veXhTTk1DSnJ1dU5GX0ZZNmpKd2o5akxuRmJ6N0trckItSEV1T0RsRGNxUlVYZElUU3VHYTBNLVliVU0zLUxKUml4V2dyTzNQUmsxeXFsQQ?oc=5",
-      "source": "InsideEVs",
-      "topic": "Tesla",
-      "published_at": "2026-11-24T12:45:35+00:00"
-    },
-    {
       "title": "Former Neuralink Co-Founder Max Hodak’s Science Corp. Raises $400M Series D - citybiz",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVkdoSFlvNzcwRVg2ZGhYTGlhekJMQ0d2VGtXcDdKX1NzaUJXSk1nazBOSnNhVG1RZlk3clBVOHZWVXNuUjdhUUkydHZ2a3JSSjdfYWdQOXYyakhjYkVMU29hNGRrLTRQY2RDSzJoWTVVTDRobFhlT2FZTTlkaUNjWjFiZ2hVMVEzc2pZQVhFNVJ5STd1azBxV1FGYk5fdW9MUUV0ZEk1bDM1T0l2RG01SQ?oc=5",
       "source": "citybiz",
@@ -93,11 +114,11 @@
       "published_at": "2026-11-24T11:04:05+00:00"
     },
     {
-      "title": "SpaceX, Tesla appoint five directors to guide merger talks, FT reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQXlLNG9FZFJ0SjJ6YmxybS03UEdTTDZuMUpzQ1pHdmZQUG1WRVdMRktKZ3ptRVVCNXkxdm92eEVBZ0N5c0pDemw5M3NOLUpxWV9tZHdQRWtJM2NnQnZZZVljOEtaRjQzdlRDR2hjM2VIWU9MZS12QmkwbDkyUl9mNGxRRUk4WW5IVm1QVWJuQWhyYS1jN1FMQzBmOHdhLWhTMjRHUnJhOVplSnY4Nm9YMmNfUHdqbms?oc=5",
-      "source": "Reuters",
-      "topic": "SpaceX",
-      "published_at": "2026-11-24T05:20:00+00:00"
+      "title": "What Happens If Tesla and SpaceX Merge? - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdXZRaENpdlpvV3NfYlRTY3BXT0gxLVQyQmV6SHBNVFlDb21qdzg0T0E0VklOaXRpQmh3ay1wR0gzYlBqc1gyLWFDSXl3dVJ4cXJLSG0zVkl0aE9IYm4wazBUcGp6ZVZzNGc4U2tpNlc2X1FoTTEtdmhuZ1lkQXhSZmZPUTg?oc=5",
+      "source": "Morningstar",
+      "topic": "Tesla",
+      "published_at": "2026-11-24T07:07:02+00:00"
     },
     {
       "title": "Tesla wants to remove the steering wheel from its best-selling car - USA Today",
@@ -114,18 +135,11 @@
       "published_at": "2026-11-24T02:03:06+00:00"
     },
     {
-      "title": "Live coverage: SpaceX to launch classified payload for the U.S. Space Force - Spaceflight Now",
+      "title": "SpaceX launches classified payload for the U.S. Space Force - Spaceflight Now",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcy1uWmpNVXJlZTFGVHlxQUNqSG1nRllpUnBTVWh2d2RZWUVqWF9oVlBEeW9KU0s2YUNQTk41ejFJLTlxMGJhZDA5QjVjZ2lYVmxmR0NwcUtHUHBxb0RpTEFNSm5XWGJEenlha05RYXlXSmVZdDEwaU1vdklmZlZITW1iSUdMUi03bFJwOWJDQ2JibmVPR09LXzRnc0NOVGVCZ1l3WU5udnpFT2FRMElKUm5KZy0?oc=5",
       "source": "Spaceflight Now",
       "topic": "SpaceX",
       "published_at": "2026-11-23T22:21:32+00:00"
-    },
-    {
-      "title": "Virginia AG sues SpaceX, X and xAI over Grok explicit AI images - FOX 5 DC",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10OW10YjA4Q2hVN18yLTVBSlpHX3FEZ1NnYTI2WTQza3c2SktMel8xMmxXZmVOS1NHX0VBVUN3a3JiNUxDNFlESEt5S1lOM1hKeTRacFhfNExncFZhRmfSAWNBVV95cUxOM2VweTZEdm5mQWhwYlQzX3doYzRYNHNZdmtLVWdUTzhxMmJLWGhiMjFBNTE1RkxJbXVBYVFMQktmYkpKSXRBUlc3cnJ3YzJjeTJNbGZJOU0ycHQyWGRkRzBsSmc?oc=5",
-      "source": "FOX 5 DC",
-      "topic": "xAI",
-      "published_at": "2026-11-23T22:07:22+00:00"
     },
     {
       "title": "Tesla’s Latest Edition of Its Driver-Assistance Software Now Looks Like a Video Game - Car and Driver",
@@ -149,6 +163,13 @@
       "published_at": "2026-11-23T18:47:59+00:00"
     },
     {
+      "title": "Elon Musk's xAI is now officially called SpaceXAI - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTRmNNM04yOWlnVk9mRUQ0NW5OZHlZX2dsNTIzNnRTcWlRMVdBVnR5ZmFrWmJrN0ptSnBfYnlzYWdPTjVOaEdIQXh3cmtTRHB3elhTRFVB?oc=5",
+      "source": "Mashable",
+      "topic": "xAI",
+      "published_at": "2026-11-23T17:45:00+00:00"
+    },
+    {
       "title": "Oregon and Virginia AGs sue xAI and X over Grok’s failure to stop CSAM - KTVZ",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObmxWREVqN1NkR3FaWXlYZFdEMkpPQlJ6NVBXSjQ5MVMtclFHZnhXVUkyRW1ZNU5xeVVJT3FqSzRLXzY3Q2RlM1ZCZ2FXaW9STUpNUDAyalU0S2p4bXo3OTMwNW50REtqQTZYNmhhUnkxVzQ2VEwxRDMyMzBrZTlNOHRqRHlYVkhGdFNVZG9qc2lnaG5OUjJHS2pydUZOc2FBLTVidEFn?oc=5",
       "source": "KTVZ",
@@ -156,32 +177,11 @@
       "published_at": "2026-11-23T17:00:40+00:00"
     },
     {
-      "title": "Tesla Leaps 13%, Retakes Key Levels. New FSD Update Announced. - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRklMYUtseGRNMjJBTmk0V3Fnbjl6M0xfY0JTOHVYVGczeVpzeVNNb2gyUEhsXzNwaE5CcV9YZWx2ZUxfdWQtQjJDVl9ibHBKc1Z4c0hkbFhHenBscE81eUpGb2tiTGVEcmVEMWJsYm9FN2pDU0NRaVExdzZaV2JNRU5tZ0hpSFo0NHdFM2Rna0dVc3VpR094U2ZITko3SF9PV0RiMzBYZVREVTJF?oc=5",
-      "source": "Investor's Business Daily",
-      "topic": "Tesla",
-      "published_at": "2026-11-23T16:29:00+00:00"
-    },
-    {
-      "title": "Musk’s xAI Sued by Virginia, Oregon Over Deepfake AI Porn Claims - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa2JjWThXWVJfZlNSbUEta1A1UGdPVm10RVJ2Y19hVjlLYklsalJlWVVpLUZtSHdkaTg4Y2lPeGZrMTduNjVmRXpKdmZKSnFFR1p6ekxfeUFkN3BraWVPczlDaGRRTVdja1NTY3dmVzIzS1Q2SF9mOW1jUWFlcDJScW9kTGZUMXVWWGwycGNNTmdSbmxEMUFzREViNzljYlZxcWk1aFR4UUJub0ItSWEteWV0QWM?oc=5",
-      "source": "Bloomberg.com",
-      "topic": "xAI",
-      "published_at": "2026-11-23T16:20:57+00:00"
-    },
-    {
       "title": "Elon Musk Faces an A.I. Dilemma at SpaceX - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMGl5dzhJZEtScFQxVzh3VVUzM1RpcXhMd1lFd1A4WkpVbGNhNmxQMEt1cDJZbG1mX20yLTk4Rnd4UW9UX244YThfOGptdThRNjhxcklRdnNwOExyellLU3ZKYzdtbXQyN1BSajNqcEFpTjFBalhRV2ZpaF8xejYxcFp3bWQ?oc=5",
       "source": "The New York Times",
       "topic": "Elon Musk",
-      "published_at": "2026-11-23T16:13:32+00:00"
-    },
-    {
-      "title": "SpaceX Sued By Oregon and Virginia Over A.I.-Generated Sexualized Images - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYmEzNUJMQjNfazhneTBxQ1dpNmJVOXBHRFRXWWhKelFVaDlNTjFMMDNycGpOTkJuX0lRNEZnSDVycThMZ185Tl9peUFRdWZST29tRTJtQ0ZkaV9NSjJxblNFbnloRnJ0cVpRcDBUVi1NcW9vc0NqdWdxbnZoSjBkLUI0ZDFzYzBpQnQ2eFZ2OA?oc=5",
-      "source": "The New York Times",
-      "topic": "SpaceX",
-      "published_at": "2026-11-23T13:40:06+00:00"
+      "published_at": "2026-11-23T16:13:33+00:00"
     },
     {
       "title": "SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims - CNBC",
@@ -205,13 +205,6 @@
       "published_at": "2026-11-23T11:00:00+00:00"
     },
     {
-      "title": "Neuralink participant plays GTA 6 without a controller using nothing but his thoughts - TweakTown",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVlFKaHpTR0g2NldKTGZ3NDhJdmJHUHhHTHJSSVRkSVpoYUIwZ2ZRSzZtMGZsZHgtZzhITlE2U2h3eDd6ZzFQSkRPTk1PSWUwQmsxenh0LWl1ajNLclBfS09BbTUtS19keDFMZ1UzbERjQmZoeEZHMEFoN205eTF6WHBydTRaTko3V2RlTTFKRnpTXzdhME9ldW5XUk5nRE9ib2YzN1NuX2lWb2JUM3ZUbmxsYUZwQTlBWkZ4WW1Bb1VhWVctaFN6LWNtY0RtRW8?oc=5",
-      "source": "TweakTown",
-      "topic": "Neuralink",
-      "published_at": "2026-11-23T10:40:05+00:00"
-    },
-    {
       "title": "Seniors embrace Tesla automated driving technology despite questions about safety - NPR",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTU5SSG1aeEtZa1d3MUZ4clc0NE43QW15aXhrUXZtNzJyU0N5UUE1QnNuVkJ5dnNoLVFtZjNsLV8zTnRpZWdscTNEYXhCcnkxdTdsTlN3QmdLazZlZURUTmhRSkwtcy15RnZRUzVlQi0wVWFMNXY1ZVJJWlluOE55RmkxSGZIXzlYdlc3VjZDVDBvQi1P?oc=5",
       "source": "NPR",
@@ -224,6 +217,13 @@
       "source": "Britannica",
       "topic": "xAI",
       "published_at": "2026-11-23T08:00:00+00:00"
+    },
+    {
+      "title": "SpaceX - Britannica",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4zcHd5YjFSa1NCb3ZueFJhWXBiV2RDdU51UUpjQ2ZlVGxuTVBFV24wN1BuUTlpZ3g2TjJEVWRDVXdPcTF3eVU2WnBRaFpuU3Js?oc=5",
+      "source": "Britannica",
+      "topic": "SpaceX",
+      "published_at": "2026-11-23T04:06:00+00:00"
     },
     {
       "title": "SpaceX launches 2 rockets from same pad 32 hours apart, smashing turnaround record (video) - Space",
@@ -266,6 +266,13 @@
       "source": "Tom's Hardware",
       "topic": "Neuralink",
       "published_at": "2026-11-22T14:49:48+00:00"
+    },
+    {
+      "title": "Tesla FSD v15 to go wide release with the 2026 Holiday Update and mind-bending reality renders in December, says Musk - Tesla Oracle",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbkp2TDdraUVjbUVzcmdFRnU0LXAtai1rNmJtTW1sYmtyWkY4aXBuZXBRLVFON0RDSERidnRvTzFRcXoxdnF5UHZSX21FcGJNUnBwbW5kMTB2R2l6Z0c3NzBzUHl1RzBmTjhsY3cxRXZVZjZhZ0xOblhiZWtQSWlaSDl5Sk56N3hZdjBDWjJLNTdZQW12VGo1aXB6MnhlRDdpY0JWN3h2WkJkMWMwdjNwRm40YjVYT2dpbEIycDNhYTNMQl94d2otV2xCSXZEOUNUdjE1RFdRZzhDdl9PdlJrZGx4UDhzbk91SGItNA?oc=5",
+      "source": "Tesla Oracle",
+      "topic": "Tesla",
+      "published_at": "2026-11-21T19:16:07+00:00"
     },
     {
       "title": "Neuralink Participant Showcases What It's Like to Play GTA 6 With His Mind - IGN",
@@ -315,13 +322,6 @@
       "source": "NDTV",
       "topic": "Neuralink",
       "published_at": "2026-11-21T12:32:59+00:00"
-    },
-    {
-      "title": "Tesla, Inc. | History, Cars, Elon Musk, & Headquarters - Britannica",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DYzB5d29UTWVKVDdpTnNETGVGbGozWUk5aU9WckoxQW5KNWdhdS1WcG9XcnV2TzBRWlQta3M3d19TTWZUalVOSnVFajZ0YlhNbXZnYjBsaU0?oc=5",
-      "source": "Britannica",
-      "topic": "Tesla",
-      "published_at": "2026-11-21T10:13:00+00:00"
     },
     {
       "title": "Ashlee Vance's 10,000-word LIFE cover story takes readers inside Neuralink through Patient 1, Noland Arbaugh - Dealroom",
@@ -380,13 +380,6 @@
       "published_at": "2026-11-20T18:59:00+00:00"
     },
     {
-      "title": "Italy gives green light to Tesla self-driving system ahead of EU approval - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYUs2dGZKcXM0TldoNEJPdjNSbzVQMVB0UkpkTzhreFpwc2VuRjUteDZ2TzNtTGhNZDZkSEd4RTdFMzVsWkxpTWRDOTRzWVNpSlVXOVNkVlVYZU93ZzQ1aGVVUklHdUpLbWxuME1rWEU3WEFkUkgxa3E2TXkwdllpLVNPMjVKYVREV0NRVlFaRjJWQU1KMUxrX2hGRlZiZnJhQ3pLMlpTMk5XMDB5RWc?oc=5",
-      "source": "Reuters",
-      "topic": "Tesla",
-      "published_at": "2026-11-20T18:25:43+00:00"
-    },
-    {
       "title": "Don’t Sell Tesla Stock. A Merger Is Coming. - Barron's",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tcWZUMmlkYmtfMXFMWVc5Q2FBYzlKUURFRzhBeGh1aHFhU09lZU1uVzktVUQwTks3N00xd3lIR3dVOHI1VXdyRU1lcE4wVEtHNmJ3MXJpQ3h5Mjhza1ZuZ0RULTZUNjJDeG1uT3VNTi00S04tbGc?oc=5",
       "source": "Barron's",
@@ -441,6 +434,13 @@
       "source": "Spaceflight Now",
       "topic": "SpaceX",
       "published_at": "2026-11-19T23:51:47+00:00"
+    },
+    {
+      "title": "Tesla Wedged Beneath Highway 101 Guardrail in Carpinteria - The Santa Barbara Independent",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSmN4S0FBb3owZjRRemdZNm96eHVMUXJlb3pkSnZqbTJrcGZlMG9iRnZfbU8zV2FVYllYVDdMR19PY0hBQ3YzWDE2Z0QzY1pTRW9PX1l1M1JGT0NSdi1Ua21wTXZxY1l4YXNQZkNJY2liWnhhSHB1Nk8tMWlSUm5WVE9uaWVwazdEZDlyZFBRMzVBbmgzcEdHR0taNnRXdw?oc=5",
+      "source": "The Santa Barbara Independent",
+      "topic": "Tesla",
+      "published_at": "2026-11-19T21:52:34+00:00"
     },
     {
       "title": "CPI | Musk’s xAI Faces Skeptical US Judges Over California AI Disclosure Law - PYMNTS.com",
