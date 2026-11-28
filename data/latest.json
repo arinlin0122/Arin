@@ -1,67 +1,67 @@
 {
-  "date": "2026-11-27",
-  "generated_at": "2026-11-27T05:12:10.741522+00:00",
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T04:47:46.776698+00:00",
   "method": "headline-only, not independently verified",
   "stories": [
     {
       "type": "待核实线索",
-      "title": "Norse Atlantic Airways Collapses – Wages Unpaid, All Flights Canceled",
+      "title": "What It Takes to Let AI Agents Work While You Walk Away",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://loyaltylobby.com/2026/11/26/norse-atlantic-airways-collapses-wages-unpaid-all-flights-canceled-aircraft-back-at-their-bases/?omhide=true",
-      "source": "loyaltylobby.com",
-      "date": "2026-11-27"
+      "url": "https://ivankahl.com/blog/what-it-takes-to-let-ai-agents-work-while-you-walk-away/",
+      "source": "ivankahl.com",
+      "date": "2026-11-28"
     },
     {
       "type": "待核实线索",
-      "title": "Show HN: AshuTeacher – Free AI tutor, voice blackboard and thesis studio",
+      "title": "What Happens When AI Aligns Itself?",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://ashuteacher.vercel.app",
-      "source": "ashuteacher.vercel.app",
-      "date": "2026-11-27"
+      "url": "https://www.rameznaam.com/p/what-happens-when-ai-aligns-itself",
+      "source": "www.rameznaam.com",
+      "date": "2026-11-28"
     },
     {
       "type": "待核实线索",
-      "title": "Doctors, beware: AI threatens to weaken your relationships with patients",
+      "title": "Quick Take: AMD's Helios as a Plug-and-Play AI Appliance Standard",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.aamc.org/news/doctors-beware-ai-threatens-weaken-your-relationships-patients",
-      "source": "www.aamc.org",
-      "date": "2026-11-27"
+      "url": "https://www.microprocessorreport.com/p/quick-take-amds-helios-appliance",
+      "source": "www.microprocessorreport.com",
+      "date": "2026-11-28"
     },
     {
       "type": "待核实线索",
-      "title": "Beating Stockfish 18 in Zero- Dependency Rust with AI [pdf]",
+      "title": "AI micro dramas turn China's entertainment industry on its head",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://github.com/deedy/chess-chatarunga/blob/main/docs/paper.pdf",
-      "source": "github.com",
-      "date": "2026-11-27"
+      "url": "https://www.abc.net.au/news/2026-11-28/ai-microdramas-disrupt-china-entertainment-industry/107421952",
+      "source": "www.abc.net.au",
+      "date": "2026-11-28"
     },
     {
       "type": "待核实线索",
-      "title": "Show HN: Gmbrank – Google Business Profile rank tracking with geo-grid maps",
+      "title": "Trending Open-Source Software · Opensourcesoftware.ai",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://gmbrank.ai",
-      "source": "gmbrank.ai",
-      "date": "2026-11-27"
+      "url": "https://opensourcesoftware.ai",
+      "source": "opensourcesoftware.ai",
+      "date": "2026-11-28"
     },
     {
       "type": "待核实线索",
-      "title": "The Singularity Clock",
+      "title": "Frontier models need only one text to unmask its human or AI author",
       "summary": "根据新闻标题发现的最新线索，尚未阅读全文。",
       "why": "需要阅读原文核实具体事实和影响。",
       "action": "打开原文并记录三个关键事实。",
-      "url": "https://www.singularityclock.ai/",
-      "source": "www.singularityclock.ai",
-      "date": "2026-11-27"
+      "url": "https://arxiv.org/abs/2611.26216",
+      "source": "arxiv.org",
+      "date": "2026-11-28"
     }
   ],
   "candidate_count": 12
